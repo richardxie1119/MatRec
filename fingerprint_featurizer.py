@@ -31,10 +31,11 @@ def main():
 			name_ = names.replace('/POSITIONS_2016/struct_comp_DB/DB/','').split('/')[-1]
 
 			#name_list.append(names.replace('/POSITIONS_2016/struct_comp_DB/DB/','').split('/')[-1])
-			vec_dict[name_] = feat_i
+			#vec_dict[name_] = feat_i
 
-			with open(save_dir+'/{}.pkl'.format(name_), 'wb') as f:
-	    		pickle.dump(feat_i, f)
+			# with open(save_dir+'/{}.pkl'.format(name_), 'wb') as f:
+	    	# 	pickle.dump(feat_i, f)
+	    	np.save(save_dir+'/{}.npy'.format(name_),feat_i)
 
 		except: 
 			#print('Failure:', names)
