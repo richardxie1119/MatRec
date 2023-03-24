@@ -16,7 +16,7 @@ def main():
 	vec_dict = {}
 	feat = SiteStatsFingerprint.from_preset("CrystalNNFingerprint_ops")
 	fail_names = []
-	names_all = list(iglob('./POSITIONS_2016/struct_comp_DB/DB/*/*'))
+	names_all = list(iglob('../POSITIONS_2016/struct_comp_DB/DB/*/*'))
 	save_dir = '../fingerprints'
 
 	for names in tqdm(names_all):
@@ -28,15 +28,15 @@ def main():
 			# featurize the pymatgen structure
 			feat_i = feat.featurize(strc)
 			#vect_list.append(feat_i)
-			name_ = names.replace('/POSITIONS_2016/struct_comp_DB/DB/','').split('/')[-1]
+			name_ = names.replace('../POSITIONS_2016/struct_comp_DB/DB/','').split('\\')[-1]
 
 			#name_list.append(names.replace('/POSITIONS_2016/struct_comp_DB/DB/','').split('/')[-1])
 			#vec_dict[name_] = feat_i
 
 			# with open(save_dir+'/{}.pkl'.format(name_), 'wb') as f:
-	    	# 	pickle.dump(feat_i, f)
-	    	np.save(save_dir+'/{}.npy'.format(name_),feat_i)
-
+			# 	pickle.dump(feat_i, f)
+			np.save(save_dir+'/{}.npy'.format(name_),feat_i)
+			
 		except: 
 			#print('Failure:', names)
 			fail_names.append(names)
