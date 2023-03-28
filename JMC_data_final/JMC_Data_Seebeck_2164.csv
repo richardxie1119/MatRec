@@ -1,0 +1,2165 @@
+,sorted_name,Model,Model_Type,Specifier,Value,Temperature_Value,Value_Average,Temperature_Average
+16064,GeSi,Seebeck,,Seebeck coefficient,"[0.0003, 0.00039999999999999996]",[873.0],0.00035000000000000005,873.0
+16065,GeSi,Seebeck,,Seebeck coefficient,"[0.00019999999999999998, 0.00039999999999999996]",[873.0],0.00030000000000000003,873.0
+16066,CuS,Seebeck,,S,[1.91e-06],[293.0],1.91e-06,293.0
+16067,SbZn,Seebeck,,Seebeck coefficient,[0.000196],[295],0.000196,295.0
+16069,GeTe,Seebeck,,Thermoelectric power,"[3.5e-05, 7.999999999999999e-05]",[300.0],5.75e-05,300.0
+16070,GeTe,Seebeck,,S,[0.00016999999999999999],[300.0],0.00016999999999999999,300.0
+16072,Ag30Ca300Co397O900,Seebeck,,S,[9.499999999999999e-05],[300.0],9.5e-05,300.0
+16073,BOS,Seebeck,,Seebeck coefficient,[5.8899999999999995e-05],[820.0],5.89e-05,820.0
+16074,BOS,Seebeck,,S,[5.8899999999999995e-05],[820.0],5.89e-05,820.0
+16075,BOS,Seebeck,,S,[5.8899999999999995e-05],[820.0],5.89e-05,820.0
+16076,CuFeO2,Seebeck,,thermoelectric power,[0.0006],[295],0.0006000000000000001,295.0
+16077,CeFe4Sb12,Seebeck,,thermopower,[7.5e-05],[295],7.5e-05,295.0
+16078,CoSb3,Seebeck,,thermopower,[0.00022999999999999998],[295],0.00022999999999999998,295.0
+16079,CoSnTa,Seebeck,,maximum Seebeck coefficient,[0.00024941],[1000.0],0.00024941,1000.0
+16080,NbO15Sr5Ti4,Seebeck,,S,[-0.00017999999999999998],[1000.0],-0.00018,1000.0
+16082,Co2NaO4,Seebeck,,thermoelectric power,[9.999999999999999e-05],[300.0],0.0001,300.0
+16083,SnTe,Seebeck,,thermopower,"[4.9999999999999996e-05, 7.5e-05]",[295],6.25e-05,295.0
+16084,LaMo8O14,Seebeck,,Seebeck coefficient,[-3.7e-05],[295],-3.7e-05,295.0
+16085,CeMo8O14,Seebeck,,Seebeck coefficient,[-4.9e-05],[295],-4.9e-05,295.0
+16086,Mo8NdO14,Seebeck,,Seebeck coefficient,[-1.8e-05],[295],-1.8e-05,295.0
+16087,Mo8O14Sm,Seebeck,,Seebeck coefficient,[-1.2e-05],[295],-1.2e-05,295.0
+16088,Mo8NdO14,Seebeck,,Seebeck coefficient,[-6.2e-05],[1000.0],-6.2e-05,1000.0
+16089,PbTe,Seebeck,,Seebeck coefficient,[0.0006797999999999999],[295],0.0006797999999999999,295.0
+16090,PbTe,Seebeck,,Seebeck coefficient,[0.00019549999999999998],[295],0.0001955,295.0
+16091,AgBi50Sb149Te300,Seebeck,,Seebeck coefficient,[0.00010499999999999999],[300.0],0.000105,300.0
+16092,O473Ti250,Seebeck,,Seebeck coefficient,[-0.00015999999999999999],[750.0],-0.00016,750.0
+16094,LaMo8O14,Seebeck,,highest Seebeck coefficient,[-0.000137],[295],-0.00013700000000000002,295.0
+16095,Mo8NdO14,Seebeck,,Seebeck coefficient,[-2.8e-05],[295],-2.8000000000000003e-05,295.0
+16096,CrCuSe2,Seebeck,,thermoelectric power,[9.999999999999999e-05],[2.0],0.0001,2.0
+16097,Cu2Si2Yb,Seebeck,,thermopower,[-2.8e-05],[295],-2.8000000000000003e-05,295.0
+16098,Ca3Co4O9,Seebeck,,Seebeck coefficient,[0.00028],[1000.0],0.00028000000000000003,1000.0
+16099,Ca3Co4O9,Seebeck,,S,[0.00016999999999999999],[973.0],0.00016999999999999999,973.0
+16100,Ca3Co4O9,Seebeck,,S,[0.00018999999999999998],[973.0],0.00018999999999999998,973.0
+16101,PbSe,Seebeck,,Seebeck coefficient,[0.000137],[293.0],0.00013700000000000002,293.0
+16102,CaTe,Seebeck,,Seebeck coefficient,[5.6999999999999996e-05],[300.0],5.7e-05,300.0
+16103,B66Er,Seebeck,,α,[0.0006],[295],0.0006000000000000001,295.0
+16105,Ca3Co4O9,Seebeck,,Seebeck coefficient,[0.000173],[1000.0],0.000173,1000.0
+16106,Ca3Co4O9,Seebeck,,Seebeck coefficient,[0.000164],[650.0],0.000164,650.0
+16107,CoLaO3,Seebeck,,Seebeck coefficient,[0.0006],[295],0.0006000000000000001,295.0
+16108,BCu,Seebeck,,S,[2.9999999999999997e-05],[773.0],3.0000000000000008e-05,773.0
+16109,PbTe,Seebeck,,Seebeck coefficient,[0.000196],[295],0.000196,295.0
+16110,O2Ti,Seebeck,,Seebeck coefficient,[-9.999999999999999e-05],[390.0],-0.0001,390.0
+16111,Bi2Cu2O4Se2Y,Seebeck,,S,[1.9999999999999998e-05],"[300.0, 873.0]",2e-05,586.5
+16112,GePdZr,Seebeck,,Seebeck coefficient,[0.000237],[295],0.00023700000000000001,295.0
+16113,Cu2LaSi2,Seebeck,,S,[2e-06],[90.0],2e-06,90.0
+16116,CdSb2Yb2,Seebeck,,highest Seebeck coefficient,[0.000217],[295],0.000217,295.0
+16117,CO,Seebeck,,S,[0.000167],[873.0],0.000167,873.0
+16118,Mn51Te49,Seebeck,,Seebeck coefficient,[0.000414],[773.0],0.000414,773.0
+16119,O3SrTi,Seebeck,,α,[-0.000198],[295],-0.000198,295.0
+16120,AlCeCu4,Seebeck,,S,[8.5e-06],[27.0],8.5e-06,27.0
+16121,InSe,Seebeck,,S,[-0.00018899999999999999],[300.0],-0.000189,300.0
+16122,Cu27S26Sb8,Seebeck,,Seebeck coefficient,[0.000188],[723.0],0.000188,723.0
+16123,Bi9SbTe15,Seebeck,,highest Seebeck coefficient,[0.00013199999999999998],[298.0],0.00013199999999999998,298.0
+16124,Al3Yb,Seebeck,,peak thermopower,[-8.999999999999999e-05],[295],-9e-05,295.0
+16125,Co2NaO4,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[823.0],0.0001,823.0
+16127,Co9Na10NiO20,Seebeck,,Seebeck coefficient,[0.000116],[373.0],0.00011599999999999999,373.0
+16128,BiSb3Te6,Seebeck,,Seebeck coefficient,[0.000215],[295],0.000215,295.0
+16129,BiSb3Te6,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[295],0.0002,295.0
+16130,CdS4Y2,Seebeck,,Seebeck coefficient,[0.003028],[295],0.0030280000000000003,295.0
+16131,GeSi,Seebeck,,Seebeck coefficient,[0.00010999999999999999],[550.0],0.00011,550.0
+16133,BiCuOSe,Seebeck,,Seebeck coefficient,[0.00035299999999999996],[300.0],0.000353,300.0
+16134,Bi7Cu8MgO8Se8,Seebeck,,Seebeck coefficient,[0.000222],[300.0],0.00022200000000000003,300.0
+16137,Layered,Seebeck,,thermoelectric power,[9.999999999999999e-05],[300.0],0.0001,300.0
+16140,Cu2Se3Sn,Seebeck,,highest Seebeck coefficient,[0.000166],[350.0],0.000166,350.0
+16141,Cu12S13Sb4,Seebeck,,Seebeck coefficient,[0.00014199999999999998],[623.0],0.00014199999999999998,623.0
+16142,Cu10Mn2S13Sb4,Seebeck,,Seebeck coefficient,[0.000328],[575.0],0.000328,575.0
+16143,Pristine,Seebeck,,S,[2.9999999999999997e-05],[300.0],3.0000000000000008e-05,300.0
+16144,GeTe,Seebeck,,Seebeck coefficient,[0.00011999999999999999],[300.0],0.00012000000000000003,300.0
+16145,GeTe,Seebeck,,S,[3.4e-05],[300.0],3.4e-05,300.0
+16146,GeTe,Seebeck,,S,[3.2e-05],[300.0],3.2e-05,300.0
+16147,GeTe,Seebeck,,S,[0.000125],[300.0],0.000125,300.0
+16148,Bi3Ge47Te50,Seebeck,,S,[7e-05],[300.0],7.000000000000001e-05,300.0
+16149,Bi12Ge187InTe200,Seebeck,,S,[0.000122],[300.0],0.000122,300.0
+16150,Bi6Ge93InTe100,Seebeck,,maximum S,[0.00024599999999999996],[720.0],0.000246,720.0
+16151,Ag2InSbTe4,Seebeck,,Seebeck coefficient,[0.00015999999999999999],[300.0],0.00016,300.0
+16152,AgSbTe2,Seebeck,,Seebeck coefficient,[0.00023999999999999998],[300.0],0.00024000000000000006,300.0
+16155,Al3Yb,Seebeck,,Seebeck coefficient,[-8.999999999999999e-05],[295],-9e-05,295.0
+16157,S,Seebeck,,S,"[0.0005, 0.00061]",[300.0],0.0005549999999999999,300.0
+16158,CuS,Seebeck,,thermopower,[1.85e-06],[300.0],1.85e-06,300.0
+16159,CdCsInSe3,Seebeck,,Seebeck coefficient,[0.00017999999999999998],[800.0],0.00018,800.0
+16160,SeSn,Seebeck,,Seebeck coefficient,[0.00052],[300.0],0.0005200000000000001,300.0
+16161,FeSb2,Seebeck,,Seebeck coefficient,[-0.045],[10.0],-0.045,10.0
+16162,PtSb2,Seebeck,,S,[-0.0007999999999999999],[30.0],-0.0008,30.0
+16163,CrSi2,Seebeck,,S,[0.00010499999999999999],[295],0.000105,295.0
+16164,CrSi2,Seebeck,,α,[0.00010999999999999999],[295],0.00011,295.0
+16165,Bi200Cu7Te300,Seebeck,,S,[-0.000236],[300.0],-0.000236,300.0
+16166,Bi2S3,Seebeck,,Seebeck coefficient,[0.00045],"[323.0, 573.0]",0.00045,448.0
+16167,Cr2O3,Seebeck,,Seebeck coefficient,"[0.0034999999999999996, 0.0045]",[295],0.004,295.0
+16168,Cr2O3,Seebeck,,S,[-8.623e-05],[773.0],-8.623e-05,773.0
+16169,SeSn,Seebeck,,S,[0.00052],[295],0.0005200000000000001,295.0
+16170,OSn,Seebeck,,Seebeck coefficient,[0.00066],[295],0.0006600000000000001,295.0
+16171,AuPd,Seebeck,,Seebeck coefficient,[-3.5e-05],[295],-3.5e-05,295.0
+16172,CNTs,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[295],0.0002,295.0
+16173,Bi2Te3,Seebeck,,Seebeck coefficient,[4.9999999999999996e-05],[295],5e-05,295.0
+16174,ErPdSb,Seebeck,,Seebeck coefficient,[0.00015],[295],0.00015,295.0
+16175,ErPdSb,Seebeck,,thermopower,[0.00015],[300.0],0.00015,300.0
+16176,ErPdSb,Seebeck,,thermoelectric power,[-4.5e-06],[300.0],-4.5e-06,300.0
+16177,PbS,Seebeck,,Seebeck coefficient,[-4.9999999999999996e-05],[300.0],-5e-05,300.0
+16178,CoSb3,Seebeck,,Seebeck coefficient,[-9.340000000000001e-05],[525.0],-9.340000000000001e-05,525.0
+16179,Se2Sn,Seebeck,,S,[0.00018999999999999998],[300.0],0.00018999999999999998,300.0
+16180,AlAs3Sr3,Seebeck,,Seebeck coefficient,[0.00027],[350.0],0.00027,350.0
+16181,MgMnO3,Seebeck,,S,[2.3129999999999997e-05],[295],2.313e-05,295.0
+16182,CaMnO,Seebeck,,Seebeck coefficient,[350.0],[295],350.0,295.0
+16183,PbS,Seebeck,,Seebeck coefficient,[8.3e-05],[523.0],8.3e-05,523.0
+16184,Pt,Seebeck,,thermoelectric power,[0.00019999999999999998],[993.0],0.0002,993.0
+16185,S,Seebeck,,Seebeck coefficient,[0.000335],[295],0.000335,295.0
+16186,CePd3,Seebeck,,thermopower,"[9.999999999999999e-05, 0.00011999999999999999]",[150.0],0.00011,150.0
+16187,Co2NaO4,Seebeck,,thermopower,[9.999999999999999e-05],[300.0],0.0001,300.0
+16188,Ga8Ge15Sr4,Seebeck,,Seebeck coefficient,[-0.00031999999999999997],[295],-0.00032,295.0
+16190,AlB14Mg,Seebeck,,Seebeck coefficient,[0.0005],[295],0.0005,295.0
+16191,Co2NaO4,Seebeck,,thermopower,[9.999999999999999e-05],[295],0.0001,295.0
+16192,CoO5Sr2Tl,Seebeck,,S,[0.00019999999999999998],[150.0],0.0002,150.0
+16194,CoO2,Seebeck,,thermopower,[0.0001],[300.0],0.0001,300.0
+16195,Sb2Te3,Seebeck,,thermoelectric power,[7.999999999999999e-05],[923.0],8e-05,923.0
+16196,ET,Seebeck,,S,[-0.00045],[295],-0.00045,295.0
+16197,O2Ti,Seebeck,,S,[-0.0006],[295],-0.0006000000000000001,295.0
+16198,OxTi,Seebeck,,peak S,[-0.000518],[350.0],-0.000518,350.0
+16200,Cu2O,Seebeck,,S,[0.00105],[923.0],0.0010500000000000002,923.0
+16201,OPb,Seebeck,,S,[-0.00039999999999999996],[295],-0.0004,295.0
+16202,Ca3Co4O9,Seebeck,,S,[0.00015],[1000.0],0.00015,1000.0
+16203,Ba20Bi18Oy10Rh19,Seebeck,,S,[0.000125],[295],0.000125,295.0
+16205,Fe2O3,Seebeck,,peak S,[0.00165],"[270.0, 290.0]",0.0016500000000000002,280.0
+16206,Cr2O3,Seebeck,,S,"[0.0034999999999999996, 0.0045]",[295],0.004,295.0
+16207,Cu,Seebeck,,S,[3.9999999999999996e-05],[295],4e-05,295.0
+16208,O2Zr,Seebeck,,peak S,[0.00014],[700.0],0.00014,700.0
+16209,PbTe,Seebeck,,maximum Seebeck coefficient,[0.00043799999999999997],[420.0],0.000438,420.0
+16210,HNaO,Seebeck,,maximum Seebeck coefficient,[0.00042699999999999997],[380.0],0.000427,380.0
+16211,PbTe,Seebeck,,Seebeck coefficient,[0.00041],[300.0],0.0004100000000000001,300.0
+16212,PbTe,Seebeck,,Seebeck coefficient,[0.0003],[300.0],0.00030000000000000003,300.0
+16213,PbTe,Seebeck,,Seebeck coefficient,[0.00042699999999999997],[380.0],0.000427,380.0
+16214,FeSb2,Seebeck,,Seebeck coefficient,[-0.045],[10.0],-0.045,10.0
+16215,AlInO50Zn48,Seebeck,,highest thermopower,[-0.00016199999999999998],[858.0],-0.00016199999999999998,858.0
+16216,AlInO50Zn48,Seebeck,,maximum thermopower,[-0.00016199999999999998],[858.0],-0.00016199999999999998,858.0
+16217,Bi2Te3,Seebeck,,thermoelectric power,[-0.00031299999999999996],[295],-0.000313,295.0
+16218,CuGaSe2,Seebeck,,Seebeck coefficient,"[0.00045, 0.0005]",[295],0.000475,295.0
+16219,GeTe,Seebeck,,Seebeck coefficient,[3.36e-05],[295],3.3600000000000004e-05,295.0
+16220,BaCu2Te2,Seebeck,,Seebeck coefficient,[8.8e-05],[295],8.8e-05,295.0
+16221,S,Seebeck,,Seebeck coefficient,[1e-06],[295],1e-06,295.0
+16223,BiCuOTe,Seebeck,,S,[0.000186],[373.0],0.00018600000000000002,373.0
+16224,Ga2Te3,Seebeck,,maximum Seebeck coefficient,[0.0007999999999999999],[295],0.0008,295.0
+16225,Ca60Co80K3O180,Seebeck,,S,[0.0001675],[323.0],0.0001675,323.0
+16226,SnTe,Seebeck,,highest Seebeck coefficient,[0.00017999999999999998],[800.0],0.00018,800.0
+16227,FeSb2Te,Seebeck,,highest Seebeck coefficient,[0.00011999999999999999],[295],0.00012000000000000003,295.0
+16228,Ge2Sb2Te5,Seebeck,,Seebeck coefficient,"[0.00019999999999999998, 0.0003]",[295],0.00025,295.0
+16229,GeTe,Seebeck,,Seebeck coefficient,[2.4999999999999998e-05],[295],2.5e-05,295.0
+16230,Sb2Te3,Seebeck,,Seebeck coefficient,[7.5e-05],[295],7.5e-05,295.0
+16231,COS,Seebeck,,Seebeck coefficient,[-4.0340000000000003e-05],[1000.0],-4.034e-05,1000.0
+16232,SiTa4Te4,Seebeck,,Seebeck coefficient,[-0.00019999999999999998],[295],-0.0002,295.0
+16233,DEOPT,Seebeck,,Seebeck coefficient,[1.9999999999999998e-05],[423.0],2e-05,423.0
+16234,Ir100Nb100SbSn99,Seebeck,,highest Seebeck coefficient,[0.00039999999999999996],[400.0],0.0004,400.0
+16235,Bi2Se3,Seebeck,,Seebeck coefficient,[-0.00011499999999999999],[295],-0.000115,295.0
+16236,CNTs,Seebeck,,Seebeck coefficient,[7.999999999999999e-05],[930.0],8e-05,930.0
+16238,Bi2Te3,Seebeck,,Seebeck coefficient,[0.000243],[930.0],0.00024300000000000002,930.0
+16239,Fe5Sb11Te4,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[295],0.0001,295.0
+16240,Cu12S13Sb4,Seebeck,,S,[8.999999999999999e-05],[340.0],9e-05,340.0
+16241,Cu3S4Sb,Seebeck,,Seebeck coefficient,[1.9999999999999998e-05],[340.0],2e-05,340.0
+16242,Fe2Nd2O3Se2,Seebeck,,S,[0.00019999999999999998],[295],0.0002,295.0
+16244,Ca49DyMn50O150,Seebeck,,Seebeck coefficient,[-0.0003],[973.0],-0.00030000000000000003,973.0
+16245,Bi2Te3,Seebeck,,S,[-0.00020899999999999998],[300.0],-0.000209,300.0
+16246,Sb2Te3,Seebeck,,Seebeck coefficient,[0.00011999999999999999],[300.0],0.00012000000000000003,300.0
+16247,Bi2Te3,Seebeck,,S,[-7.999999999999999e-05],[300.0],-8e-05,300.0
+16248,BiSbSe3,Seebeck,,S,[-0.00047999999999999996],[295],-0.0004800000000000001,295.0
+16249,BiSe,Seebeck,,S,[-5.9999999999999995e-05],[295],-6.0000000000000015e-05,295.0
+16250,GeSe,Seebeck,,Seebeck coefficient,[0.0006],[295],0.0006000000000000001,295.0
+16252,S2Ti,Seebeck,,thermopower,[-0.00025],[295],-0.00025,295.0
+16253,CrCuSe2,Seebeck,,S,[9.999999999999999e-05],[295],0.0001,295.0
+16254,Bi14I9Rh3,Seebeck,,S,[-0.00019999999999999998],[300.0],-0.0002,300.0
+16255,Pb,Seebeck,,S,[-0.000249],[295],-0.00024900000000000004,295.0
+16256,CoSb3,Seebeck,,Seebeck coefficient,[-0.00025],[473.0],-0.00025,473.0
+16257,GeTe,Seebeck,,Seebeck coefficient,[3.9e-05],[300.0],3.9e-05,300.0
+16258,Cu2S3Sn,Seebeck,,thermoelectric power,[8.669999999999999e-05],[300.0],8.669999999999999e-05,300.0
+16259,BST,Seebeck,,thermopower,[0.00019999999999999998],[573.0],0.0002,573.0
+16260,NSTsW,Seebeck,,Seebeck coefficient,[-7.2e-05],[310.0],-7.2e-05,310.0
+16262,NSTW,Seebeck,,highest Seebeck coefficient,[-7.2e-05],[310.0],-7.2e-05,310.0
+16263,BiTe6Tl9,Seebeck,,thermopower,[0.000185],[300.0],0.000185,300.0
+16264,DEOPT,Seebeck,,Seebeck coefficient,"[1.53e-05, 1.63e-05]",[300.0],1.5799999999999998e-05,300.0
+16265,FeSb2,Seebeck,,Seebeck coefficient,[0.045],[10.0],0.045,10.0
+16266,Bi4CsTe6,Seebeck,,S,[0.00010999999999999999],[295],0.00011,295.0
+16267,O3RuSr,Seebeck,,Seebeck coefficient,[3.4e-05],[295],3.4e-05,295.0
+16269,B4863Zr137,Seebeck,,α,[0.0006],[300.0],0.0006000000000000001,300.0
+16270,BaCdS2,Seebeck,,Seebeck coefficient,[0.000158],[300.0],0.00015800000000000002,300.0
+16271,CNTs,Seebeck,,Seebeck coefficient,[0.00015999999999999999],[295],0.00016,295.0
+16272,Co2NaxO4,Seebeck,,thermoelectric power,[0.0001],[300.0],0.0001,300.0
+16273,FePb4S14Sb6,Seebeck,,thermopower,[0.00019999999999999998],[295],0.0002,295.0
+16274,Bi2Te3,Seebeck,,thermopower,[0.00016999999999999999],[295],0.00016999999999999999,295.0
+16275,OZn,Seebeck,,Seebeck coefficient,[0.00021999999999999998],[295],0.00022,295.0
+16276,Bi2CaCu2O8Sr2,Seebeck,,thermoelectric power,"[2e-06, 3e-06]","[300.0, 500.0]",2.5e-06,400.0
+16277,Co2NaO4,Seebeck,,thermopower,[8.2e-05],[295],8.2e-05,295.0
+16279,Ca3Co4O9,Seebeck,,S,[0.00015],[800.0],0.00015,800.0
+16280,CoGeTe,Seebeck,,Seebeck coefficient,[-0.00017999999999999998],[300.0],-0.00018,300.0
+16282,Bi9Sb,Seebeck,,thermopower,[-4.4999999999999996e-05],[473.0],-4.5e-05,473.0
+16283,Bi2Te3,Seebeck,,Seebeck coefficient,[0.000203],[300.0],0.00020299999999999997,300.0
+16284,OZn,Seebeck,,S,[-0.00021999999999999998],[975.0],-0.00022,975.0
+16286,Ca3Co4O9,Seebeck,,S,[0.00018999999999999998],[973.0],0.00018999999999999998,973.0
+16287,Bi2Ca2Co2Oy,Seebeck,,S,[0.00016999999999999999],[973.0],0.00016999999999999999,973.0
+16288,S2Ti,Seebeck,,thermopower,[-0.000251],[295],-0.000251,295.0
+16290,SnTe,Seebeck,,Seebeck coefficient,[3.6e-05],[550.0],3.6e-05,550.0
+16291,Bi2SeTe2,Seebeck,,Seebeck coefficient,[1.3714285714285715e-06],[300.0],1.3714e-06,300.0
+16292,CS,Seebeck,,highest Seebeck coefficient,[0.000245],[673.0],0.000245,673.0
+16293,Al3CeNi2,Seebeck,,S,[4.6e-05],"[200.0, 300.0]",4.6e-05,250.0
+16294,Ce5Ni2Si3,Seebeck,,S,[4e-06],[52.0],4e-06,52.0
+16295,CaOSnSr2,Seebeck,,maximum Seebeck coefficient,[0.00021899999999999998],[500.0],0.000219,500.0
+16296,CaOSnSr2,Seebeck,,Seebeck coefficient,[0.00021899999999999998],[500.0],0.000219,500.0
+16297,Ca3OSn,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[295],0.0001,295.0
+16298,CdIn2O4,Seebeck,,thermoelectric power,[0.001],[673.0],0.001,673.0
+16299,DEOPT,Seebeck,,Seebeck coefficient,[1.26e-05],[295],1.26e-05,295.0
+16300,CuFeS2,Seebeck,,n - type Seebeck coefficient,[-0.0003],[323.0],-0.00030000000000000003,323.0
+16301,SnTe,Seebeck,,S,[9e-06],[300.0],9e-06,300.0
+16302,SnTe,Seebeck,,S,[9.999999999999999e-06],[300.0],1e-05,300.0
+16303,CaMnO3,Seebeck,,Seebeck coefficient,[-0.00025],"[300.0, 1000.0]",-0.00025,650.0
+16304,Ca25Mn24MoO75,Seebeck,,Seebeck coefficient,[-0.00010999999999999999],[295],-0.00011,295.0
+16305,Ca3Co2O6,Seebeck,,Seebeck coefficient,[0.00045],[300.0],0.00045,300.0
+16306,DEOPT,Seebeck,,maximal Seebeck coefficient,[0.00011999999999999999],[423.0],0.00012000000000000003,423.0
+16307,AgSbSe2,Seebeck,,S,[0.00031],[295],0.00031,295.0
+16308,Ag50CdSb49Se100,Seebeck,,S,[0.000242],[295],0.000242,295.0
+16310,Bi2Te3,Seebeck,,Seebeck coefficient,[-0.00018219999999999998],[295],-0.0001822,295.0
+16311,Bi2Te3,Seebeck,,Seebeck coefficient,[-0.00018219999999999998],[300.0],-0.0001822,300.0
+16312,Bi2Te3,Seebeck,,Seebeck coefficient,[-0.00017999999999999998],[300.0],-0.00018,300.0
+16313,AgCuS,Seebeck,,thermopower,[0.0017569999999999999],[364.0],0.001757,364.0
+16314,Mn2SnY,Seebeck,,Seebeck coefficient,[0.00013225999999999998],[800.0],0.00013226,800.0
+16315,DEOPT,Seebeck,,Seebeck coefficient,[1.98e-05],[278.1],1.98e-05,278.1
+16316,PbTe,Seebeck,,thermopower,[0.00011999999999999999],[295],0.00012000000000000003,295.0
+16317,AuK3O,Seebeck,,Seebeck coefficient,[0.00020531],[350.0],0.00020531,350.0
+16318,AuK3O,Seebeck,,Seebeck coefficient,[0.00021568],[295],0.00021568,295.0
+16319,AlFe2V,Seebeck,,Seebeck coefficient,[2.4999999999999998e-05],[295],2.5e-05,295.0
+16320,Co2NaO4,Seebeck,,thermopower,[9.999999999999999e-05],[300.0],0.0001,300.0
+16321,Bi10Sb3Te15,Seebeck,,highest Seebeck coefficient,[-0.0006299999999999999],[300.0],-0.00063,300.0
+16322,PbTe,Seebeck,,Seebeck coefficient,[-4.1e-05],[453.0],-4.1e-05,453.0
+16323,PbTe,Seebeck,,Seebeck coefficient,[-0.00026],[453.0],-0.00026000000000000003,453.0
+16324,O15Sr4Ti5Y,Seebeck,,Seebeck coefficient,[-0.00089],[773.0],-0.0008900000000000002,773.0
+16325,Sb2Te3,Seebeck,,S,"[8.3e-05, 9.2e-05]",[300.0],8.75e-05,300.0
+16326,Sb2Te3,Seebeck,,Seebeck coefficient,[0.00020999999999999998],[420.0],0.00021,420.0
+16327,CuLa2O4,Seebeck,,Seebeck coefficient,[0.00033999999999999997],[295],0.00033999999999999997,295.0
+16328,Bi2Te3,Seebeck,,Seebeck coefficient,[-4.989999999999999e-05],[300.0],-4.99e-05,300.0
+16329,BiSe100Sn99,Seebeck,,Seebeck coefficient,[-0.0009],[300.0],-0.0009000000000000002,300.0
+16330,CFNT,Seebeck,,Seebeck coefficient,[4.6e-05],[414.0],4.6e-05,414.0
+16331,DEOPT,Seebeck,,Seebeck coefficient,[1.6e-05],[300.0],1.6e-05,300.0
+16333,Ca9Co12O28,Seebeck,,Seebeck coefficient,[0.000118],[973.0],0.000118,973.0
+16335,SeSn,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[308.0],0.0002,308.0
+16336,Te,Seebeck,,maximum S,[0.000247],[600.0],0.00024700000000000004,600.0
+16337,Co10Na7O20,Seebeck,,Seebeck Coefficient,[9.999999999999999e-05],[300.0],0.0001,300.0
+16338,GeSe,Seebeck,,Seebeck coefficient,[0.000122],[500.0],0.000122,500.0
+16339,DGQ,Seebeck,,Seebeck coefficient,[0.000139],[600.0],0.000139,600.0
+16340,Cu2S3Sn,Seebeck,,thermopower,[0.0003],[700.0],0.00030000000000000003,700.0
+16341,CoGeMnZr,Seebeck,,Seebeck coefficient,[-0.000106],[650.0],-0.000106,650.0
+16342,AlCoMnZr,Seebeck,,Seebeck coefficient,[3.305e-05],[1100.0],3.3050000000000004e-05,1100.0
+16343,CoGeMnZr,Seebeck,,Seebeck coefficient,[-0.000106],[650.0],-0.000106,650.0
+16344,Cu9S5,Seebeck,,α,[1.4999999999999999e-05],[295],1.5e-05,295.0
+16345,As2BaCd2,Seebeck,,Seebeck coefficient,[0.000527],[295],0.0005269999999999999,295.0
+16346,HfNiSn,Seebeck,,Seebeck coefficient,[-6.8e-05],[295],-6.8e-05,295.0
+16347,SSn,Seebeck,,Seebeck coefficient,[0.000554],[295],0.000554,295.0
+16348,SeSn,Seebeck,,Seebeck coefficient,[0.000503],[295],0.000503,295.0
+16349,Cu2Se,Seebeck,,maximum S,[0.000245],[852.0],0.000245,852.0
+16351,SeSn,Seebeck,,Seebeck coefficient,[0.0005],[295],0.0005,295.0
+16352,CrSi2,Seebeck,,S,[9.999999999999999e-05],[300.0],0.0001,300.0
+16353,CrSi2,Seebeck,,S,[0.000196],[575.0],0.000196,575.0
+16354,BeLi,Seebeck,,S,[-0.00045999999999999996],[50.0],-0.00045999999999999996,50.0
+16355,Ag6Ce5Na4Te20,Seebeck,,thermopower,[2.1e-05],[295],2.1e-05,295.0
+16356,Ag14Eu5NaTe20,Seebeck,,S,[7e-05],[295],7.000000000000001e-05,295.0
+16357,SeSn,Seebeck,,Seebeck coefficient,[0.0002622],[295],0.0002622,295.0
+16358,Bi2Te3,Seebeck,,Seebeck coefficient,[0.00023999999999999998],[295],0.00024000000000000006,295.0
+16359,Bi2Te3,Seebeck,,Seebeck coefficient,[-0.000128],[303.0],-0.000128,303.0
+16360,BiCuOSe,Seebeck,,S,[0.000361],[295],0.000361,295.0
+16361,Ca3OSn,Seebeck,,thermopower,[9.999999999999999e-05],[295],0.0001,295.0
+16362,Ca3Co4O9,Seebeck,,Seebeck coefficient,"[9.999999999999999e-05, 0.00015]",[300.0],0.000125,300.0
+16363,Ag18Te11Tl4,Seebeck,,S,[-0.00025],[295],-0.00025,295.0
+16364,Ag360Te220Tl81,Seebeck,,S,[-0.00023999999999999998],[300.0],-0.00024000000000000006,300.0
+16365,Ag18Te11Tl4,Seebeck,,S,[-7.5e-05],[760.0],-7.5e-05,760.0
+16366,Bi6Mg400Si65Sn129,Seebeck,,Seebeck coefficient,[-0.00011499999999999999],[300.0],-0.000115,300.0
+16367,Bi200Se21Te279,Seebeck,,Seebeck coefficient,[-0.00011499999999999999],[300.0],-0.000115,300.0
+16368,Ce5CuPb3,Seebeck,,thermoelectric power,[-1.3e-05],[295],-1.3000000000000001e-05,295.0
+16369,La,Seebeck,,thermopower,[-0.0003],[295],-0.00030000000000000003,295.0
+16370,SSn,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[295],0.0002,295.0
+16371,S2Sn,Seebeck,,Seebeck coefficient,[0.000135],[295],0.000135,295.0
+16372,PbSe,Seebeck,,Seebeck coefficient,[0.000202],[300.0],0.000202,300.0
+16373,PbTe,Seebeck,,Seebeck coefficient,[0.00030399999999999996],[295],0.000304,295.0
+16374,GeSe,Seebeck,,Seebeck coefficient,[0.000306],[295],0.000306,295.0
+16378,Bi2Te3,Seebeck,,thermopower,[0.00031299999999999996],[295],0.000313,295.0
+16379,OZn,Seebeck,,Seebeck coefficient,[-0.00035999999999999997],[358.0],-0.00036,358.0
+16380,BT,Seebeck,,Seebeck coefficient,[-0.00015],[295],-0.00015,295.0
+16381,Co2NaO4,Seebeck,,thermoelectric power,[9.999999999999999e-05],[300.0],0.0001,300.0
+16382,PbTe,Seebeck,,Seebeck coefficient,[0.000628],[295],0.000628,295.0
+16383,CuS,Seebeck,,Seebeck coefficient,[1.94e-06],[300.0],1.94e-06,300.0
+16384,S,Seebeck,,Seebeck coefficient,[0.000335],[295],0.000335,295.0
+16385,GeTe,Seebeck,,Seebeck coefficient,[5.9999999999999995e-05],[295],6.0000000000000015e-05,295.0
+16387,Sb2Te3,Seebeck,,thermoelectric power,[8.999999999999999e-05],[295],9e-05,295.0
+16388,Ba50Cu287Se23Te327,Seebeck,,α,[4.9e-05],[295],4.9e-05,295.0
+16389,AgBiPbSe3,Seebeck,,Seebeck coefficient,[-0.00013099999999999999],[296.0],-0.000131,296.0
+16390,OZn,Seebeck,,Seebeck coefficient,[-7e-05],[295],-7.000000000000001e-05,295.0
+16391,Ca3La7Mn10O30,Seebeck,,thermoelectric power,[-2.9999999999999997e-05],[200.0],-3.0000000000000008e-05,200.0
+16392,CoSb3,Seebeck,,Seebeck coefficient,[0.00042579],[350.0],0.00042579,350.0
+16393,InSe,Seebeck,,Seebeck coefficient,[0.002626],[37.0],0.0026260000000000003,37.0
+16394,InSe,Seebeck,,S,[0.003],[295],0.003,295.0
+16395,GaS,Seebeck,,p - type S,[0.00025],[300.0],0.00025,300.0
+16396,GaS,Seebeck,,S,[0.00028761],[295],0.00028761,295.0
+16397,As12Ru4Sr,Seebeck,,Seebeck coefficient,[-0.00018169999999999997],[800.0],-0.0001817,800.0
+16398,CoNaO2,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[300.0],0.0001,300.0
+16399,Ca5Co8O18Tb,Seebeck,,Seebeck coefficient,[0.000323],[800.0],0.000323,800.0
+16400,AlB14Mg,Seebeck,,Seebeck coefficient,[0.0005],[295],0.0005,295.0
+16401,B6Si,Seebeck,,Seebeck coefficient,[140000000.0],[1273.0],140000000.0,1273.0
+16402,AgSbTe2,Seebeck,,S,"[3.9999999999999996e-05, 0.00029499999999999996]",[295],0.0001675,295.0
+16403,DEOPT,Seebeck,,S,"[1.4999999999999999e-05, 1.9999999999999998e-05]",[295],1.75e-05,295.0
+16404,Ca3Co4O9,Seebeck,,Seebeck coefficient,[0.00013],[295],0.00013000000000000002,295.0
+16405,CNT,Seebeck,,Seebeck coefficient,[0.002],[300.0],0.002,300.0
+16406,DEOPT,Seebeck,,Seebeck coefficient,[3.9200000000000004e-05],[295],3.9200000000000004e-05,295.0
+16407,MoSe2,Seebeck,,Seebeck coefficient,[-0.0009],[295],-0.0009000000000000002,295.0
+16410,Co19Cu10Na10O40,Seebeck,,S,[0.000147],[573.0],0.000147,573.0
+16411,Co2NaO4,Seebeck,,Seebeck coefficient,[7e-05],[573.0],7.000000000000001e-05,573.0
+16412,Co6FeNiSb24,Seebeck,,Seebeck coefficient,[0.000165],[450.0],0.000165,450.0
+16413,Na2NiO10Ti4,Seebeck,,Seebeck coefficient,[-0.000193],[973.0],-0.000193,973.0
+16414,Bi2Te3,Seebeck,,Seebeck coefficient,[0.000215],[295],0.000215,295.0
+16415,PbTe,Seebeck,,Seebeck coefficient,[0.000185],[295],0.000185,295.0
+16416,SeSn,Seebeck,,Seebeck coefficient,[0.0005099999999999999],[295],0.0005099999999999999,295.0
+16417,Co2NaO4,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[300.0],0.0001,300.0
+16418,Ca18Gd,Seebeck,,Seebeck coefficient,[0.00017999999999999998],[1073.0],0.00018,1073.0
+16421,CuInSe2,Seebeck,,thermoelectric power,[1.9999999999999998e-05],[390.0],2e-05,390.0
+16422,Ca3Co2O6,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[1000.0],0.0002,1000.0
+16423,PbTe,Seebeck,,maximum Seebeck coefficient,[0.000265],[450.0],0.000265,450.0
+16424,Ca50Mn48NbO150Ta,Seebeck,,Seebeck coefficient,[-0.000176],[950.0],-0.000176,950.0
+16425,Ca50Mn48NbO150Ta,Seebeck,,Seebeck coefficient,[-0.000176],[973.0],-0.000176,973.0
+16426,Ba4Cu7Ge3P13,Seebeck,,thermopower,[0.000102],[300.0],0.000102,300.0
+16427,Ba4Cu8P15,Seebeck,,thermopower,[1.3e-05],[300.0],1.3000000000000001e-05,300.0
+16428,Ba4Cu7Ge3P13,Seebeck,,thermopower,[0.000234],[812.0],0.000234,812.0
+16429,Al15Ba40Ga79Ge135,Seebeck,,thermopower,[0.000254],[750.0],0.000254,750.0
+16430,PbTe,Seebeck,,Seebeck coefficient,[6.979999999999999e-05],[295],6.979999999999999e-05,295.0
+16431,PbTe,Seebeck,,Seebeck coefficient,[9.42e-05],[295],9.42e-05,295.0
+16432,Bi2Ca2Co2Ox,Seebeck,,Seebeck coefficient,[0.00016999999999999999],[295],0.00016999999999999999,295.0
+16433,CaO6Ru2Sr,Seebeck,,thermopower,[6.3e-06],[300.0],6.3e-06,300.0
+16434,IOS,Seebeck,,thermopower,[6.3e-06],[300.0],6.3e-06,300.0
+16435,AgSbSe2,Seebeck,,Seebeck coefficient,[0.00075],[295],0.00075,295.0
+16436,SSn,Seebeck,,α,[-0.0006399999999999999],[823.0],-0.00064,823.0
+16438,BiCuOSe,Seebeck,,Seebeck coefficient,[0.000217],[295],0.000217,295.0
+16439,Ag4SSe,Seebeck,,Seebeck coefficient,[-0.000129],[355.0],-0.000129,355.0
+16440,Ag2Se,Seebeck,,seebeck coefficient,[-0.0001147],[295],-0.0001147,295.0
+16441,BiTe,Seebeck,,Seebeck coefficient,[-4e-06],[500.0],-4e-06,500.0
+16442,FeMoO6Sr2,Seebeck,,S,[-4.7e-05],[660.0],-4.7e-05,660.0
+16443,Cu7S4,Seebeck,,S,[0.000192],[573.0],0.000192,573.0
+16445,Ag18Mg20Sb19,Seebeck,,Seebeck coefficient,[0.000118],[423.0],0.000118,423.0
+16446,Ag90Mg97Sb95Zn3,Seebeck,,Seebeck coefficient,[0.000148],[423.0],0.000148,423.0
+16447,Cu2Te,Seebeck,,thermoelectric power,[0.00043057999999999996],[295],0.00043058,295.0
+16448,Pristine,Seebeck,,S,[0.00039999999999999996],[295],0.0004,295.0
+16449,Cu2SbSe4Zn,Seebeck,,Seebeck coefficient,[0.00056],[475.0],0.0005600000000000001,475.0
+16450,DyO3V,Seebeck,,thermopower,[0.00066],[295],0.0006600000000000001,295.0
+16451,CdCu2GeSe4,Seebeck,,Seebeck coefficient,[0.000477],[500.0],0.00047699999999999994,500.0
+16456,PbSe,Seebeck,,S,[4.9999999999999996e-05],[295],5e-05,295.0
+16457,PbTe,Seebeck,,S,[6.149999999999999e-05],[295],6.149999999999999e-05,295.0
+16459,MoS2,Seebeck,,Seebeck coefficient,[0.0001594],[295],0.0001594,295.0
+16460,Sb2Te3,Seebeck,,Seebeck coefficient,"[7.8e-05, 0.000107]",[367.0],9.25e-05,367.0
+16461,Sb2Te3,Seebeck,,Seebeck coefficient,"[7.8e-05, 0.000107]",[367.0],9.25e-05,367.0
+16462,Ba30Cu153S75Te35,Seebeck,,α,[0.000188],[690.0],0.000188,690.0
+16463,AgSbSe2,Seebeck,,S,[0.00031],[295],0.00031,295.0
+16464,Ag50PbSb49Se100,Seebeck,,S,[0.000215],[295],0.000215,295.0
+16465,Ag50BiSb49Se100,Seebeck,,S,[0.000254],[295],0.000254,295.0
+16466,Co2NaO4,Seebeck,,Seebeck coefficient,[0.00010999999999999999],[295],0.00011,295.0
+16467,Cu2Se,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[295],0.0001,295.0
+16468,Cu2Se,Seebeck,,Seebeck coefficient,[0.00011999999999999999],[295],0.00012000000000000003,295.0
+16469,CaMnO3,Seebeck,,Seebeck coefficient,[-0.00027],[295],-0.00027,295.0
+16470,CaMnO3,Seebeck,,Seebeck coefficient,[-0.00019999999999999998],[295],-0.0002,295.0
+16471,CaMnO3,Seebeck,,Seebeck coefficient,[-0.000145],[295],-0.000145,295.0
+16472,CaMnO3,Seebeck,,Seebeck coefficient,[-0.00027],[295],-0.00027,295.0
+16473,InP3,Seebeck,,Seebeck coefficient,[0.00039999999999999996],[300.0],0.0004,300.0
+16474,BiCuOSe,Seebeck,,S,[0.000158],[295],0.00015800000000000002,295.0
+16475,Ag25Cu25Se26,Seebeck,,Seebeck coefficient,[8.72e-05],[450.0],8.719999999999999e-05,450.0
+16476,Al2Fe3Si3,Seebeck,,Seebeck coefficient,[0.00010999999999999999],"[300.0, 850.0]",0.00011,575.0
+16477,Al2Fe3Si3,Seebeck,,maximum Seebeck coefficient,[0.00010999999999999999],[430.0],0.00011,430.0
+16478,BiSb3Te6,Seebeck,,Seebeck coefficient,[0.000157],[295],0.000157,295.0
+16479,Ag71Sb129Te229,Seebeck,,Seebeck coefficient,[0.00025],[600.0],0.00025,600.0
+16482,Cu359S200Sn,Seebeck,,S,[0.000243],[423.0],0.00024300000000000002,423.0
+16483,Fe2SnTi,Seebeck,,maximal Seebeck coefficient,[3.5e-05],[300.0],3.5e-05,300.0
+16484,DEOPT,Seebeck,,Seebeck coefficient,[0.000408],[295],0.000408,295.0
+16485,Cu7Te4,Seebeck,,S,[9.6e-06],[295],9.6e-06,295.0
+16486,Gd7Rh3,Seebeck,,thermoelectric power,[-1e-06],[295],-1e-06,295.0
+16487,CaMnO3,Seebeck,,thermopower,[-0.000312],[295],-0.000312,295.0
+16488,CaMnO3,Seebeck,,S,[-0.000312],[295],-0.000312,295.0
+16489,CaMnO3,Seebeck,,Seebeck coefficient,[-0.000312],[295],-0.000312,295.0
+16490,PbS,Seebeck,,highest Seebeck coefficient,[-0.000329],[773.0],-0.00032900000000000003,773.0
+16492,Pristine,Seebeck,,Seebeck coefficient,[-0.000375],[295],-0.000375,295.0
+16493,Ce38Ge13Si48,Seebeck,,S,[-4.2999999999999995e-05],[380.0],-4.3e-05,380.0
+16494,Ce40Ge32Si27,Seebeck,,S,[-1.3e-05],[380.0],-1.3000000000000001e-05,380.0
+16495,CeSi4Y,Seebeck,,S,[2e-06],[380.0],2e-06,380.0
+16496,SnTe,Seebeck,,S,[7.999999999999999e-05],[295],8e-05,295.0
+16497,Se2Sn,Seebeck,,S,[-0.000235],[295],-0.00023500000000000002,295.0
+16498,CuSe2,Seebeck,,Seebeck coefficient,[3.73e-05],[423.0],3.73e-05,423.0
+16499,Si,Seebeck,,S,[0.000225],[423.0],0.000225,423.0
+16500,Co2NaO4,Seebeck,,thermopower,[9.999999999999999e-05],[295],0.0001,295.0
+16501,Al,Seebeck,,Seebeck coefficient,[0.00020300000000000003],[633.0],0.00020299999999999997,633.0
+16502,C2O,Seebeck,,Seebeck coefficient,[8.999999999999999e-05],[295],9e-05,295.0
+16503,ClK,Seebeck,,Seebeck coefficient,"[0.000254, 0.000205]","[50.0, 100.0]",0.0002295,75.0
+16504,Fe2Ni3,Seebeck,,thermopower,[-4.4999999999999996e-05],[295],-4.5e-05,295.0
+16505,CNQT,Seebeck,,Seebeck coefficient,[0.00042199999999999996],[350.0],0.000422,350.0
+16508,PbTe,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[295],0.0002,295.0
+16509,MoS,Seebeck,,Seebeck coefficient,[3.9e-06],[303.0],3.9e-06,303.0
+16510,STa,Seebeck,,Seebeck coefficient,[-2.4e-06],[303.0],-2.4e-06,303.0
+16511,SSn,Seebeck,,Seebeck coefficient,[-1.4e-06],"[508.0, 548.0]",-1.4e-06,528.0
+16512,MoS,Seebeck,,Seebeck coefficient,[4.9999999999999996e-06],[303.0],5e-06,303.0
+16513,STa,Seebeck,,Seebeck coefficient,[-1.5e-06],[303.0],-1.5e-06,303.0
+16514,SSn,Seebeck,,Seebeck coefficient,[-5e-07],[303.0],-5e-07,303.0
+16515,SSn,Seebeck,,Seebeck coefficient,[1e-06],"[508.0, 548.0]",1e-06,528.0
+16516,LiS,Seebeck,,thermopower,[1.8999999999999998e-05],[523.0],1.9e-05,523.0
+16519,MNTsW,Seebeck,,maximum Seebeck coefficient,[-0.000173],[323.0],-0.000173,323.0
+16522,BaCoO3,Seebeck,,α,[-5.3e-05],[200.0],-5.3e-05,200.0
+16523,Al,Seebeck,,Seebeck coefficient,[-0.00052],[573.0],-0.0005200000000000001,573.0
+16524,Mg2Si,Seebeck,,S,[0.001098],[350.0],0.001098,350.0
+16525,Al3Yb,Seebeck,,Seebeck coefficient,[-7.999999999999999e-05],[295],-8e-05,295.0
+16526,Co2NaO4,Seebeck,,Seebeck coefficient,[4.056e-05],[1073.0],4.056e-05,1073.0
+16528,Ba,Seebeck,,Seebeck coefficient,[0.00017199999999999998],[973.0],0.00017199999999999998,973.0
+16529,In2P2Sr,Seebeck,,Seebeck coefficient,[0.00042899999999999997],[900.0],0.000429,900.0
+16530,In2P2Sr,Seebeck,,Seebeck coefficient,[0.0009339999999999999],[900.0],0.000934,900.0
+16531,In2P2Sr,Seebeck,,Seebeck coefficient,[0.00042899999999999997],[900.0],0.000429,900.0
+16532,C2O,Seebeck,,α,[0.00015],[295],0.00015,295.0
+16533,NiSnTi,Seebeck,,Seebeck coefficient,[-0.000425],[295],-0.000425,295.0
+16534,BiCuOSe,Seebeck,,Seebeck coefficient,[0.000251],[873.0],0.000251,873.0
+16535,BiCuOSe,Seebeck,,Seebeck coefficient,[0.000355],[300.0],0.00035499999999999996,300.0
+16536,Bi2S3,Seebeck,,thermopower,"[0.00025, 0.00045]",[295],0.00035000000000000005,295.0
+16537,NSTsW,Seebeck,,Seebeck coefficient,[-4.179999999999999e-05],[320.0],-4.18e-05,320.0
+16538,NSTW,Seebeck,,Seebeck coefficient,[0.00016999999999999999],[300.0],0.00016999999999999999,300.0
+16539,CoCp2,Seebeck,,Seebeck coefficient,[-4.179999999999999e-05],[320.0],-4.18e-05,320.0
+16540,NSTW,Seebeck,,Seebeck coefficient,[4.5299999999999997e-05],[320.0],4.53e-05,320.0
+16541,NSTsW,Seebeck,,S,[-4.179999999999999e-05],[320.0],-4.18e-05,320.0
+16542,DyNiSn,Seebeck,,Seebeck coefficient,[-5.5e-06],[480.0],-5.5e-06,480.0
+16543,CS2,Seebeck,,Seebeck coefficient,[0.000513],[300.0],0.000513,300.0
+16544,CS2,Seebeck,,Seebeck coefficient,[0.000508],[300.0],0.000508,300.0
+16545,Co40La5Sb117Te3,Seebeck,,Seebeck coefficient,[0.0003],[404.0],0.00030000000000000003,404.0
+16546,Co8LaSb24,Seebeck,,Seebeck coefficient,[0.000154],[295],0.000154,295.0
+16548,Co2NaO4,Seebeck,,thermopower,[9.999999999999999e-05],[300.0],0.0001,300.0
+16549,Ca3Co4O9,Seebeck,,S,[0.00017199999999999998],[1073.0],0.00017199999999999998,1073.0
+16550,CS,Seebeck,,S,[-0.000268],[1073.0],-0.000268,1073.0
+16551,Co2NaO4,Seebeck,,thermopower,[9.999999999999999e-05],[300.0],0.0001,300.0
+16552,Ga17K16Sn75,Seebeck,,Seebeck Coefficient,[0.00039999999999999996],[295],0.0004,295.0
+16553,Nb2O7Sr2,Seebeck,,Seebeck coefficient,[2.6929999999999998e-05],[473.0],2.693e-05,473.0
+16554,Nb197O700Sr200Ti3,Seebeck,,S,[2.5569999999999997e-05],[473.0],2.557e-05,473.0
+16555,HfS2,Seebeck,,Seebeck coefficient,[0.00243],[300.0],0.0024300000000000003,300.0
+16556,Bi170PbSb29,Seebeck,,Seebeck coefficient,[0.000101],[210.0],0.000101,210.0
+16557,PbSe,Seebeck,,Seebeck coefficient,[-0.0005126],[380.0],-0.0005126,380.0
+16558,AOZ,Seebeck,,Seebeck coefficient,[-0.000126],[0.5],-0.000126,0.5
+16559,Ag9Pb50Sb8Sn50Te120,Seebeck,,S,[0.00022999999999999998],[295],0.00022999999999999998,295.0
+16560,Ag9Pb50Sb8Sn50Te118,Seebeck,,Seebeck coefficient,[7e-05],[300.0],7.000000000000001e-05,300.0
+16561,Pb,Seebeck,,Seebeck coefficient,[0.00011999999999999999],[670.0],0.00012000000000000003,670.0
+16562,Bi2S3,Seebeck,,Seebeck coefficient,[0.0005],[295],0.0005,295.0
+16563,AlCuO2,Seebeck,,Seebeck coefficient,[0.00045999999999999996],[780.0],0.00045999999999999996,780.0
+16564,Pb26Te25,Seebeck,,S,[-0.00037],[300.0],-0.0003700000000000001,300.0
+16565,SnTe,Seebeck,,highest Seebeck coefficient,[0.00019999999999999998],[820.0],0.0002,820.0
+16566,Cd3Sn25Te25,Seebeck,,Seebeck coefficient,[6.2e-05],[295],6.2e-05,295.0
+16567,Co20Sb15Se24Zn,Seebeck,,Seebeck coefficient,[-0.00011262999999999998],[657.0],-0.00011263,657.0
+16568,SbZn,Seebeck,,thermopower,[0.00033],[300.0],0.00033000000000000005,300.0
+16570,BST,Seebeck,,Seebeck coefficient,[0.00017869999999999998],[295],0.00017869999999999998,295.0
+16572,CoFeSnTi,Seebeck,,S,[6.5e-05],[295],6.500000000000001e-05,295.0
+16573,AlFe2V,Seebeck,,S,[3.5e-05],[300.0],3.5e-05,300.0
+16574,CoCu49Fe50S99,Seebeck,,Seebeck coefficient,[0.000247],[623.0],0.00024700000000000004,623.0
+16577,Bi2Te3,Seebeck,,thermopower,[0.00031299999999999996],[295],0.000313,295.0
+16578,CaCd2P2,Seebeck,,S,[0.00032199999999999997],[295],0.000322,295.0
+16579,BCOS,Seebeck,,S,[0.00017099999999999998],[873.0],0.00017099999999999998,873.0
+16580,Ba16Ga32Ge59In,Seebeck,,Seebeck coefficient,[-0.00024009999999999998],[773.0],-0.0002401,773.0
+16583,Cr9N10V,Seebeck,,Seebeck coefficient,[-0.000135],[300.0],-0.000135,300.0
+16585,CNSTsW,Seebeck,,S,[4.6299999999999994e-05],[295],4.6299999999999994e-05,295.0
+16586,OZn,Seebeck,,Seebeck coefficient,[1.28e-06],[295],1.28e-06,295.0
+16587,CuSbSe2,Seebeck,,Seebeck coefficient,[3.4e-05],[300.0],3.4e-05,300.0
+16588,AgBiSe2,Seebeck,,S,[-0.00013099999999999999],[295],-0.000131,295.0
+16589,Ag50Bi50ClSe99,Seebeck,,S,[-8.099999999999999e-05],[295],-8.099999999999999e-05,295.0
+16590,Ag50Bi50ClSe99,Seebeck,,S,[-0.000163],[810.0],-0.00016299999999999998,810.0
+16591,Cu177Pb3S100,Seebeck,,maximum S,[0.00010809999999999998],[773.0],0.0001081,773.0
+16592,CuFe2S3,Seebeck,,Seebeck coefficient,[-7.5e-05],[723.0],-7.5e-05,723.0
+16593,CuFe2S3,Seebeck,,thermopower,[-6.5e-05],[300.0],-6.500000000000001e-05,300.0
+16594,CNT,Seebeck,,Seebeck coefficient,[2.9e-05],[295],2.8999999999999997e-05,295.0
+16595,CdCu2Se4Sn,Seebeck,,S,[0.00023999999999999998],[350.0],0.00024000000000000006,350.0
+16596,Bi20Se3Te27,Seebeck,,thermoelectric power,[0.000165],[300.0],0.000165,300.0
+16597,CuLa2O4,Seebeck,,Seebeck coefficient,[2.4999999999999998e-05],[330.0],2.5e-05,330.0
+16598,Se,Seebeck,,S,[0.00039999999999999996],[300.0],0.0004,300.0
+16599,PbTe,Seebeck,,Seebeck coefficient,"[0.000227, 0.000312]","[300.0, 673.0]",0.0002695,486.5
+16600,BiCuOSe,Seebeck,,Seebeck coefficient,[-1e-06],[700.0],-1e-06,700.0
+16601,Ca3Co4O9,Seebeck,,thermopower,[0.00011999999999999999],[300.0],0.00012000000000000003,300.0
+16603,CeNiSn,Seebeck,,thermopower,[4.9999999999999996e-05],[4.0],5e-05,4.0
+16604,Ca3Co2O6,Seebeck,,thermopower,[0.00045],[295],0.00045,295.0
+16605,Cd6Eu11Sb12,Seebeck,,p - type Seebeck coefficient,"[0.000118, 0.000153]",[295],0.0001355,295.0
+16609,Sb2Te3,Seebeck,,Seebeck coefficient,[0.000536],[295],0.000536,295.0
+16610,Sb2Te3,Seebeck,,Seebeck coefficient,[8.999999999999999e-05],[295],9e-05,295.0
+16611,Sb2Te3,Seebeck,,Seebeck coefficient,[8.999999999999999e-05],[295],9e-05,295.0
+16612,Sb2Te3,Seebeck,,Seebeck coefficient,[0.000536],[295],0.000536,295.0
+16615,NiSnZr,Seebeck,,Seebeck coefficient,[-0.00050547],[300.0],-0.00050547,300.0
+16616,Bi20Se3Te27,Seebeck,,Seebeck coefficient,[0.000143],[500.0],0.000143,500.0
+16618,Bi9SbTe15,Seebeck,,α,"[0.00021999999999999998, 0.00026]",[280.0],0.00024000000000000006,280.0
+16619,BiO400Zn399,Seebeck,,Seebeck coefficient,[0.000484],[1073.0],0.000484,1073.0
+16620,La2O75Sr23Ti25,Seebeck,,Seebeck coefficient,[0.000177],[679.0],0.000177,679.0
+16621,BiSbTe,Seebeck,,α,[0.00025618],[350.0],0.00025618,350.0
+16622,GeSi,Seebeck,,S,[0.000135],[323.0],0.000135,323.0
+16623,MoSi,Seebeck,,S,[8.8e-05],[323.0],8.8e-05,323.0
+16627,MoTe2,Seebeck,,Seebeck coefficient,[-0.00078],[295],-0.0007800000000000001,295.0
+16628,MoSe2,Seebeck,,Seebeck coefficient,[-0.0009],[295],-0.0009000000000000002,295.0
+16629,CoGeTiY,Seebeck,,S,[-1.1e-05],[50.0],-1.1e-05,50.0
+16630,NiSnZr,Seebeck,,S,[-0.000175],[900.0],-0.000175,900.0
+16631,Ni11Sn10Zr10,Seebeck,,S,[-208.0],[295],-208.0,295.0
+16632,In2O3,Seebeck,,average Seebeck coefficient,[0.000224],[1546.0],0.00022400000000000002,1546.0
+16633,In2O3,Seebeck,,average Seebeck coefficient,[0.00016199999999999998],[1546.0],0.00016199999999999998,1546.0
+16635,MoSi2,Seebeck,,Seebeck coefficient,[2.5699999999999998e-05],[1273.0],2.57e-05,1273.0
+16636,Cu3S4Sb,Seebeck,,S,[0.00017109999999999998],[523.0],0.00017109999999999998,523.0
+16637,MoS2,Seebeck,,Seebeck coefficient,[0.0006],[295],0.0006000000000000001,295.0
+16638,NiSbSc,Seebeck,,Seebeck coefficient,[6.52e-05],[295],6.52e-05,295.0
+16639,GaO3Sc,Seebeck,,Seebeck coefficient,"[6.896999999999999e-07, 2.105e-05]",[295],1.08698e-05,295.0
+16640,AgGaO3,Seebeck,,Seebeck coefficient,"[4.8688e-06, 2.471e-05]",[295],1.47894e-05,295.0
+16641,GaO3Ti,Seebeck,,Seebeck coefficient,[-8.809e-07],[295],-8.809e-07,295.0
+16642,Ba4Ga8Ge15,Seebeck,,Seebeck coefficient,[-0.15],"[300.0, 900.0]",-0.15,600.0
+16644,Cu2S,Seebeck,,Seebeck coefficient,[0.0003],[295],0.00030000000000000003,295.0
+16645,Cu9S5,Seebeck,,Seebeck coefficient,[9.999999999999999e-06],[973.0],1e-05,973.0
+16646,CoSbTi,Seebeck,,Seebeck coefficient,[-3.9999999999999996e-05],[300.0],-4e-05,300.0
+16647,Bi2Te3,Seebeck,,maximum S,[0.00015],[403.0],0.00015,403.0
+16649,Al3Yb,Seebeck,,Seebeck coefficient,[3.9e-05],[673.0],3.9e-05,673.0
+16650,Co3Cu17,Seebeck,,S,[-3e-06],[35.0],-3e-06,35.0
+16651,Co40Ga2Sb117Te3,Seebeck,,maximum Seebeck coefficient,[0.000237],[800.0],0.00023700000000000001,800.0
+16652,SeSn,Seebeck,,Seebeck coefficient,[-0.00015099999999999998],[300.0],-0.00015099999999999998,300.0
+16654,Ca4Mn4O11,Seebeck,,S,[-0.00016999999999999999],[500.0],-0.00016999999999999999,500.0
+16655,C2O,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[295],0.0001,295.0
+16656,GeMgMn2,Seebeck,,Seebeck coefficient,[-3.7999999999999995e-05],[295],-3.8e-05,295.0
+16657,Co40Sb113Se3Te4,Seebeck,,Seebeck coefficient,[0.00023899999999999998],[750.0],0.000239,750.0
+16658,CrSb2,Seebeck,,thermopower,[-0.00043099999999999996],[60.0],-0.000431,60.0
+16659,Ca3Co4O9,Seebeck,,Seebeck coefficient,[0.000175],[873.0],0.000175,873.0
+16660,Te,Seebeck,,Seebeck coefficient,[-0.000128],[300.0],-0.000128,300.0
+16661,InSe,Seebeck,,thermoelectric power,[0.002626],[37.0],0.0026260000000000003,37.0
+16662,InSe,Seebeck,,Seebeck coefficient,[0.002626],[37.0],0.0026260000000000003,37.0
+16663,CO2Ti2,Seebeck,,Seebeck coefficient,[0.00065],[295],0.0006500000000000001,295.0
+16664,O3SrTi,Seebeck,,Seebeck coefficient,[0.00085],[90.0],0.0008500000000000001,90.0
+16665,CeCu2In,Seebeck,,thermopower,[5.4e-05],[25.0],5.4000000000000005e-05,25.0
+16666,Bi2Te3,Seebeck,,α,[0.00015999999999999999],[320.0],0.00016,320.0
+16667,Ag5Cu44In50Te100,Seebeck,,Seebeck coefficient,[0.00020099999999999998],[295],0.000201,295.0
+16668,Ag10Cu9In20Te40,Seebeck,,Seebeck coefficient,[0.00039299999999999996],[295],0.000393,295.0
+16669,Co16Sb48Yb,Seebeck,,Seebeck coefficient,[0.00021099999999999998],[400.0],0.000211,400.0
+16671,Fe2O3,Seebeck,,maximum Seebeck coefficient,[0.000107],[343.0],0.00010700000000000001,343.0
+16672,Ba10Bi8Co10Oy5Pb2,Seebeck,,maximum S,[0.000135],[295],0.000135,295.0
+16673,Ca,Seebeck,,Seebeck coefficient,[0.0003],[873.0],0.00030000000000000003,873.0
+16676,DEOPT,Seebeck,,S,[1.28e-05],[300.0],1.28e-05,300.0
+16679,CaMn,Seebeck,,thermopower,[9.999999999999999e-05],[295],0.0001,295.0
+16680,Ca3OSn,Seebeck,,S,[0.00012734],[200.0],0.00012734,200.0
+16681,Ca3OSn,Seebeck,,S,[0.00013371977],[300.0],0.0001337198,300.0
+16682,Ca3OSn,Seebeck,,S,[0.0001573124],[800.0],0.0001573124,800.0
+16683,Ca57Co80NaO180,Seebeck,,S,[0.000274],[1054.0],0.00027400000000000005,1054.0
+16684,O2Ti,Seebeck,,Seebeck coefficient,[-8.859999999999999e-05],[773.0],-8.859999999999999e-05,773.0
+16685,Sb,Seebeck,,S,[9.999999999999999e-05],[295],0.0001,295.0
+16686,Ca4DyMn5O15,Seebeck,,Seebeck coefficient,[5.4999999999999995e-05],[1073.0],5.5e-05,1073.0
+16688,AsCoCrFe,Seebeck,,Seebeck coefficient,[-3.9999999999999996e-05],[295],-4e-05,295.0
+16689,O2Sn,Seebeck,,Seebeck coefficient,[-0.00029],[295],-0.00029,295.0
+16690,Mg,Seebeck,,Seebeck coefficient,[-0.00047],[373.0],-0.00047,373.0
+16691,CoO2,Seebeck,,thermopower,[0.0001],[300.0],0.0001,300.0
+16692,Cu4S16Sn7,Seebeck,,Seebeck coefficient,[-0.0006],[295],-0.0006000000000000001,295.0
+16694,SbTe2Tl,Seebeck,,Seebeck coefficient,[7e-05],[900.0],7.000000000000001e-05,900.0
+16695,T,Seebeck,,S,[0.00039299999999999996],[700.0],0.000393,700.0
+16697,CrSi2,Seebeck,,S,[0.000179],[573.0],0.00017900000000000001,573.0
+16698,Co2NaO4,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[300.0],0.0001,300.0
+16700,Bi2Te3,Seebeck,,Seebeck coefficient,[0.000135],[423.0],0.000135,423.0
+16701,Ag482Cu4Mg500Sb495,Seebeck,,Seebeck coefficient,[0.000234],[295],0.000234,295.0
+16702,OZn,Seebeck,,maximum Seebeck coefficient,[0.000448],"[300.0, 330.0]",0.00044800000000000005,315.0
+16703,BaCu2Se2,Seebeck,,Seebeck coefficient,[0.00039],[300.0],0.0003900000000000001,300.0
+16704,SbTe2Tl,Seebeck,,S,[7.999999999999999e-05],[295],8e-05,295.0
+16706,Tl,Seebeck,,maximum Seebeck coefficient,[0.000248],[723.0],0.000248,723.0
+16707,Tl,Seebeck,,Seebeck coefficient,[8.28e-05],[295],8.28e-05,295.0
+16708,PbSe,Seebeck,,Seebeck coefficient,[0.000213],[750.0],0.000213,750.0
+16709,NaPb399Se400,Seebeck,,Seebeck coefficient,[0.000248],[850.0],0.000248,850.0
+16710,PbSe,Seebeck,,highest Seebeck coefficient,[0.00028],[900.0],0.00028000000000000003,900.0
+16711,B,Seebeck,,Seebeck coefficient,[-0.00027],[873.0],-0.00027,873.0
+16712,PbSe,Seebeck,,Seebeck coefficient,[-0.000186],[873.0],-0.00018600000000000002,873.0
+16714,Cu,Seebeck,,Seebeck coefficient,[0.00020999999999999998],[325.0],0.00021,325.0
+16715,Bi2Te3,Seebeck,,Seebeck coefficient,[0.00019580000000000002],[365.0],0.00019580000000000002,365.0
+16716,S2Ti,Seebeck,,thermopower,[-0.000251],[300.0],-0.000251,300.0
+16718,GeSb,Seebeck,,Seebeck coefficient,[8e-06],[295],8e-06,295.0
+16719,Ba10Bi9Co10Oy5Pb,Seebeck,,highest S,[0.00011999999999999999],[923.0],0.00012000000000000003,923.0
+16721,Ba2ErO6Ta,Seebeck,,S,[4.9999999999999996e-06],[50.0],5e-06,50.0
+16722,S,Seebeck,,Seebeck coefficient,[0.000111],[295],0.00011100000000000001,295.0
+16723,Cu2Se,Seebeck,,Seebeck coefficient,[3.5e-05],[295],3.5e-05,295.0
+16724,CuS,Seebeck,,S,"[3e-06, 1.35e-05]","[55.0, 300.0]",8.25e-06,177.5
+16725,Ge49RTe50,Seebeck,,Seebeck coefficient,[1.4e-05],[750.0],1.4000000000000001e-05,750.0
+16726,Mn2PtRh,Seebeck,,S,[-3.7999999999999996e-06],[100.0],-3.8e-06,100.0
+16727,Mn2PdPt,Seebeck,,S,[5.66e-05],[1000.0],5.660000000000001e-05,1000.0
+16728,Ni,Seebeck,,Thermoelectric power,[-1.5e-06],[295],-1.5e-06,295.0
+16729,Gd5Ge2Si2,Seebeck,,thermopower,[-8e-06],[273.0],-8e-06,273.0
+16730,AsFeLaO,Seebeck,,α,[-0.00013],[100.0],-0.00013000000000000002,100.0
+16731,Pristine,Seebeck,,α,[0.00035],[295],0.00035000000000000005,295.0
+16732,NdPr,Seebeck,,Seebeck coefficient,"[7.999999999999999e-05, 8.999999999999999e-05]",[100.0],8.499999999999999e-05,100.0
+16733,CNT,Seebeck,,Seebeck coefficient,[-0.000113],[295],-0.000113,295.0
+16735,CuMn2Si,Seebeck,,S,[1.4999999999999999e-05],[150.0],1.5e-05,150.0
+16736,CuMn2Si,Seebeck,,S,[0.002],[150.0],0.002,150.0
+16737,CuMn2Si,Seebeck,,S,[2.9999999999999997e-05],[300.0],3.0000000000000008e-05,300.0
+16738,Mn3Sn17Te20,Seebeck,,Seebeck coefficient,[5.9999999999999995e-05],[295],6.0000000000000015e-05,295.0
+16739,SnTe,Seebeck,,Seebeck coefficient,[1.4999999999999999e-05],[295],1.5e-05,295.0
+16740,CoO5Zn4,Seebeck,,Seebeck coefficient,[5.4999999999999995e-05],[373.0],5.5e-05,373.0
+16741,OZn,Seebeck,,Seebeck coefficient,[2.7e-05],[373.0],2.7000000000000002e-05,373.0
+16742,BCN2T,Seebeck,,α,[0.00020899999999999998],[300.0],0.000209,300.0
+16743,BFNST,Seebeck,,maximum thermopower,[0.000213],[295],0.000213,295.0
+16744,BFNST,Seebeck,,Seebeck coefficient,[0.000621],"[935.0, 1040.0]",0.000621,987.5
+16745,Ba5Fe16Nb8O120Sr35Ti16,Seebeck,,Seebeck coefficient,[0.0006212],[935.3],0.0006211999999999999,935.3
+16746,Ba5Fe16Nb8O120Sr35Ti16,Seebeck,,Seebeck coefficient,[0.0011459999999999999],[935.3],0.001146,935.3
+16747,Al8Ba4Si15,Seebeck,,Seebeck coefficient,[-3.6e-05],[670.0],-3.6e-05,670.0
+16748,Bi15Sb5Se12Te18,Seebeck,,Seebeck coefficient,[-0.00039999999999999996],[295],-0.0004,295.0
+16749,Bi15Sb5Se12Te18,Seebeck,,Seebeck coefficient,[-0.00039999999999999996],[295],-0.0004,295.0
+16750,MnMoO6Sr2,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[295],0.0002,295.0
+16751,DEOPT,Seebeck,,Seebeck coefficient,"[9e-06, 1.2e-05]",[295],1.05e-05,295.0
+16752,DEOPT,Seebeck,,Seebeck coefficient,[1.5199999999999998e-05],[300.0],1.52e-05,300.0
+16753,AlCoMnTi,Seebeck,,S,[4.97e-06],[50.0],4.97e-06,50.0
+16754,AlCoMnTi,Seebeck,,S,[0.0003],[50.0],0.00030000000000000003,50.0
+16755,AlCoMnTi,Seebeck,,S,[1.9999999999999998e-05],[295],2e-05,295.0
+16756,CuO,Seebeck,,Seebeck coefficient,[0.0005],[295],0.0005,295.0
+16759,Ca2Co2O5,Seebeck,,Seebeck coefficient,[0.00018199999999999998],[750.0],0.000182,750.0
+16760,Cu,Seebeck,,α,[0.000263],[298.0],0.000263,298.0
+16762,Ge3Si7,Seebeck,,α,[-0.00047999999999999996],[300.0],-0.0004800000000000001,300.0
+16764,CMNTsW,Seebeck,,Seebeck coefficient,[0.0014],[333.0],0.0014,333.0
+16765,S2Sn,Seebeck,,Seebeck coefficient,[0.0347],[300.0],0.0347,300.0
+16766,PbTe,Seebeck,,highest Seebeck coefficient,[0.00041999999999999996],"[300.0, 600.0]",0.00042,450.0
+16768,IrMn,Seebeck,,Seebeck coefficient,[9.999999999999999e-06],[295],1e-05,295.0
+16769,BCoFe,Seebeck,,Seebeck coefficient,[3e-06],[295],3e-06,295.0
+16770,Sn103Te100,Seebeck,,Seebeck coefficient,[2.99e-05],[295],2.99e-05,295.0
+16771,Ca9In3Sn91Te100,Seebeck,,S,[7.3e-05],[295],7.3e-05,295.0
+16772,Fe19Ni81,Seebeck,,Seebeck coefficient,[-2e-09],[300.0],-2e-09,300.0
+16773,Fe19Ni81,Seebeck,,Seebeck coefficient,[-1.9999999999999998e-05],[300.0],-2e-05,300.0
+16774,PdSbY,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[295],0.0002,295.0
+16779,Bi2Co2OySr2,Seebeck,,thermopower,[9.999999999999999e-05],[295],0.0001,295.0
+16780,Ca2N2Zn,Seebeck,,S,[0.000204],[250.0],0.000204,250.0
+16781,Ca2N2Zn,Seebeck,,prominent S,[0.000215],[800.0],0.000215,800.0
+16782,GeTe,Seebeck,,Seebeck coefficient,[5.9e-05],[295],5.9e-05,295.0
+16783,GeTe,Seebeck,,Seebeck coefficient,[2.8e-05],[295],2.8000000000000003e-05,295.0
+16784,Cu3SbSe4,Seebeck,,Seebeck coefficient,[6.665999999999999e-05],[300.0],6.666e-05,300.0
+16785,Ca3Co4O9,Seebeck,,thermoelectric power,[0.000125],[300.0],0.000125,300.0
+16786,Ba5Bi35Cu34Ni6O40Se40,Seebeck,,maximum Seebeck coefficient,[0.000403],[923.0],0.00040300000000000004,923.0
+16787,BaBi7Cu8O8Se8,Seebeck,,Seebeck coefficient,[0.00011499999999999999],[293.0],0.000115,293.0
+16788,Ba5Bi35Cu34Ni6O40Se40,Seebeck,,Seebeck coefficient,[0.000314],[293.0],0.000314,293.0
+16789,As6Ca5Sn2,Seebeck,,S,[0.000266],[390.0],0.000266,390.0
+16790,As6Ca5Ga2,Seebeck,,S,[0.00020099999999999998],[500.0],0.000201,500.0
+16792,Ca3Co4O9,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[295],0.0001,295.0
+16793,Bi2Pb6Se9,Seebeck,,S,[-0.00015999999999999999],[295],-0.00016,295.0
+16794,CsNbO3,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[200.0],0.0001,200.0
+16795,Ga77K74Si389,Seebeck,,S,[0.00018999999999999998],[300.0],0.00018999999999999998,300.0
+16796,BiSSbTe2,Seebeck,,Seebeck coefficient,[-0.00017999999999999998],[300.0],-0.00018,300.0
+16797,CeO15Sr4Ti5,Seebeck,,S,[0.07],[295],0.07,295.0
+16798,Fe3O4,Seebeck,,p - type Seebeck coefficient,[0.0009],[300.0],0.0009000000000000002,300.0
+16799,CoLaO3,Seebeck,,Seebeck coefficient,[-0.000345],[295],-0.00034500000000000004,295.0
+16800,CrCuS2,Seebeck,,Seebeck coefficient,[0.000445],[295],0.00044500000000000003,295.0
+16801,OZn,Seebeck,,Seebeck coefficient,[-0.00033],[473.0],-0.00033000000000000005,473.0
+16802,LaMnO3,Seebeck,,Seebeck coefficient,[-0.00015199999999999998],[450.0],-0.00015199999999999998,450.0
+16803,CoLaO3,Seebeck,,Seebeck coefficient,[-0.000247],[450.0],-0.00024700000000000004,450.0
+16804,Fe,Seebeck,,Seebeck coefficient,[2.4999999999999998e-05],[450.0],2.5e-05,450.0
+16805,Fe,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[450.0],0.0001,450.0
+16806,Co2MnSi,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[450.0],0.0001,450.0
+16807,LaMnO3,Seebeck,,Seebeck coefficient,[-0.00015199999999999998],[450.0],-0.00015199999999999998,450.0
+16808,Tetrabutylammonium,Seebeck,,Seebeck coefficient,[0.002],[295],0.002,295.0
+16809,As12CeFe4,Seebeck,,Seebeck coefficient,[0.04],[850.0],0.04,850.0
+16810,BiCuOSe,Seebeck,,Seebeck coefficient,[0.000496],[300.0],0.000496,300.0
+16811,AgBi9Cu10O10Se10,Seebeck,,Seebeck coefficient,[0.000153],[300.0],0.000153,300.0
+16812,Ag900Ga100Se523Te75,Seebeck,,α,[0.000128],[300.0],0.000128,300.0
+16813,SnTe,Seebeck,,S,[7.4e-06],[295],7.399999999999999e-06,295.0
+16814,SnTe,Seebeck,,S,[0.0001558],[295],0.0001558,295.0
+16815,BiCuOS,Seebeck,,Seebeck coefficient,[0.00072511],[295],0.0007251100000000001,295.0
+16816,Cd4Sb3,Seebeck,,thermopower,[0.00019999999999999998],[295],0.0002,295.0
+16817,BiCuOSe,Seebeck,,Seebeck coefficient,[0.00035299999999999996],[300.0],0.000353,300.0
+16818,Ba3Bi17Cu20O20Se20,Seebeck,,Seebeck coefficient,[6.9e-05],[300.0],6.9e-05,300.0
+16819,AgSn10Te10,Seebeck,,Seebeck coefficient,[0.000157],[900.0],0.000157,900.0
+16820,AsTe49,Seebeck,,Seebeck coefficient,[0.00011999999999999999],[295],0.00012000000000000003,295.0
+16822,Sb2Te3,Seebeck,,highest Seebeck coefficient,[0.00014099999999999998],"[300.0, 600.0]",0.00014099999999999998,450.0
+16823,Bi2Te3,Seebeck,,S,[-7e-05],[300.0],-7.000000000000001e-05,300.0
+16824,Bi2Te3,Seebeck,,S,[-0.00023999999999999998],[300.0],-0.00024000000000000006,300.0
+16826,Pristine,Seebeck,,Seebeck coefficient,[0.000423],[323.0],0.00042300000000000004,323.0
+16827,Bi9Cu10O10Se10Sm,Seebeck,,Seebeck coefficient,[0.000121],[323.0],0.000121,323.0
+16828,FeS2,Seebeck,,α,"[7e-05, 7.999999999999999e-05]",[573.0],7.5e-05,573.0
+16829,OZn,Seebeck,,Seebeck coefficient,[0.00033999999999999997],[300.0],0.00033999999999999997,300.0
+16830,Bi2Se3,Seebeck,,average Seebeck coefficient,[-0.000121],[300.0],-0.000121,300.0
+16831,InSe2Tl,Seebeck,,Seebeck coefficient,[0.0002],[1000.0],0.0002,1000.0
+16833,AgISn19Te19,Seebeck,,S,[2.9999999999999997e-05],[295],3.0000000000000008e-05,295.0
+16834,AgISn19Te19,Seebeck,,S,[0.000185],[856.0],0.000185,856.0
+16835,AgSn19Te20,Seebeck,,Seebeck coefficient,[3.6e-05],[295],3.6e-05,295.0
+16836,Co20Sb58SeTe,Seebeck,,Seebeck coefficient,[0.000299],[590.0],0.000299,590.0
+16837,Bi104BrCu105O100Se99,Seebeck,,Seebeck coefficient,[-0.0005],[500.0],-0.0005,500.0
+16838,Bi7Sb33Te60,Seebeck,,highest S,[0.0002],[295],0.0002,295.0
+16839,Co5O15Sr6,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],"[300.0, 1120.0]",0.0001,710.0
+16840,Co5O15Sr6,Seebeck,,Seebeck coefficient,"[0.00013, 0.00010999999999999999]","[300.0, 750.0]",0.00012000000000000003,525.0
+16842,Ca3Co2O6,Seebeck,,Seebeck coefficient,[0.0003],[300.0],0.00030000000000000003,300.0
+16843,CoSb3,Seebeck,,Seebeck coefficient,[4.6899999999999995e-05],[523.0],4.69e-05,523.0
+16844,Co2NaO4,Seebeck,,thermopower,[9.999999999999999e-05],[300.0],0.0001,300.0
+16845,Co20O40Sr7,Seebeck,,thermoelectric power,[7e-05],[295],7.000000000000001e-05,295.0
+16846,AINP,Seebeck,,S,[0.0286],[350.0],0.0286,350.0
+16847,CNT,Seebeck,,S,[0.0027400000000000002],[350.0],0.00274,350.0
+16848,Bi2S3,Seebeck,,maximum Seebeck coefficient,[-0.00046199999999999995],[295],-0.000462,295.0
+16849,Bi2Te3,Seebeck,,Seebeck coefficient,"[-0.00019999999999999998, -0.00021999999999999998]",[295],-0.00021,295.0
+16850,Sb2Te3,Seebeck,,Seebeck coefficient,[0.00016999999999999999],[295],0.00016999999999999999,295.0
+16851,Ca3Co4O9,Seebeck,,maximum Seebeck coefficient,"[0.00016999999999999999, 0.000175]",[898.0],0.00017250000000000002,898.0
+16852,FeSbV,Seebeck,,S,[-4.9e-05],"[300.0, 473.0]",-4.9e-05,386.5
+16853,Sb2Te3,Seebeck,,Seebeck coefficient,[0.00018999999999999998],[295],0.00018999999999999998,295.0
+16854,PbTe,Seebeck,,Seebeck coefficient,[0.00010999999999999999],[470.0],0.00011,470.0
+16855,FeS2,Seebeck,,S,[7.999999999999999e-05],[295],8e-05,295.0
+16856,FeS2,Seebeck,,Seebeck coefficient,[7.999999999999999e-05],[295],8e-05,295.0
+16857,CeCu2Si2,Seebeck,,thermopower,[-2.9999999999999997e-05],[20.0],-3.0000000000000008e-05,20.0
+16858,MoO6Sr2Ti,Seebeck,,Seebeck coefficient,[2.2999999999999996e-06],[295],2.3e-06,295.0
+16859,MoO6Sr2Ti,Seebeck,,Seebeck coefficient,[-1.05e-05],[1230.0],-1.05e-05,1230.0
+16860,Co2Cu10S13Sb4,Seebeck,,Seebeck coefficient,[0.0003],[673.0],0.00030000000000000003,673.0
+16861,CoCu23S26Sb8,Seebeck,,Seebeck coefficient,[0.000168],[673.0],0.000168,673.0
+16862,O2Ti,Seebeck,,Seebeck coefficient,[0.000124],[303.0],0.000124,303.0
+16863,Co19Dy20NiO60,Seebeck,,Seebeck coefficient,[0.00045999999999999996],[350.0],0.00045999999999999996,350.0
+16864,Co200Sb600Yb13,Seebeck,,Seebeck coefficient,[-0.00021999999999999998],[850.0],-0.00022,850.0
+16865,O2Ti,Seebeck,,Seebeck coefficient,[0.00012375],[303.0],0.00012375,303.0
+16866,Bi2Te3,Seebeck,,S,[-8.3e-05],[297.0],-8.3e-05,297.0
+16867,Bi2Te3,Seebeck,,S,[-0.00011399999999999999],[297.0],-0.000114,297.0
+16868,CMNTW,Seebeck,,Seebeck coefficient,[-9.2e-05],[500.0],-9.2e-05,500.0
+16869,MoS2,Seebeck,,Seebeck coefficient,[0.0006],[295],0.0006000000000000001,295.0
+16870,Ce2Ge5Ni3,Seebeck,,S,[1.3e-05],[145.0],1.3000000000000001e-05,145.0
+16871,Ce3Ge2Ni,Seebeck,,S,[-1.6e-05],[350.0],-1.6e-05,350.0
+16873,Ca50Fe50O129,Seebeck,,thermoelectric power,[-9.999999999999999e-06],[250.0],-1e-05,250.0
+16874,Ca2Fe2O5,Seebeck,,thermoelectric power,[0.00031999999999999997],[300.0],0.00032,300.0
+16875,Bi2Te3,Seebeck,,Seebeck coefficient,[0.000175],[348.0],0.000175,348.0
+16876,CoMoO12Sr4Ti2,Seebeck,,Seebeck coefficient,[-4.06e-05],[1150.0],-4.0600000000000004e-05,1150.0
+16877,FeSb2,Seebeck,,thermopower,[-0.045],[10.0],-0.045,10.0
+16878,Bi2Co2OySr2,Seebeck,,seebeck coefficient,[0.00011499999999999999],[295],0.000115,295.0
+16879,BCOS,Seebeck,,thermoelectric power,[0.00013],[295],0.00013000000000000002,295.0
+16880,BST,Seebeck,,Seebeck coefficient,[0.000184],[295],0.000184,295.0
+16882,Cu20Se7Te3,Seebeck,,Seebeck coefficient,[0.000174],[500.0],0.000174,500.0
+16884,In2Pd8Se,Seebeck,,thermopower,[2.5e-05],[300.0],2.5e-05,300.0
+16885,BiSbTe,Seebeck,,S,[1.8e-05],[300.0],1.8e-05,300.0
+16886,Bi2Te3,Seebeck,,Seebeck coefficient,[-0.00025],[295],-0.00025,295.0
+16887,MnSb2Se4,Seebeck,,Seebeck coefficient,[0.000945],[300.0],0.0009449999999999999,300.0
+16888,MnSb2Se4,Seebeck,,S,[0.00065],[573.0],0.0006500000000000001,573.0
+16889,CuMn3Sb8Se16,Seebeck,,Seebeck coefficient,[0.000945],[295],0.0009449999999999999,295.0
+16890,HfSe2,Seebeck,,peak S,[4.37e-05],[300.0],4.3700000000000005e-05,300.0
+16891,Ce9Co10Fe30Sb120,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[295],0.0001,295.0
+16893,Ti,Seebeck,,S,[-7.999999999999999e-05],[295],-8e-05,295.0
+16894,BiRhZr,Seebeck,,Seebeck coefficient,[0.00031989],[1300.0],0.00031989000000000003,1300.0
+16895,BiIrZr,Seebeck,,Seebeck coefficient,[0.0002559],[1300.0],0.00025590000000000004,1300.0
+16896,IrSnTa,Seebeck,,Seebeck coefficient,[0.00049009],[1300.0],0.00049009,1300.0
+16897,Ag9Pb180Sb10Te200,Seebeck,,Seebeck coefficient,[0.000404],[373.0],0.000404,373.0
+16898,Ag,Seebeck,,Seebeck coefficient,[0.00039999999999999996],[373.0],0.0004,373.0
+16899,Mg2Si,Seebeck,,S,[0.000388],[623.0],0.000388,623.0
+16900,Mg2Si,Seebeck,,S,[0.00035],[823.0],0.00035000000000000005,823.0
+16901,Mg2Si,Seebeck,,S,[0.00028],[823.0],0.00028000000000000003,823.0
+16902,T,Seebeck,,S,[-2.8e-05],[200.0],-2.8000000000000003e-05,200.0
+16904,Ba4Cu3Si20,Seebeck,,S,[6.2e-05],[720.0],6.2e-05,720.0
+16905,Cu9S5,Seebeck,,S,[0.00010499999999999999],[773.0],0.000105,773.0
+16906,Mo3Te4,Seebeck,,Seebeck coefficient,[2.4999999999999998e-05],[1000.0],2.5e-05,1000.0
+16907,Ca3Co4O9,Seebeck,,Seebeck coefficient,[0.00023999999999999998],[973.0],0.00024000000000000006,973.0
+16908,Ca3Co4O9,Seebeck,,Seebeck coefficient,"[0.00010999999999999999, 0.00023999999999999998]",[295],0.000175,295.0
+16909,Bi2Sb8Te15,Seebeck,,Seebeck coefficient,[0.00023999999999999998],[295],0.00024000000000000006,295.0
+16910,Ca31Co40Na9O100,Seebeck,,thermoelectric power,[0.000165],[950.0],0.000165,950.0
+16911,Co2NaO4,Seebeck,,thermoelectric power,[9.999999999999999e-05],[300.0],0.0001,300.0
+16912,Bi85Nb2Sb13,Seebeck,,Seebeck coefficient,[0.00016099999999999998],[105.0],0.00016099999999999998,105.0
+16913,Bi85Nb2Sb13,Seebeck,,Seebeck coefficient,[0.00016099999999999998],[105.0],0.00016099999999999998,105.0
+16914,Bi85Nb2Sb13,Seebeck,,Seebeck coefficient,[0.00016099999999999998],[105.0],0.00016099999999999998,105.0
+16915,Mn51Te49,Seebeck,,Seebeck coefficient,[0.000414],[773.0],0.000414,773.0
+16916,Cu20S30Sn9Zn,Seebeck,,S,[0.00014769999999999999],[723.0],0.0001477,723.0
+16917,Cu20NiS30Sn9,Seebeck,,S,[0.00016230000000000001],[723.0],0.00016230000000000001,723.0
+16918,DEOPT,Seebeck,,S,[0.000135],[523.0],0.000135,523.0
+16922,FeSb2,Seebeck,,S,[-0.045],[12.0],-0.045,12.0
+16923,FeSb2,Seebeck,,S,"[2.2e-05, 2.8e-05]",[190.0],2.5e-05,190.0
+16924,Ag4CuSe3,Seebeck,,Seebeck coefficient,[-4.5499999999999995e-05],[295],-4.55e-05,295.0
+16926,Bi3SbTe6,Seebeck,,Seebeck coefficient,[0.00012638],[295],0.00012638,295.0
+16928,FeSbV,Seebeck,,Seebeck coefficient,[0.00010999999999999999],[295],0.00011,295.0
+16929,FeSbV,Seebeck,,Seebeck coefficient,[0.00010999999999999999],[295],0.00011,295.0
+16930,Bi2Se3,Seebeck,,Seebeck coefficient,[-0.00011999999999999999],[300.0],-0.00012000000000000003,300.0
+16931,AlCuO2,Seebeck,,Seebeck coefficient,[0.000325],[1200.0],0.000325,1200.0
+16932,Cu12S13Sb4,Seebeck,,Seebeck coefficient,[0.0002278],[723.0],0.0002278,723.0
+16933,Ge6La2Pd,Seebeck,,S,[-6e-07],[150.0],-6e-07,150.0
+16934,AlCo2Ti,Seebeck,,S,[-0.0017],[295],-0.0017,295.0
+16935,SbTe2Tl,Seebeck,,Seebeck coefficient,[0.000224],[666.0],0.00022400000000000002,666.0
+16936,SbTe2Tl,Seebeck,,Seebeck coefficient,[0.000224],[666.0],0.00022400000000000002,666.0
+16937,BaO3Sn,Seebeck,,Seebeck coefficient,[0.000106],[250.0],0.000106,250.0
+16938,BaO3Sn,Seebeck,,Seebeck coefficient,[0.000206],[800.0],0.000206,800.0
+16939,AgCoO2,Seebeck,,S,[0.00022999999999999998],[295],0.00022999999999999998,295.0
+16941,CoSb2,Seebeck,,thermoelectric power,[1e-06],"[300.0, 400.0]",1e-06,350.0
+16942,CoSb3,Seebeck,,thermoelectric power,[7.999999999999999e-05],"[300.0, 400.0]",8e-05,350.0
+16943,Bi20Se3Te27,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[300.0],0.0002,300.0
+16944,Ge3Sn7Te10,Seebeck,,S,[3.2e-05],[295],3.2e-05,295.0
+16945,Ge30Sb13Sn57Te100,Seebeck,,S,[6.8e-05],[295],6.8e-05,295.0
+16946,BiSb3Te6,Seebeck,,Seebeck coefficient,[0.000254],[323.0],0.000254,323.0
+16947,Bi2S3,Seebeck,,Seebeck coefficient,[0.00039999999999999996],[295],0.0004,295.0
+16948,Bi2S3,Seebeck,,α,[-0.00047999999999999996],[323.0],-0.0004800000000000001,323.0
+16949,SnTe,Seebeck,,S,[0.000128],[823.0],0.000128,823.0
+16950,Bi2S3,Seebeck,,Seebeck coefficient,[-0.000244],[673.0],-0.000244,673.0
+16951,Ba2Fe5Mo5O60Sr18Ti10,Seebeck,,Seebeck coefficient,[-7.8e-05],[1100.0],-7.8e-05,1100.0
+16953,Co20Sb19SnTi20,Seebeck,,Seebeck coefficient,[0.000222],[988.0],0.00022200000000000003,988.0
+16954,PbS,Seebeck,,thermoelectric power,[8.669999999999999e-05],[300.0],8.669999999999999e-05,300.0
+16956,PbTe,Seebeck,,Seebeck coefficient,[2.2e-05],[300.0],2.2e-05,300.0
+16957,S,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[950.0],0.0002,950.0
+16958,S,Seebeck,,S,[4.9999999999999996e-05],[300.0],5e-05,300.0
+16959,BiSb3Te6,Seebeck,,maximum Seebeck coefficient,[0.000234],[295],0.000234,295.0
+16960,B4C,Seebeck,,Seebeck coefficient,[0.00039999999999999996],[773.0],0.0004,773.0
+16961,Sb100Zn109,Seebeck,,Seebeck coefficient,[0.000237],[473.0],0.00023700000000000001,473.0
+16962,BiSn49Te50,Seebeck,,Seebeck coefficient,[2.2100000000000002e-05],[295],2.2100000000000002e-05,295.0
+16963,SnTe,Seebeck,,Seebeck coefficient,[3.87e-05],[295],3.87e-05,295.0
+16964,Ba4Ga8Ge15,Seebeck,,S,[0.0003],[800.0],0.00030000000000000003,800.0
+16966,CH2O2Sc2,Seebeck,,Seebeck coefficient,[0.000372],[295],0.00037200000000000004,295.0
+16967,CO2Sc2,Seebeck,,Seebeck coefficient,[0.001],[295],0.001,295.0
+16968,CF2Mo2,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[400.0],0.0001,400.0
+16969,DEOPT,Seebeck,,Seebeck coefficient,[2.9999999999999997e-05],[295],3.0000000000000008e-05,295.0
+16970,Bi2SnTe4,Seebeck,,Seebeck coefficient,[8.4e-05],[295],8.4e-05,295.0
+16971,FeSb2,Seebeck,,Seebeck coefficient,[-0.045],[10.0],-0.045,10.0
+16972,Bi40Se3Te57,Seebeck,,Seebeck coefficient,[-0.000108],[600.0],-0.00010800000000000001,600.0
+16974,Bi2S3,Seebeck,,Seebeck coefficient,[0.0005],"[423.0, 573.0]",0.0005,498.0
+16975,AlCuO2,Seebeck,,Seebeck coefficient,[0.00017999999999999998],[600.0],0.00018,600.0
+16978,Co20Na13O40,Seebeck,,thermoelectric power,[5.4999999999999995e-05],[295],5.5e-05,295.0
+16979,Cu2GeSe3,Seebeck,,Seebeck coefficient,[8.9e-05],[295],8.9e-05,295.0
+16980,Cu9Ge5Se15,Seebeck,,Seebeck coefficient,[0.000223],[295],0.000223,295.0
+16981,Cu3SbSe4,Seebeck,,thermopower,[0.00039999999999999996],[300.0],0.0004,300.0
+16982,Se,Seebeck,,S,[0.00039999999999999996],[300.0],0.0004,300.0
+16983,CoSbZr,Seebeck,,Seebeck coefficient,[-4.679999999999999e-05],[350.0],-4.68e-05,350.0
+16984,Ba4Cu7P15Zn,Seebeck,,maximum Seebeck coefficient,[7.999999999999999e-05],[295],8e-05,295.0
+16985,BiSbTe,Seebeck,,peak Seebeck coefficient,[0.00028789999999999995],[325.0],0.00028789999999999995,325.0
+16986,B190V,Seebeck,,S,[0.00045],[270.0],0.00045,270.0
+16987,AgS200Sn199,Seebeck,,S,[0.00035019999999999995],[295],0.0003502,295.0
+16988,Nb250S79Se711Sn290,Seebeck,,highest S,[1.6e-05],[295],1.6e-05,295.0
+16990,Ag8Se6Sn,Seebeck,,Seebeck coefficient,[-0.00028],[715.0],-0.00028000000000000003,715.0
+16991,Ag1600Se1200Sn201,Seebeck,,Seebeck coefficient,[-0.000143],[715.0],-0.000143,715.0
+16992,GeSi,Seebeck,,S,[0.000145],[373.0],0.000145,373.0
+16993,GeSi,Seebeck,,S,[0.000101],[373.0],0.000101,373.0
+16994,GeSi,Seebeck,,S,[0.000294],[1073.0],0.000294,1073.0
+16997,Co2NaO4,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[300.0],0.0001,300.0
+16998,CoLaO3,Seebeck,,Seebeck coefficient,[0.0006],[295],0.0006000000000000001,295.0
+16999,Co19La20MgO60,Seebeck,,Seebeck coefficient,[0.00039999999999999996],[295],0.0004,295.0
+17000,Pristine,Seebeck,,Seebeck coefficient,[0.3],[923.0],0.30000000000000004,923.0
+17002,Li3Ni97O100,Seebeck,,maximum α,[0.00016099999999999998],[473.0],0.00016099999999999998,473.0
+17003,Li9Ni91O100,Seebeck,,maximum α,[7.099999999999999e-05],[473.0],7.099999999999999e-05,473.0
+17005,DEOPT,Seebeck,,α,"[1.4999999999999999e-05, 2.9999999999999997e-05]",[300.0],2.25e-05,300.0
+17006,Bi2Te3,Seebeck,,S,"[1.53e-05, 1.57e-05]",[300.0],1.55e-05,300.0
+17007,Stretched,Seebeck,,S,[4.4e-05],[313.0],4.4e-05,313.0
+17008,GaNi3Sb,Seebeck,,S,[-2.2e-05],[1073.0],-2.2e-05,1073.0
+17009,AlBiO3,Seebeck,,maximum S,[0.000124],[800.0],0.000124,800.0
+17012,Bi,Seebeck,,highest Seebeck coefficient,[0.00019025999999999998],[781.0],0.00019026,781.0
+17014,Bi2Te3,Seebeck,,S,[0.00013099999999999999],[500.0],0.000131,500.0
+17015,PbTe,Seebeck,,S,[-0.00022999999999999998],[300.0],-0.00022999999999999998,300.0
+17016,DEOPT,Seebeck,,Seebeck coefficient,[1.7899999999999998e-05],[295],1.7899999999999998e-05,295.0
+17017,BiSb3Te6,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[295],0.0001,295.0
+17018,Bi2Te3,Seebeck,,Seebeck coefficient,[-5.3e-05],[300.0],-5.3e-05,300.0
+17019,Pt,Seebeck,,Seebeck coefficient,[-1.8e-06],[300.0],-1.8000000000000001e-06,300.0
+17020,SSr,Seebeck,,Seebeck coefficient,[0.001121],[700.0],0.001121,700.0
+17021,SSr,Seebeck,,Seebeck coefficient,[0.0010249999999999999],[700.0],0.001025,700.0
+17022,CeCoGe,Seebeck,,Seebeck coefficient,[-1.1e-05],[10.0],-1.1e-05,10.0
+17023,Ce5Co4Ge13,Seebeck,,Seebeck coefficient,[3.5e-05],[100.0],3.5e-05,100.0
+17024,Ca3Co2O6,Seebeck,,Seebeck coefficient,[0.00014],[1000.0],0.00014,1000.0
+17026,ACS,Seebeck,,S,[1.4e-05],[295],1.4000000000000001e-05,295.0
+17028,AINP,Seebeck,,thermopower,"[9.999999999999999e-06, 3.9999999999999996e-05]",[295],2.5e-05,295.0
+17029,AINP,Seebeck,,highest thermopower,[0.00011499999999999999],[295],0.000115,295.0
+17031,CuGaO2,Seebeck,,thermoelectric power,[7.999999999999999e-05],[295],8e-05,295.0
+17032,Bi2Te3,Seebeck,,p - type Seebeck coefficient,[0.0003],[300.0],0.00030000000000000003,300.0
+17034,Cu2GeSe3,Seebeck,,S,[0.00045558999999999997],[323.0],0.00045559,323.0
+17035,FeNbSb,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[300.0],0.0002,300.0
+17036,BiITe,Seebeck,,S,[-5.4999999999999995e-05],[300.0],-5.5e-05,300.0
+17037,Bi2CuISe3,Seebeck,,thermopower,[0.0005],[300.0],0.0005,300.0
+17038,CuGaTe2,Seebeck,,S,[0.00041299999999999996],[295],0.000413,295.0
+17039,CuMnNaSe2,Seebeck,,maximum Seebeck coefficient,[0.000297],[675.0],0.000297,675.0
+17040,Co19Na10NiO40,Seebeck,,Seebeck coefficient,[0.0003341],[695.0],0.00033410000000000004,695.0
+17041,CoSb3,Seebeck,,Seebeck coefficient,[0.0006],[1023.0],0.0006000000000000001,1023.0
+17042,CoSb3,Seebeck,,Seebeck coefficient,[-0.00025],[473.0],-0.00025,473.0
+17043,CoSb2,Seebeck,,Seebeck coefficient,[-4.9999999999999996e-05],[573.0],-5e-05,573.0
+17044,CoSb2,Seebeck,,S,[-4.65e-05],[856.0],-4.6500000000000005e-05,856.0
+17046,Co2NaO4,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[295],0.0001,295.0
+17047,SeSn,Seebeck,,Thermopower,[0.000358],[773.0],0.00035800000000000003,773.0
+17048,PbTe,Seebeck,,average thermoelectric power,[0.00021999999999999998],[740.0],0.00022,740.0
+17049,PbTe,Seebeck,,thermoelectric power,[0.00021999999999999998],[740.0],0.00022,740.0
+17050,HNaO,Seebeck,,Seebeck coefficient,[2.35e-05],[295],2.35e-05,295.0
+17051,Ba6Co125Sb375,Seebeck,,S,[4.6e-05],[295],4.6e-05,295.0
+17053,LaNb20O70Sr19,Seebeck,,S,[-3.073e-05],[473.0],-3.073e-05,473.0
+17055,Bi2Pb3S6,Seebeck,,S,[-0.00019999999999999998],[715.0],-0.0002,715.0
+17056,Bi2PbS4,Seebeck,,S,[-0.00029],[710.0],-0.00029,710.0
+17057,OZn,Seebeck,,Seebeck coefficient,[-0.00035999999999999997],[358.0],-0.00036,358.0
+17058,OZn,Seebeck,,Seebeck coefficient,[-0.0003],[358.0],-0.00030000000000000003,358.0
+17059,OZn,Seebeck,,thermopower,[-0.00035999999999999997],[573.0],-0.00036,573.0
+17060,BCS,Seebeck,,S,[9.499999999999999e-05],[300.0],9.5e-05,300.0
+17061,C2O,Seebeck,,Seebeck coefficient,[9.499999999999999e-05],[300.0],9.5e-05,300.0
+17062,NiPbZr,Seebeck,,Seebeck coefficient,[-0.0001539],[295],-0.00015390000000000003,295.0
+17063,SeSn,Seebeck,,S,[0.00052],[295],0.0005200000000000001,295.0
+17064,CoSSb,Seebeck,,Seebeck coefficient,[0.000155],[300.0],0.000155,300.0
+17065,Al3C3Y,Seebeck,,S,[0.000112],[1073.0],0.00011200000000000001,1073.0
+17066,Bi2Te3,Seebeck,,S,[0.000236],[295],0.000236,295.0
+17067,CoSbTi,Seebeck,,Seebeck coefficient,[7.75e-06],"[80.0, 90.0]",7.75e-06,85.0
+17068,CdS,Seebeck,,S,[0.00023999999999999998],[200.0],0.00024000000000000006,200.0
+17069,CdSe,Seebeck,,thermopower,[0.00025],[200.0],0.00025,200.0
+17070,C2O,Seebeck,,Seebeck coefficient,[0.00018099999999999998],[923.0],0.000181,923.0
+17071,AlCa3Sb3,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[295],0.0002,295.0
+17072,Fe2O5Ti,Seebeck,,Seebeck coefficient,[-9.999999999999999e-05],"[286.0, 1000.0]",-0.0001,643.0
+17073,CdTe,Seebeck,,maximal S,[0.000156],"[300.0, 700.0]",0.000156,500.0
+17074,Cd28MSr4Te31,Seebeck,,S,[0.00027],[1000.0],0.00027,1000.0
+17075,Cd32MTe31,Seebeck,,S,[0.000156],[1000.0],0.000156,1000.0
+17077,Cd28NSr4Te31,Seebeck,,S,[0.000245],[800.0],0.000245,800.0
+17078,PbTe,Seebeck,,Seebeck coefficient,[0.00015],[300.0],0.00015,300.0
+17079,AuBa2Bi,Seebeck,,Seebeck coefficient,[0.000848301],[300.0],0.0008483010000000001,300.0
+17080,Mg3Sb2,Seebeck,,Seebeck coefficient,[0.000363],[290.0],0.000363,290.0
+17081,Mg3Sb2,Seebeck,,Seebeck coefficient,[0.000363],[295],0.000363,295.0
+17082,HeikesS,Seebeck,,Seebeck coefficient,[0.0002537],[300.0],0.0002537,300.0
+17083,Bi2Te3,Seebeck,,Seebeck coefficient,[0.00023999999999999998],[413.0],0.00024000000000000006,413.0
+17084,Bi2Te3,Seebeck,,Seebeck coefficient,[-0.00018999999999999998],[295],-0.00018999999999999998,295.0
+17085,Bi2STe2,Seebeck,,maximum Seebeck coefficient,[-0.00023999999999999998],[413.0],-0.00024000000000000006,413.0
+17086,Bi2STe2,Seebeck,,Seebeck coefficient,[0.00023999999999999998],[413.0],0.00024000000000000006,413.0
+17089,CrSi2,Seebeck,,Seebeck coefficient,"[0.000125, 0.00019999999999999998]","[550.0, 700.0]",0.0001625,625.0
+17092,CrSi2,Seebeck,,S,[0.00019999999999999998],"[550.0, 700.0]",0.0002,625.0
+17093,O3SrTi,Seebeck,,S,[-0.00038112],[295],-0.00038112,295.0
+17094,CuS,Seebeck,,Seebeck coefficient,[1.2e-05],[295],1.2e-05,295.0
+17095,OZn,Seebeck,,Seebeck coefficient,"[6.5e-05, 7e-05]",[373.0],6.75e-05,373.0
+17096,Sb,Seebeck,,Seebeck coefficient,[1.28e-05],[400.0],1.28e-05,400.0
+17098,CuFeS2,Seebeck,,Seebeck coefficient,[-0.00047999999999999996],[295],-0.0004800000000000001,295.0
+17099,Co3O4,Seebeck,,Seebeck coefficient,[0.00018099999999999998],[1000.0],0.000181,1000.0
+17100,CoNaO2,Seebeck,,S,[0.000128],[295],0.000128,295.0
+17101,Co2NaO4,Seebeck,,S,"[7.999999999999999e-05, 9.999999999999999e-05]",[300.0],9e-05,300.0
+17102,Co2NaO4,Seebeck,,Seebeck coefficient,[0.00021799999999999999],[295],0.000218,295.0
+17104,O3SrTi,Seebeck,,Seebeck coefficient,[0.00085],[90.0],0.0008500000000000001,90.0
+17105,BiCuOSe,Seebeck,,thermopower,[0.00043],[295],0.00043,295.0
+17106,BiCuOTe,Seebeck,,thermopower,[0.000166],[295],0.000166,295.0
+17107,SeSn,Seebeck,,maximal Seebeck coefficient,[0.0006277],[600.0],0.0006277,600.0
+17109,Cu2S4SnZn,Seebeck,,Seebeck coefficient,[0.000223],[295],0.000223,295.0
+17110,Cu2S4SnZn,Seebeck,,Seebeck coefficient,[0.000213],[700.0],0.000213,700.0
+17111,Co2NaO4,Seebeck,,thermopower,[9.999999999999999e-05],[300.0],0.0001,300.0
+17112,CoO3Y,Seebeck,,thermopower,[0.001039],[295],0.001039,295.0
+17113,CoO3Y,Seebeck,,Seebeck coefficient,[0.0010479999999999999],[300.0],0.001048,300.0
+17114,Ca2Co2O5,Seebeck,,Seebeck coefficient,[0.000178],[983.0],0.000178,983.0
+17115,Ca2Co2O5,Seebeck,,Seebeck coefficient,[0.000183],[873.0],0.000183,873.0
+17116,Ag7Cu200Se300Sn93,Seebeck,,Seebeck coefficient,[0.000145],[773.0],0.000145,773.0
+17117,BiCuOSe,Seebeck,,S,[0.0003],[814.0],0.00030000000000000003,814.0
+17118,Bi47Cu50O50Pb3Se50,Seebeck,,Seebeck coefficient,[0.00014099999999999998],[327.0],0.00014099999999999998,327.0
+17119,Bi93Cu100LaO100Pb6Se100,Seebeck,,Seebeck coefficient,[0.00013199999999999998],[327.0],0.00013199999999999998,327.0
+17120,Undoped,Seebeck,,Seebeck coefficient,[0.00056],[295],0.0005600000000000001,295.0
+17121,GeTe,Seebeck,,S,[0.00015],[700.0],0.00015,700.0
+17122,Ge89Sb8Te100Ti3,Seebeck,,peak S,[0.00026],[525.0],0.00026000000000000003,525.0
+17123,Bi2Te3,Seebeck,,Seebeck coefficient,[0.000226],[300.0],0.000226,300.0
+17125,CuTbTe2,Seebeck,,S,[0.000116],[300.0],0.00011599999999999999,300.0
+17126,Ga4K4Sn19,Seebeck,,Seebeck coefficient,[-0.00026199999999999997],[490.0],-0.000262,490.0
+17127,ENiRSb,Seebeck,,Seebeck coefficient,"[3.9999999999999996e-05, 0.00015999999999999999]","[300.0, 1000.0]",0.0001,650.0
+17128,NiSbSc,Seebeck,,thermopower,[0.00015999999999999999],[523.0],0.00016,523.0
+17129,As2CdGeRb,Seebeck,,Seebeck coefficient,[0.000155],[50.0],0.000155,50.0
+17130,Na83O200Rh100,Seebeck,,S,[6.3e-05],[295],6.3e-05,295.0
+17131,Na3O8Rh4,Seebeck,,Seebeck coefficient,[3.7e-05],[300.0],3.7e-05,300.0
+17132,AgPb8SbTe10,Seebeck,,S,[-0.00041968999999999996],[338.0],-0.00041969,338.0
+17133,Cl6Cs2Re,Seebeck,,Seebeck coefficient,[0.00015],[295],0.00015,295.0
+17134,Cu,Seebeck,,maximum α,[0.000263],[298.0],0.000263,298.0
+17136,Ca3Co4O9,Seebeck,,S,[0.00013199999999999998],[295],0.00013199999999999998,295.0
+17137,BiTe6Tl9,Seebeck,,Seebeck coefficient,[0.000235],[295],0.00023500000000000002,295.0
+17138,RuSbV,Seebeck,,Seebeck coefficient,[0.00026267],[300.0],0.00026267,300.0
+17139,RuSbTa,Seebeck,,Seebeck coefficient,[0.00019988],[300.0],0.00019988,300.0
+17140,CoCrFeSi,Seebeck,,Seebeck coefficient,[0.00079185],[295],0.00079185,295.0
+17141,CoFeMSi,Seebeck,,S,[0.00079185],[295],0.00079185,295.0
+17142,B2Mg,Seebeck,,thermoelectric power,[8e-07],[40.0],8e-07,40.0
+17143,IPb333Te332,Seebeck,,Seebeck coefficient,[-0.00010999999999999999],[295],-0.00011,295.0
+17144,I3Pb996Sn40Te997,Seebeck,,Seebeck coefficient,[-6.9e-05],[295],-6.9e-05,295.0
+17145,HfPbPt,Seebeck,,Seebeck coefficient,[9.499999999999999e-05],[295],9.5e-05,295.0
+17146,Co19FeSb60,Seebeck,,Seebeck coefficient,[4.2999999999999995e-05],[300.0],4.3e-05,300.0
+17147,Co19FeSb59Te,Seebeck,,Seebeck coefficient,[-0.000309],[300.0],-0.000309,300.0
+17148,Co19FeSb59Te,Seebeck,,Seebeck coefficient,[-0.00035299999999999996],[427.0],-0.000353,427.0
+17149,Co19FeSb59Te,Seebeck,,Seebeck coefficient,[-0.000309],[300.0],-0.000309,300.0
+17150,C,Seebeck,,Seebeck coefficient,[-0.00039999999999999996],[373.0],-0.0004,373.0
+17151,OxTi,Seebeck,,Seebeck coefficient,[-0.0058],[373.0],-0.0058000000000000005,373.0
+17152,BiMg100Si49,Seebeck,,α,[-9.4e-05],[295],-9.4e-05,295.0
+17153,Mg4SiSn,Seebeck,,Seebeck coefficient,[-0.000154],[295],-0.000154,295.0
+17154,CMNTW,Seebeck,,α,[-0.00019999999999999998],[773.0],-0.0002,773.0
+17155,CoSi,Seebeck,,thermoelectric power,[-7.999999999999999e-05],[295],-8e-05,295.0
+17156,CoSb3,Seebeck,,Seebeck coefficient,[-0.000177],[295],-0.000177,295.0
+17157,Bi20Se3Te27,Seebeck,,α,"[0.00021999999999999998, 0.00027]",[295],0.000245,295.0
+17158,Al3Yb,Seebeck,,Seebeck coefficient,[7.999999999999999e-05],[240.0],8e-05,240.0
+17160,O2Si,Seebeck,,thermopower,"[4.9999999999999996e-05, 9.999999999999999e-05]",[295],7.5e-05,295.0
+17161,InSe2Tl,Seebeck,,Seebeck coefficient,[0.000107],[473.0],0.00010700000000000001,473.0
+17162,GeSi,Seebeck,,Seebeck coefficient,[7.2e-05],[532.0],7.2e-05,532.0
+17163,Fe50Hf5Nb42Sb50Ti3,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[295],0.0002,295.0
+17164,GaNbRu2,Seebeck,,S,[2.08e-05],[295],2.08e-05,295.0
+17165,Ga10Nb11Ru19,Seebeck,,S,[2.7e-06],[295],2.7000000000000004e-06,295.0
+17167,Ag365Sb558Te1000,Seebeck,,α,[0.000164],[500.0],0.000164,500.0
+17168,CNSTsW,Seebeck,,S,[4.15e-05],[295],4.15e-05,295.0
+17169,Co2NaO4,Seebeck,,thermoelectric power,[9.999999999999999e-05],[300.0],0.0001,300.0
+17170,CaMnO3,Seebeck,,S,[-0.0007999999999999999],[300.0],-0.0008,300.0
+17172,Bi2Se3,Seebeck,,S,[0.000556],[300.0],0.000556,300.0
+17174,Mo3Sb7,Seebeck,,Seebeck coefficient,[1.7e-05],[295],1.7e-05,295.0
+17175,CNT,Seebeck,,Seebeck coefficient,[1.3e-05],[295],1.3000000000000001e-05,295.0
+17176,CNSTW,Seebeck,,Seebeck coefficient,[1.4999999999999999e-05],[295],1.5e-05,295.0
+17177,CNT,Seebeck,,Seebeck coefficient,"[1.6e-05, 2.6e-05]",[295],2.1e-05,295.0
+17178,GeSi,Seebeck,,α,[0.00022999999999999998],[1173.0],0.00022999999999999998,1173.0
+17179,Mg2Sn,Seebeck,,thermopower,[0.000359],[295],0.000359,295.0
+17180,Ca69Co100Cu6O225,Seebeck,,Seebeck coefficient,[0.00029299999999999997],[1073.0],0.000293,1073.0
+17181,FeSi2,Seebeck,,Seebeck coefficient,[7.999999999999999e-05],[700.0],8e-05,700.0
+17182,Cu3Se100Sn97,Seebeck,,S,[0.0006349999999999999],[493.0],0.0006349999999999999,493.0
+17183,O2Ti,Seebeck,,Seebeck coefficient,[-5.9999999999999995e-05],[295],-6.0000000000000015e-05,295.0
+17184,Sb2Te3,Seebeck,,maximum Seebeck coefficient,"[0.0003, 0.00035]","[300.0, 575.0]",0.000325,437.5
+17185,Sb2Te3,Seebeck,,Seebeck coefficient,[0.000214],[323.0],0.00021400000000000002,323.0
+17186,FeMo60Sb108Te32,Seebeck,,S,[0.00016999999999999999],[950.0],0.00016999999999999999,950.0
+17187,AgSe27Ti6Tl5,Seebeck,,S,[-0.00082],[300.0],-0.0008200000000000001,300.0
+17188,CuNb2Se12Tl3,Seebeck,,S,[0.00077],[300.0],0.0007700000000000001,300.0
+17189,SbTe2Tl,Seebeck,,S,[7.999999999999999e-05],[295],8e-05,295.0
+17190,Sb173Se280Tl47,Seebeck,,Seebeck coefficient,[-0.000452],[300.0],-0.000452,300.0
+17191,Bi17K5Se28,Seebeck,,Seebeck coefficient,[-9.999999999999999e-05],[295],-0.0001,295.0
+17192,BiCuOSe,Seebeck,,Seebeck coefficient,[0.00045],[923.0],0.00045,923.0
+17193,As2BaCu2,Seebeck,,Seebeck coefficient,[1.4999999999999999e-05],[295],1.5e-05,295.0
+17194,As2BaCu2,Seebeck,,Seebeck coefficient,[1.4999999999999999e-05],[295],1.5e-05,295.0
+17195,Bi2S3,Seebeck,,S,"[0.0003, 0.00039999999999999996]",[773.0],0.00035000000000000005,773.0
+17198,Ba519Nd854O5400Ti1800,Seebeck,,Seebeck coefficient,[0.00020999999999999998],[1000.0],0.00021,1000.0
+17199,BiSn23Te25Zn,Seebeck,,S,[0.000112],[300.0],0.00011200000000000001,300.0
+17200,Co2NaO4,Seebeck,,S,[0.00011499999999999999],[1000.0],0.000115,1000.0
+17201,Cu9S5,Seebeck,,Seebeck coefficient,[7.3e-05],[673.0],7.3e-05,673.0
+17202,Bi2Te3,Seebeck,,Seebeck coefficient,[5.4999999999999995e-05],[498.0],5.5e-05,498.0
+17203,GeTe,Seebeck,,Seebeck coefficient,[3.4e-05],[300.0],3.4e-05,300.0
+17205,Al4CeNi,Seebeck,,S,[4.2e-05],[40.0],4.2e-05,40.0
+17206,Bi7Sb33Te60,Seebeck,,S,[0.00035],[395.0],0.00035000000000000005,395.0
+17207,Bi7Sb33Te60,Seebeck,,Seebeck coefficient,[0.00035],[395.0],0.00035000000000000005,395.0
+17208,ReTe2,Seebeck,,thermoelectric power,[0.00049],[295],0.0004900000000000001,295.0
+17209,Re2Te5,Seebeck,,thermoelectric power,[0.00048699999999999997],[295],0.000487,295.0
+17210,Sb2Te3,Seebeck,,α,[0.000135],[492.0],0.000135,492.0
+17211,B2Sb8Te15,Seebeck,,Seebeck coefficient,[0.00023061999999999998],[283.0],0.00023062,283.0
+17212,Pure,Seebeck,,highest Seebeck coefficient,[0.00010999999999999999],[750.0],0.00011,750.0
+17213,Cu99In100Se205,Seebeck,,highest Seebeck coefficient,[0.68],[620.0],0.68,620.0
+17215,OZn,Seebeck,,S,[-0.00035999999999999997],[358.0],-0.00036,358.0
+17216,OZn,Seebeck,,S,[2.95e-05],[295],2.95e-05,295.0
+17217,S2Ti,Seebeck,,Seebeck coefficient,[-0.000232],[300.0],-0.00023199999999999997,300.0
+17219,Bi2Te3,Seebeck,,thermopower,[0.00019999999999999998],[295],0.0002,295.0
+17221,CrCu,Seebeck,,thermoelectric power,[1e-06],[280.0],1e-06,280.0
+17224,Sb2Te3,Seebeck,,Seebeck coefficient,[7.999999999999999e-05],[295],8e-05,295.0
+17225,Sb2Te3,Seebeck,,Seebeck coefficient,[7e-05],[295],7.000000000000001e-05,295.0
+17226,Sb2Te3,Seebeck,,Seebeck coefficient,[7.5e-05],[295],7.5e-05,295.0
+17227,MnTe,Seebeck,,Seebeck coefficient,"[0.00037999999999999997, 0.00056]","[300.0, 723.0]",0.00047,511.5
+17228,Ge4PbTe5,Seebeck,,Seebeck coefficient,[4.12e-05],[573.0],4.1200000000000005e-05,573.0
+17229,Ge4PbTe5,Seebeck,,Seebeck coefficient,[0.00010499999999999999],[723.0],0.000105,723.0
+17231,Mg54Si10Sn15,Seebeck,,Seebeck coefficient,[-0.0005],[400.0],-0.0005,400.0
+17232,ErNi2,Seebeck,,highest Seebeck coefficient,[4.8e-05],[800.0],4.8e-05,800.0
+17233,Bi2S3,Seebeck,,Seebeck coefficient,[-0.000473],[300.0],-0.00047300000000000006,300.0
+17234,Co20Sb59Se,Seebeck,,maximum S,[-0.000332],[471.0],-0.000332,471.0
+17235,Co20Sb56SeTe3,Seebeck,,S,[0.00023799999999999998],[760.0],0.000238,760.0
+17239,S2Ti,Seebeck,,Seebeck coefficient,[-0.00025],[300.0],-0.00025,300.0
+17240,DEOPT,Seebeck,,Seebeck coefficient,[1.9999999999999998e-05],[295],2e-05,295.0
+17242,NiPbZr,Seebeck,,thermopower,[-0.0001539],[295],-0.00015390000000000003,295.0
+17243,NiPbZr,Seebeck,,Seebeck coefficient,[-0.0001539],[295],-0.00015390000000000003,295.0
+17244,Eu5In2Sb6,Seebeck,,S,[5.1e-05],[295],5.1e-05,295.0
+17245,Eu5In2Sb6,Seebeck,,S,[7.599999999999999e-05],[295],7.599999999999999e-05,295.0
+17246,Eu10In3Sb12Zn,Seebeck,,S,[5.1e-05],[295],5.1e-05,295.0
+17247,Ag4Cu56Sb19Se80Sn,Seebeck,,Seebeck coefficient,[0.000235],[623.0],0.00023500000000000002,623.0
+17248,Co,Seebeck,,thermoelectric power,[9.499999999999999e-06],[420.0],9.5e-06,420.0
+17249,CoSb2,Seebeck,,thermoelectric power,"[2e-06, 1.4999999999999999e-05]","[300.0, 400.0]",8.5e-06,350.0
+17251,Bi2Te3,Seebeck,,S,[0.00015999999999999999],[295],0.00016,295.0
+17252,CK2O3,Seebeck,,S,[0.00022999999999999998],[1073.0],0.00022999999999999998,1073.0
+17253,AgBO2,Seebeck,,S,[5.21e-05],[295],5.21e-05,295.0
+17255,CrS2Tl,Seebeck,,thermoelectric power,[-1.3e-05],"[80.0, 190.0]",-1.3000000000000001e-05,135.0
+17256,Bi397Sn3Te600,Seebeck,,Seebeck coefficient,[0.00025],[300.0],0.00025,300.0
+17257,Co2NaO4,Seebeck,,thermoelectric power,[9.999999999999999e-05],[300.0],0.0001,300.0
+17258,CoO3Sm,Seebeck,,thermopower,[0.001],[295],0.001,295.0
+17259,CoO3Sm,Seebeck,,thermopower,[-0.00020999999999999998],[275.0],-0.00021,275.0
+17260,CoO3Sm,Seebeck,,thermopower,[0.001],[295],0.001,295.0
+17261,Ce2Ni3Si5,Seebeck,,thermopower,[3.2e-05],[295],3.2e-05,295.0
+17262,Ag2Se,Seebeck,,S,[0.00015219999999999999],[295],0.0001522,295.0
+17263,Ca30Co37Cr3O90,Seebeck,,thermopower,[0.00014],[295],0.00014,295.0
+17264,Co,Seebeck,,thermopower,[-2.55e-05],[295],-2.55e-05,295.0
+17265,BiCuOSe,Seebeck,,S,[0.00033],[873.0],0.00033000000000000005,873.0
+17266,Al8Mn4Y,Seebeck,,S,[-6e-06],[295],-6e-06,295.0
+17267,Cr11Sn12Zn36,Seebeck,,S,[9.999999999999999e-06],[320.0],1e-05,320.0
+17268,SeSn,Seebeck,,Seebeck coefficient,[0.00015999999999999999],[300.0],0.00016,300.0
+17269,Ag89Ca85La15Sb100,Seebeck,,Seebeck coefficient,[0.000122],[860.0],0.000122,860.0
+17272,SeSn,Seebeck,,Seebeck coefficient,"[0.0005, 0.0005499999999999999]","[300.0, 400.0]",0.000525,350.0
+17273,CT2,Seebeck,,S,[2.95e-05],[573.0],2.95e-05,573.0
+17274,CT2,Seebeck,,highest Seebeck coefficient,[2.6859999999999997e-05],[524.0],2.686e-05,524.0
+17275,Cu3SbSe4,Seebeck,,Seebeck coefficient,[0.0005],[295],0.0005,295.0
+17276,Fe4P12Pr,Seebeck,,S,[-0.00013],[5.0],-0.00013000000000000002,5.0
+17277,Bi4Pb5Se13Sn2,Seebeck,,thermopower,[-7.999999999999999e-05],[308.0],-8e-05,308.0
+17278,Bi80Pb7Se300Sn173,Seebeck,,thermopower,[0.000179],[308.0],0.00017900000000000001,308.0
+17279,Ga8Si15Sr4,Seebeck,,Seebeck coefficient,[0.00031999999999999997],[295],0.00032,295.0
+17280,Al14Ba8Si31,Seebeck,,Seebeck coefficient,[2.6199999999999996e-05],[295],2.62e-05,295.0
+17281,CuO2Rb,Seebeck,,Seebeck coefficient,[0.000248],[300.0],0.000248,300.0
+17282,Bi2Te3,Seebeck,,S,[0.00019999999999999998],[300.0],0.0002,300.0
+17283,Co2NaO4,Seebeck,,S,[9.999999999999999e-05],[300.0],0.0001,300.0
+17285,AINP,Seebeck,,Seebeck coefficient,[-4.9999999999999996e-05],[300.0],-5e-05,300.0
+17286,Cl3Fe,Seebeck,,Seebeck coefficient,[0.00029],[295],0.00029,295.0
+17287,Pure,Seebeck,,α,[0.000145],[300.0],0.000145,300.0
+17288,BaFe4O24Sr7Ti4,Seebeck,,S,[0.0007999999999999999],[1100.0],0.0008,1100.0
+17289,Iron,Seebeck,,thermopower,[0.0005],[50.0],0.0005,50.0
+17290,Al2O3,Seebeck,,maximum Seebeck coefficient,[0.000235],[373.0],0.00023500000000000002,373.0
+17291,SeSn,Seebeck,,p - type Seebeck coefficient,[0.00019999999999999998],[295],0.0002,295.0
+17292,Bi2Se3,Seebeck,,S,[0.0009477],[295],0.0009477,295.0
+17293,Co2NaO4,Seebeck,,α,[9.999999999999999e-05],[300.0],0.0001,300.0
+17294,Sodium,Seebeck,,Seebeck coefficient,[0.0001],[300.0],0.0001,300.0
+17298,Ba12Fe28O84Ti15,Seebeck,,prominent Seebeck coefficient,[-0.00039999999999999996],[295],-0.0004,295.0
+17299,MNTsW,Seebeck,,S,[7e-05],[295],7.000000000000001e-05,295.0
+17300,AINP,Seebeck,,Seebeck coefficient,[3.9e-05],[295],3.9e-05,295.0
+17302,SeSn,Seebeck,,S,[0.0005099999999999999],[295],0.0005099999999999999,295.0
+17303,PbTe,Seebeck,,S,[0.00037],[295],0.0003700000000000001,295.0
+17304,Bi2Te3,Seebeck,,S,[0.00017999999999999998],[295],0.00018,295.0
+17305,Bi10SeTe14,Seebeck,,thermopower,[-0.00014],[473.0],-0.00014,473.0
+17306,CeLiSn,Seebeck,,Seebeck coefficient,[4.2999999999999995e-05],[295],4.3e-05,295.0
+17307,CeLiSn,Seebeck,,S,[2.7e-05],[300.0],2.7000000000000002e-05,300.0
+17308,CoSi,Seebeck,,Seebeck coefficient,[8.599999999999999e-05],[300.0],8.599999999999999e-05,300.0
+17309,Cu10SSe4,Seebeck,,α,[0.00054],[295],0.00054,295.0
+17315,O97Ti50,Seebeck,,Seebeck coefficient,[-0.0005],[343.0],-0.0005,343.0
+17316,O7Ti4,Seebeck,,S,[-9.999999999999999e-05],[1000.0],-0.0001,1000.0
+17317,NbO,Seebeck,,thermoelectric power,"[9.999999999999999e-06, 1.4999999999999999e-05]",[1000.0],1.25e-05,1000.0
+17318,Pure,Seebeck,,S,[0.00021999999999999998],[1000.0],0.00022,1000.0
+17320,Nb12O29,Seebeck,,S,[-9.999999999999999e-05],[1000.0],-0.0001,1000.0
+17321,MnSb11Yb14,Seebeck,,S,[0.000185],[1275.0],0.000185,1275.0
+17322,Ba4Ga8Ge15,Seebeck,,S,[4.4999999999999996e-05],[900.0],4.5e-05,900.0
+17323,Bi2Te3,Seebeck,,S,[0.000243],[300.0],0.00024300000000000002,300.0
+17324,Bi2T3,Seebeck,,S,[0.00015999999999999999],[300.0],0.00016,300.0
+17325,Ge2Sb2Te5,Seebeck,,S,[0.001],"[300.0, 240.0]",0.001,270.0
+17326,ReTe2,Seebeck,,Seebeck coefficient,[0.00049],[295],0.0004900000000000001,295.0
+17327,ClNa,Seebeck,,Seebeck coefficient,[0.0003],[773.0],0.00030000000000000003,773.0
+17328,Sb29Zn40,Seebeck,,Seebeck coefficient,[0.000174],[632.0],0.000174,632.0
+17329,Sodium,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[295],0.0001,295.0
+17330,Co20Na19O40,Seebeck,,Seebeck coefficient,[3.042e-05],[300.0],3.042e-05,300.0
+17331,Cu2Se,Seebeck,,S,[0.000296],[850.0],0.000296,850.0
+17332,Ca,Seebeck,,S,[0.00013],[300.0],0.00013000000000000002,300.0
+17333,Pb,Seebeck,,S,[0.000165],[300.0],0.000165,300.0
+17334,CaMnO3,Seebeck,,thermopower,[-0.00035],[295],-0.00035000000000000005,295.0
+17335,LaMnO3,Seebeck,,thermopower,[0.00045],[295],0.00045,295.0
+17336,CSi,Seebeck,,Seebeck coefficient,[-0.000202],[773.0],-0.000202,773.0
+17337,LaTe6Tl9,Seebeck,,α,[0.000125],[315.0],0.000125,315.0
+17338,TbTe6Tl9,Seebeck,,α,[5.3e-05],[315.0],5.3e-05,315.0
+17339,La,Seebeck,,Seebeck coefficient,[-0.000192],[973.0],-0.000192,973.0
+17340,La,Seebeck,,Seebeck coefficient,[-3.9999999999999996e-05],[295],-4e-05,295.0
+17341,SeSn,Seebeck,,Seebeck coefficient,[0.000374],[800.0],0.00037400000000000004,800.0
+17342,BaBkO3,Seebeck,,Seebeck coefficient,[0.00015],[295],0.00015,295.0
+17343,BaBkO3,Seebeck,,Seebeck coefficient,[5.4e-05],[50.0],5.4000000000000005e-05,50.0
+17344,Ag4SSe,Seebeck,,α,[-0.00012299999999999998],[300.0],-0.00012299999999999998,300.0
+17345,Bi2S3,Seebeck,,Seebeck coefficient,[0.0005],[250.0],0.0005,250.0
+17346,OZn,Seebeck,,Seebeck coefficient,[0.0034],[295],0.0034,295.0
+17347,La5Te9,Seebeck,,Seebeck coefficient,[0.000312],[295],0.000312,295.0
+17348,OZn,Seebeck,,Seebeck coefficient,[0.00013],[295],0.00013000000000000002,295.0
+17349,Cu9S5,Seebeck,,S,[2.7e-05],[300.0],2.7000000000000002e-05,300.0
+17350,Cu225Fe8S125,Seebeck,,S,[8.8e-05],[300.0],8.8e-05,300.0
+17352,Bi95Cu32Se160,Seebeck,,S,[-0.000183],[420.0],-0.000183,420.0
+17353,LaO30Sr9Ti10,Seebeck,,Seebeck coefficient,[-0.000169],[973.0],-0.000169,973.0
+17355,As6Cu3Te11,Seebeck,,highest α,[0.0009],[315.0],0.0009000000000000002,315.0
+17356,Cu2Te,Seebeck,,S,[3.7e-05],[295],3.7e-05,295.0
+17357,Cu2Te,Seebeck,,S,[0.000133],[295],0.000133,295.0
+17358,Ca3Co4O9,Seebeck,,maximum thermopower,[0.00023244999999999999],[1073.0],0.00023245,1073.0
+17360,CSi,Seebeck,,maximum thermoelectric power,[0.000148],[783.0],0.000148,783.0
+17361,Pt,Seebeck,,maximum thermoelectric power,[1.2e-05],[783.0],1.2e-05,783.0
+17362,CSi,Seebeck,,maximum thermoelectric power,[0.000207],[783.0],0.000207,783.0
+17363,CSi,Seebeck,,maximum thermoelectric power,[0.000251],[803.0],0.000251,803.0
+17364,FeSb2,Seebeck,,Seebeck coefficient,[-0.045],[10.0],-0.045,10.0
+17365,MgNiSb,Seebeck,,S,[2.4999999999999998e-05],[380.0],2.5e-05,380.0
+17366,Ni43Sb50Sc50,Seebeck,,Seebeck coefficient,[4.2e-05],[300.0],4.2e-05,300.0
+17367,BiGaO3,Seebeck,,maximum Seebeck coefficient,[0.000178],[800.0],0.000178,800.0
+17368,CoSb3,Seebeck,,thermopower,[0.00019999999999999998],[300.0],0.0002,300.0
+17369,Ni3O100Zn97,Seebeck,,Seebeck coefficient,[0.000503],[1073.0],0.000503,1073.0
+17370,Ni3O100Zn97,Seebeck,,Seebeck coefficient,[0.000503],[1073.0],0.000503,1073.0
+17371,Sb2Te3,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[300.0],0.0001,300.0
+17372,N5S,Seebeck,,highest S,[0.00010999999999999999],[600.0],0.00011,600.0
+17373,Cu2Te,Seebeck,,Seebeck coefficient,[1.9999999999999998e-05],[600.0],2e-05,600.0
+17374,Cu2Te,Seebeck,,Seebeck coefficient,[2.9999999999999997e-05],[600.0],3.0000000000000008e-05,600.0
+17375,Sb2Te3,Seebeck,,S,[9.999999999999999e-05],[300.0],0.0001,300.0
+17376,N5S,Seebeck,,S,[8.999999999999999e-05],[450.0],9e-05,450.0
+17377,Co3S2Sn2,Seebeck,,Seebeck coefficient,[4.9999999999999996e-05],[300.0],5e-05,300.0
+17378,S,Seebeck,,S,[2.4e-05],[295],2.4e-05,295.0
+17379,Cu9S5,Seebeck,,α,[1.4999999999999999e-05],[295],1.5e-05,295.0
+17380,Cu9S5,Seebeck,,α,[0.00171],[673.0],0.00171,673.0
+17381,CaMnO3,Seebeck,,α,[-0.000192],[1073.0],-0.000192,1073.0
+17382,CaMnO3,Seebeck,,Seebeck coefficient,[-0.000192],[1073.0],-0.000192,1073.0
+17383,Mg3Sb2,Seebeck,,S,[0.0001935],[295],0.00019350000000000001,295.0
+17384,Co2NaO4,Seebeck,,thermopower,[9.999999999999999e-05],[295],0.0001,295.0
+17385,Ga,Seebeck,,highest Seebeck coefficient,[0.000207],[773.0],0.000207,773.0
+17386,CO,Seebeck,,highest Seebeck coefficient,[0.00014],[900.0],0.00014,900.0
+17387,Ba4Ga8Ge15,Seebeck,,highest Seebeck coefficient,[0.00020999999999999998],[773.0],0.00021,773.0
+17388,Ba4Ga8Ge15,Seebeck,,Seebeck coefficient,[0.000193],[295],0.000193,295.0
+17390,Co2NaO4,Seebeck,,Seebeck coefficient,[0.0002138],[1073.0],0.0002138,1073.0
+17391,Co2NaO4,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[300.0],0.0001,300.0
+17392,CeGeNi,Seebeck,,thermopower,[4.7e-05],[295],4.7e-05,295.0
+17393,Bi2S3,Seebeck,,Seebeck coefficient,[0.00035],[295],0.00035000000000000005,295.0
+17394,C2O,Seebeck,,Seebeck coefficient,[0.000125],[773.0],0.000125,773.0
+17395,Bi2Te3,Seebeck,,Seebeck coefficient,[0.00022999999999999998],[295],0.00022999999999999998,295.0
+17397,Co2NaO4,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[300.0],0.0001,300.0
+17398,Bi,Seebeck,,S,[0.00018199999999999998],[973.0],0.000182,973.0
+17399,Cu3Pd,Seebeck,,Seebeck coefficient,[-4.9999999999999996e-06],[295],-5e-06,295.0
+17400,NiPbZr,Seebeck,,thermopower,[-0.0001539],[295],-0.00015390000000000003,295.0
+17401,GeTe,Seebeck,,Seebeck coefficient,[-0.00028],[673.0],-0.00028000000000000003,673.0
+17402,PbTe,Seebeck,,Seebeck coefficient,"[0.00019999999999999998, 0.00039999999999999996]",[295],0.00030000000000000003,295.0
+17403,Bi4CsTe6,Seebeck,,α,[-8.4e-05],[373.0],-8.4e-05,373.0
+17404,SeSn,Seebeck,,S,[0.00019999999999999998],[295],0.0002,295.0
+17405,NiSnYb,Seebeck,,Thermoelectric power,[-1.8e-05],[295],-1.8e-05,295.0
+17407,PdS,Seebeck,,Seebeck coefficient,[0.00028],[295],0.00028000000000000003,295.0
+17410,SeSn,Seebeck,,Seebeck coefficient,[0.000167],[300.0],0.000167,300.0
+17412,Bi2Te3,Seebeck,,Seebeck coefficient,[3.5499999999999996e-05],[295],3.55e-05,295.0
+17413,Fe2O3,Seebeck,,Seebeck coefficient,[-5.4499999999999997e-05],[338.0],-5.45e-05,338.0
+17414,ClNa,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[295],0.0001,295.0
+17415,SnTe,Seebeck,,Seebeck coefficient,[1.9999999999999998e-05],[300.0],2e-05,300.0
+17416,Bi2S3,Seebeck,,Seebeck coefficient,[-0.000327],[625.0],-0.000327,625.0
+17417,Cl3La,Seebeck,,S,[-0.000212],[325.0],-0.000212,325.0
+17418,Cl3La,Seebeck,,S,[-0.000164],[325.0],-0.000164,325.0
+17419,AlCuO2,Seebeck,,Seebeck coefficient,[0.00017999999999999998],[600.0],0.00018,600.0
+17420,AgSbSe2,Seebeck,,S,[0.00031],[295],0.00031,295.0
+17422,Al,Seebeck,,Seebeck coefficient,"[0.0001525, 0.0001092]",[295],0.00013085,295.0
+17423,Mg400Sb3Si197,Seebeck,,Seebeck coefficient,[6.4e-05],[295],6.4e-05,295.0
+17424,O2Si,Seebeck,,Seebeck coefficient,[-0.000624],[293.0],-0.000624,293.0
+17425,AgCuSe,Seebeck,,Seebeck coefficient,[-9.999999999999999e-05],[470.0],-0.0001,470.0
+17426,FePb4S14Sb6,Seebeck,,thermopower,[-0.00019999999999999998],[300.0],-0.0002,300.0
+17427,Bi8MnSe16Sn3,Seebeck,,thermopower,[-9.8e-05],[295],-9.8e-05,295.0
+17428,Bi400Mn67Se1000Sn333,Seebeck,,thermopower,[-0.00012299999999999998],[295],-0.00012299999999999998,295.0
+17429,Bi8MnSe16Sn3,Seebeck,,thermopower,[-9.7e-05],[295],-9.7e-05,295.0
+17430,MoS2,Seebeck,,maximum Seebeck coefficient,[0.0002028],[295],0.0002028,295.0
+17431,ScTe2Tl,Seebeck,,S,[7.5e-05],[295],7.5e-05,295.0
+17432,Co19FeHf10Sb16Sn4Zr10,Seebeck,,maximum Seebeck coefficient,[0.000204],[900.0],0.000204,900.0
+17433,Bi159Pb41Rb41Te300,Seebeck,,thermopower,[-1.9999999999999998e-05],[295],-2e-05,295.0
+17434,Mn20Si47,Seebeck,,Seebeck coefficient,[0.00029739999999999996],[422.0],0.0002974,422.0
+17436,Pt,Seebeck,,Seebeck coefficient,[1.82e-05],[1173.0],1.82e-05,1173.0
+17437,CuFeSe2,Seebeck,,thermoelectric power,[0.0013],[300.0],0.0013000000000000002,300.0
+17438,Ca2Co2O5,Seebeck,,S,[0.000133],[305.0],0.000133,305.0
+17440,AgSbSe2,Seebeck,,Seebeck coefficient,[0.0003348],[300.0],0.0003348,300.0
+17441,Bi2S3,Seebeck,,Seebeck coefficient,[-0.0005],"[323.0, 573.0]",-0.0005,448.0
+17442,S2Ti,Seebeck,,thermopower,[-0.000251],[295],-0.000251,295.0
+17443,S2Ti,Seebeck,,thermopower,[-3.9999999999999996e-05],[295],-4e-05,295.0
+17444,S2Ti,Seebeck,,S,[-3.9999999999999996e-05],[295],-4e-05,295.0
+17445,Co2NaO4,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[300.0],0.0001,300.0
+17446,Bi2Ca2Co2Ox,Seebeck,,thermopower,[0.00015],[295],0.00015,295.0
+17447,FeSi,Seebeck,,Thermoelectric power,[0.0009],[35.0],0.0009000000000000002,35.0
+17448,Ce3In11Pd,Seebeck,,S,[4e-05],[800.0],4e-05,800.0
+17449,MnSb11Yb14,Seebeck,,Seebeck coefficient,[0.000185],[1275.0],0.000185,1275.0
+17450,Ag9Te5Tl,Seebeck,,Seebeck coefficient,[0.000319],[700.0],0.000319,700.0
+17451,GeHfNi,Seebeck,,Seebeck coefficient,[0.00015],[1100.0],0.00015,1100.0
+17452,In3Li2Sb5Zn2,Seebeck,,Seebeck coefficient,[2.4e-05],[295],2.4e-05,295.0
+17453,Bi10Ni3Sb27Te60,Seebeck,,Seebeck coefficient,[0.00010499999999999999],[413.0],0.000105,413.0
+17454,Bi10Ni3Sb27Te60,Seebeck,,Seebeck coefficient,[0.00010499999999999999],[413.0],0.000105,413.0
+17456,DEOPT,Seebeck,,Seebeck coefficient,[0.00020999999999999998],[295],0.00021,295.0
+17457,Co2NaO4,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[295],0.0001,295.0
+17458,As6Sn2Sr5,Seebeck,,Seebeck coefficient,[0.000248],[500.0],0.000248,500.0
+17459,As6Ca5Ga2,Seebeck,,maximum S,[0.00019999999999999998],[850.0],0.0002,850.0
+17460,Bi29Sb11Te60,Seebeck,,maximum α,[0.000133],[420.0],0.000133,420.0
+17461,Bi20Sb12Te69,Seebeck,,α,[-0.00015099999999999998],[327.0],-0.00015099999999999998,327.0
+17462,Ca3Co4O9,Seebeck,,maximum Seebeck coefficient,[0.000165],[1073.0],0.000165,1073.0
+17463,Bi39Se7Te54,Seebeck,,thermopower,[-0.000125],[300.0],-0.000125,300.0
+17464,Ni7Sn8Ti9,Seebeck,,α,[-6.12e-05],[295],-6.12e-05,295.0
+17465,Ni7Sn8Ti9,Seebeck,,α,[-5.4399999999999994e-05],[295],-5.44e-05,295.0
+17467,CoLaO3,Seebeck,,Seebeck coefficient,[0.0006],[295],0.0006000000000000001,295.0
+17468,Ge19SnTe20,Seebeck,,S,[4.2e-05],[295],4.2e-05,295.0
+17469,Ge17Sb2SnTe20,Seebeck,,S,[0.000118],[300.0],0.000118,300.0
+17470,Bi2Te3,Seebeck,,S,[0.00017999999999999998],[300.0],0.00018,300.0
+17471,PbTe,Seebeck,,S,[0.00037],[300.0],0.0003700000000000001,300.0
+17472,Cu,Seebeck,,α,[0.000263],[298.0],0.000263,298.0
+17473,BiCuOSe,Seebeck,,Seebeck coefficient,[0.000423],[300.0],0.00042300000000000004,300.0
+17474,Cu9S5,Seebeck,,optimal S,[0.000135],[773.0],0.000135,773.0
+17475,Bi4O11V2,Seebeck,,Seebeck coefficient,[0.01],[800.0],0.01,800.0
+17476,OPS2,Seebeck,,Seebeck coefficient,[0.00016084999999999998],[295],0.00016085,295.0
+17477,LaNb,Seebeck,,S,[0.00027],[1000.0],0.00027,1000.0
+17479,Ag2S,Seebeck,,Seebeck coefficient,[-0.000198],[400.0],-0.000198,400.0
+17481,FeSe,Seebeck,,Seebeck coefficient,[-1.027e-05],[113.0],-1.027e-05,113.0
+17482,CrSi2,Seebeck,,Seebeck coefficient,[-0.0003],"[10.0, 100.0]",-0.00030000000000000003,55.0
+17483,BiSb3Te6,Seebeck,,Seebeck coefficient,[0.0002565],[523.0],0.0002565,523.0
+17484,BiSb3Te6,Seebeck,,Seebeck coefficient,[0.0002565],[523.0],0.0002565,523.0
+17485,Bi2Te3,Seebeck,,Seebeck coefficient,[0.000225],[315.0],0.000225,315.0
+17486,MoS2,Seebeck,,Seebeck coefficient,[-0.000335],[295],-0.000335,295.0
+17487,InSe2Tl,Seebeck,,Seebeck coefficient,[0.000106],[413.0],0.000106,413.0
+17488,CoGe150Sb20,Seebeck,,S,[-7.225e-05],[295],-7.225000000000001e-05,295.0
+17489,CSi,Seebeck,,thermopower,[0.00035],"[400.0, 800.0]",0.00035000000000000005,600.0
+17490,Co100Na71O200,Seebeck,,S,[0.00011499999999999999],[300.0],0.000115,300.0
+17491,O3RuSr,Seebeck,,Seebeck coefficient,[2.1e-05],[300.0],2.1e-05,300.0
+17492,Co2NaO4,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[300.0],0.0001,300.0
+17493,HfNiPb,Seebeck,,thermopower,[-0.1539],[295],-0.1539,295.0
+17494,Ba6Ge25,Seebeck,,Seebeck coefficient,[-1.9999999999999998e-05],[295],-2e-05,295.0
+17495,Ba12Cu3Ge47,Seebeck,,Seebeck coefficient,[8.049999999999999e-05],[873.0],8.049999999999999e-05,873.0
+17496,Bi2Te3,Seebeck,,thermopower,[0.00031299999999999996],[295],0.000313,295.0
+17498,Bi2Te3,Seebeck,,S,[0.00019999999999999998],[300.0],0.0002,300.0
+17499,CrSi2,Seebeck,,Seebeck coefficient,[0.00016999999999999999],"[300.0, 1500.0]",0.00016999999999999999,900.0
+17501,BST,Seebeck,,Seebeck coefficient,[0.00023799999999999998],[350.0],0.000238,350.0
+17502,BST,Seebeck,,Seebeck coefficient,[0.00019899999999999999],[350.0],0.000199,350.0
+17503,Mg10Si2Sn3,Seebeck,,Seebeck coefficient,[-0.00046169999999999995],[435.0],-0.0004617,435.0
+17504,Fe2PZr,Seebeck,,Seebeck coefficient,[0.000512],[295],0.000512,295.0
+17505,COP3,Seebeck,,thermopower,[5e-11],[295],1e-10,295.0
+17506,CoSb3,Seebeck,,thermopower,[1e-12],[295],0.0,295.0
+17507,O200SbSn89Ti10,Seebeck,,S,[-3.9999999999999996e-05],[323.0],-4e-05,323.0
+17508,NOST,Seebeck,,S,[-4.4899999999999994e-05],[295],-4.49e-05,295.0
+17509,NOST,Seebeck,,S,[-6.04e-05],[295],-6.04e-05,295.0
+17510,Cu27Te50Y25,Seebeck,,Seebeck coefficient,[0.00027],[780.0],0.00027,780.0
+17512,Sb2Te3,Seebeck,,highest S,[0.0001199],[497.0],0.0001199,497.0
+17513,Co20La19O60Sr,Seebeck,,Seebeck coefficient,[0.000252],[295],0.000252,295.0
+17514,Co20La19O60Sr,Seebeck,,Seebeck coefficient,[0.000252],[295],0.000252,295.0
+17515,BiSb3Te6,Seebeck,,Seebeck coefficient,[0.0001381],[300.0],0.0001381,300.0
+17516,BiSb3Te6,Seebeck,,Seebeck coefficient,[0.000198],[300.0],0.000198,300.0
+17517,BST,Seebeck,,S,[0.000258],[295],0.000258,295.0
+17518,Ca3Co4O9,Seebeck,,maximum Seebeck coefficient,"[0.00016999999999999999, 0.000175]",[898.0],0.00017250000000000002,898.0
+17521,CoSb,Seebeck,,Seebeck coefficient,[1.6e-05],[295],1.6e-05,295.0
+17522,CoSb,Seebeck,,Seebeck coefficient,[-1.2e-05],[295],-1.2e-05,295.0
+17523,CoSb2,Seebeck,,p - type Seebeck coefficient,[3.9999999999999996e-05],[295],4e-05,295.0
+17524,CoSb2,Seebeck,,p - type Seebeck coefficient,[-4.9999999999999996e-05],[573.0],-5e-05,573.0
+17525,CDV,Seebeck,,S,[4.9999999999999996e-06],[295],5e-06,295.0
+17526,AlCTi3,Seebeck,,Seebeck coefficient,[0.00010999999999999999],[295],0.00011,295.0
+17527,CCo3Sn,Seebeck,,Seebeck coefficient,[5.3e-05],[278.0],5.3e-05,278.0
+17528,CuS,Seebeck,,Seebeck coefficient,[1.85e-06],[300.0],1.85e-06,300.0
+17529,Co20Sb17Sn3Ti20,Seebeck,,maximum Seebeck coefficient,[0.000278],[780.0],0.000278,780.0
+17531,CoSb3,Seebeck,,Seebeck coefficient,[0.00010999999999999999],[295],0.00011,295.0
+17532,Co2NaO4,Seebeck,,thermopower,[9.999999999999999e-05],[295],0.0001,295.0
+17533,Mn,Seebeck,,thermopower,"[1e-06, 9.999999999999999e-06]",[295],5.5e-06,295.0
+17534,Co2NaO4,Seebeck,,thermopower,[9.999999999999999e-05],[300.0],0.0001,300.0
+17535,Bi2Te3,Seebeck,,S,[-6.8e-05],[300.0],-6.8e-05,300.0
+17536,S2Zr,Seebeck,,Seebeck coefficient,[0.00078757],[250.0],0.00078757,250.0
+17538,DEOPT,Seebeck,,S,[2.03e-05],[295],2.0300000000000002e-05,295.0
+17539,NiPbZr,Seebeck,,thermopower,[-0.0001539],[295],-0.00015390000000000003,295.0
+17540,NiPbZr,Seebeck,,Seebeck coefficient,[-0.0001539],[295],-0.00015390000000000003,295.0
+17541,Cu3NbS4,Seebeck,,thermopower,[2.6e-05],[309.0],2.6000000000000002e-05,309.0
+17542,Co7Fe3Sb30,Seebeck,,S,[0.00011399999999999999],[700.0],0.000114,700.0
+17543,CoSb3,Seebeck,,S,[-0.00025],[295],-0.00025,295.0
+17544,Co3O4,Seebeck,,Seebeck coefficient,[0.00011999999999999999],[295],0.00012000000000000003,295.0
+17545,SeSn,Seebeck,,Seebeck coefficient,[0.00208],[295],0.0020800000000000003,295.0
+17546,BiCuOSe,Seebeck,,Seebeck coefficient,[0.000204],[295],0.000204,295.0
+17547,Bi2Se3,Seebeck,,Seebeck coefficient,[-9.099999999999999e-05],[295],-9.1e-05,295.0
+17548,Bi2Se3,Seebeck,,Seebeck coefficient,[-9.099999999999999e-05],[295],-9.1e-05,295.0
+17549,BiCuOSe,Seebeck,,S,[0.000381],[295],0.000381,295.0
+17550,BiCuOSe,Seebeck,,S,[0.000381],[295],0.000381,295.0
+17551,NiSnZr,Seebeck,,S,[213.0],[800.0],213.0,800.0
+17552,NiSnZr,Seebeck,,S,[0.000252],[800.0],0.000252,800.0
+17553,Ca60Co77O180Pb3,Seebeck,,thermoelectric power,[0.00037999999999999997],[1100.0],0.00037999999999999997,1100.0
+17554,Co13La,Seebeck,,Seebeck coefficient,[-2.9999999999999997e-05],[500.0],-3.0000000000000008e-05,500.0
+17555,GdMnO3,Seebeck,,seebeck coefficient,[0.00026399999999999997],[295],0.000264,295.0
+17556,MnO3Tb,Seebeck,,Seebeck coefficient,[0.00035999999999999997],[295],0.00036,295.0
+17557,Ni3Sn2Y,Seebeck,,S,[2e-06],[30.0],2e-06,30.0
+17559,PtSb2,Seebeck,,Seebeck coefficient,[0.00025],[150.0],0.00025,150.0
+17561,CaCo2O4,Seebeck,,S,[0.00015],[390.0],0.00015,390.0
+17563,SbZn,Seebeck,,Seebeck coefficient,[0.000196],[295],0.000196,295.0
+17566,Bi2Se3,Seebeck,,Seebeck coefficient,[8400.0],[295],8400.0,295.0
+17567,Bi2Te3,Seebeck,,S,[-0.00023999999999999998],[300.0],-0.00024000000000000006,300.0
+17568,S2Ti,Seebeck,,Seebeck coefficient,[-0.00027],[295],-0.00027,295.0
+17569,S2Ti,Seebeck,,Seebeck coefficient,[-3.7e-05],[295],-3.7e-05,295.0
+17570,Al3Yb,Seebeck,,Seebeck coefficient,[-8.999999999999999e-05],[300.0],-9e-05,300.0
+17571,Cu50Fe50O103,Seebeck,,Seebeck coefficient,[0.00030199999999999997],[873.0],0.000302,873.0
+17572,Al2O3,Seebeck,,thermoelectric power,[2.8499999999999998e-05],[345.0],2.85e-05,345.0
+17573,IrO6Sr4,Seebeck,,S,[0.00019999999999999998],[650.0],0.0002,650.0
+17574,IrO4Sr2,Seebeck,,S,[0.00015999999999999999],[295],0.00016,295.0
+17575,IrO6Sr4,Seebeck,,S,[0.00019999999999999998],[650.0],0.0002,650.0
+17576,C2SiTi3,Seebeck,,Seebeck coefficient,[4.4e-06],[295],4.4e-06,295.0
+17577,SeSn4Te3,Seebeck,,Seebeck coefficient,"[5.4999999999999995e-05, 0.000111]",[548.0],8.3e-05,548.0
+17578,SnTe,Seebeck,,Seebeck coefficient,[0.000111],[548.0],0.00011100000000000001,548.0
+17579,Tin,Seebeck,,Seebeck coefficient,[0.00052],[295],0.0005200000000000001,295.0
+17582,Cs2Pt3Se6U,Seebeck,,S,[5e-06],[300.0],5e-06,300.0
+17583,GaS,Seebeck,,Seebeck coefficient,[0.00030898],[295],0.00030898,295.0
+17584,GaTe,Seebeck,,Seebeck coefficient,[0.0002516],[295],0.0002516,295.0
+17585,GaSe,Seebeck,,Seebeck coefficient,[0.0002561],[295],0.00025610000000000005,295.0
+17588,Cl6Cs2NaTi,Seebeck,,S,[0.0026999999999999997],[295],0.0027,295.0
+17589,BiCuOSe,Seebeck,,Seebeck coefficient,[0.00035],[295],0.00035000000000000005,295.0
+17590,BiCuOSe,Seebeck,,Seebeck coefficient,[0.00035],[300.0],0.00035000000000000005,300.0
+17591,BiCuOSe,Seebeck,,Seebeck coefficient,[0.00035],[300.0],0.00035000000000000005,300.0
+17592,BiRhZr,Seebeck,,highest Seebeck coefficient,[0.00031989],[1300.0],0.00031989000000000003,1300.0
+17593,BiSb3Te6,Seebeck,,highest Seebeck coefficient,[1.9999999999999998e-05],[303.0],2e-05,303.0
+17594,Cu9S5,Seebeck,,optimal S,[0.000106],[773.0],0.000106,773.0
+17595,Bi2S3,Seebeck,,S,[-0.000348],[295],-0.000348,295.0
+17596,LiO4Rh2,Seebeck,,S,[3.9999999999999996e-05],[300.0],4e-05,300.0
+17597,BaGa2Sb2,Seebeck,,S,[6.5e-05],[295],6.500000000000001e-05,295.0
+17598,CSi,Seebeck,,Seebeck coefficient,[0.00067],[373.0],0.00067,373.0
+17599,GeTe,Seebeck,,Seebeck coefficient,[2.8e-05],[300.0],2.8000000000000003e-05,300.0
+17600,Ge19PbTe20,Seebeck,,Seebeck coefficient,[4.4e-05],[300.0],4.4e-05,300.0
+17601,Bi3Sn97Te100,Seebeck,,Seebeck coefficient,[0.00016999999999999999],[900.0],0.00016999999999999999,900.0
+17602,PbTe,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[900.0],0.0002,900.0
+17604,O2Zr,Seebeck,,maximum Seebeck coefficient,[0.00017734999999999997],[553.0],0.00017735,553.0
+17605,BiRhZr,Seebeck,,S,[0.000226],[295],0.000226,295.0
+17606,AlSb,Seebeck,,Seebeck coefficient,[4.9999999999999996e-05],[300.0],5e-05,300.0
+17607,Bi8Co10Oy5Pb2Sr10,Seebeck,,Seebeck coefficient,[0.000223],[973.0],0.000223,973.0
+17608,Bi8Co10Oy5Pb2Sr10,Seebeck,,Seebeck coefficient,[0.000223],[973.0],0.000223,973.0
+17609,BiSb3Te6,Seebeck,,Seebeck coefficient,[0.000128],[486.0],0.000128,486.0
+17610,Sb2Te3,Seebeck,,thermopower,[0.00013],[295],0.00013000000000000002,295.0
+17611,PbTe,Seebeck,,Seebeck coefficient,[0.00027],[773.0],0.00027,773.0
+17612,PbTe,Seebeck,,Seebeck coefficient,[-0.00017999999999999998],[773.0],-0.00018,773.0
+17613,PbSe,Seebeck,,Seebeck coefficient,[0.00025],[923.0],0.00025,923.0
+17614,PbSe,Seebeck,,Seebeck coefficient,[-9.999999999999999e-05],[923.0],-0.0001,923.0
+17615,PbS,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[923.0],0.0002,923.0
+17616,PbS,Seebeck,,Seebeck coefficient,[-0.000185],[923.0],-0.000185,923.0
+17617,CuSe50Sn49,Seebeck,,Seebeck coefficient,[0.0006399999999999999],[350.0],0.00064,350.0
+17618,AlCuO2,Seebeck,,S,"[0.00041999999999999996, 0.00049]","[573.0, 873.0]",0.000455,723.0
+17619,BrCu,Seebeck,,Seebeck coefficient,[0.00015],[723.0],0.00015,723.0
+17621,B44Si2Y,Seebeck,,Seebeck coefficient,[-1.9999999999999998e-05],[295],-2e-05,295.0
+17622,SbZn,Seebeck,,Seebeck coefficient,[0.00010899999999999999],[853.0],0.000109,853.0
+17623,LiScZ,Seebeck,,S,[0.001807],[300.0],0.001807,300.0
+17624,B,Seebeck,,Seebeck coefficient,[-0.00067],[473.0],-0.00067,473.0
+17625,B,Seebeck,,thermopower,[0.0006],[300.0],0.0006000000000000001,300.0
+17626,Al2O3,Seebeck,,thermopower,[4.4999999999999996e-05],[295],4.5e-05,295.0
+17627,Sb2Te3,Seebeck,,S,[0.000112],[295],0.00011200000000000001,295.0
+17628,Sb2Te3,Seebeck,,Seebeck coefficient,[0.000112],[295],0.00011200000000000001,295.0
+17630,K133Mn800O1600,Seebeck,,Seebeck coefficient,[0.00046929999999999997],[300.0],0.0004693,300.0
+17631,Bi2Se3,Seebeck,,S,[-3.9999999999999996e-05],[300.0],-4e-05,300.0
+17632,AgSbTe2,Seebeck,,Seebeck coefficient,[0.00023999999999999998],[295],0.00024000000000000006,295.0
+17633,CT2,Seebeck,,Seebeck Coefficient,[4.9999999999999996e-06],[300.0],5e-06,300.0
+17634,CeMnO3,Seebeck,,S,[0.00025],[300.0],0.00025,300.0
+17635,MnO3Pr,Seebeck,,S,[0.0005200000000000001],[300.0],0.0005200000000000001,300.0
+17636,CeMnO3,Seebeck,,S,[0.000135],[295],0.000135,295.0
+17637,SnTe,Seebeck,,S,[9.499999999999999e-05],[873.0],9.5e-05,873.0
+17638,Sb2Te3,Seebeck,,Seebeck coefficient,"[8.3e-05, 9.2e-05]",[295],8.75e-05,295.0
+17639,Sb2Te3,Seebeck,,Seebeck coefficient,[0.00011999999999999999],[323.0],0.00012000000000000003,323.0
+17640,In2O3,Seebeck,,Seebeck coefficient,[0.00013169999999999998],[1523.0],0.0001317,1523.0
+17641,Zn,Seebeck,,S,[8.4e-06],[50.0],8.400000000000001e-06,50.0
+17642,CePd3,Seebeck,,thermopower,"[7.999999999999999e-05, 0.00011999999999999999]",[100.0],0.0001,100.0
+17643,FeSb2,Seebeck,,S,[-0.045],[10.0],-0.045,10.0
+17644,FeSb2,Seebeck,,thermopower,[0.007],[15.0],0.006999999999999999,15.0
+17645,FeSb2,Seebeck,,thermopower,[-0.045],[10.0],-0.045,10.0
+17647,Cu9Se5,Seebeck,,α,[8e-06],[295],8e-06,295.0
+17648,Bi85Nb2Sb13,Seebeck,,Seebeck coefficient,[-0.00016183000000000001],[105.0],-0.00016183,105.0
+17649,SeSn,Seebeck,,Seebeck coefficient,[0.000547],[295],0.000547,295.0
+17650,MnO3SnSr2,Seebeck,,S,[3.7099999999999996e-06],[295],3.71e-06,295.0
+17651,AuS,Seebeck,,thermoelectric power,[1.94e-06],[295],1.94e-06,295.0
+17652,Cu5Se7Sn2,Seebeck,,Seebeck coefficient,[1.4e-05],[295],1.4000000000000001e-05,295.0
+17653,Cu4Se7Sn2Zn,Seebeck,,Seebeck coefficient,[0.00010999999999999999],[295],0.00011,295.0
+17654,S,Seebeck,,Seebeck coefficient,[-0.00021899999999999998],[375.0],-0.000219,375.0
+17655,Mo3Sb7,Seebeck,,α,[1.8e-05],[300.0],1.8e-05,300.0
+17656,Fe2Mo13Sb30Te5,Seebeck,,α,[4.4999999999999996e-05],[300.0],4.5e-05,300.0
+17657,Ca3Co4O9,Seebeck,,Seebeck coefficient,[0.000125],[300.0],0.000125,300.0
+17658,PbS,Seebeck,,Seebeck coefficient,[0.000154],[850.0],0.000154,850.0
+17659,O5V2,Seebeck,,Seebeck coefficient,[-0.00099],[323.0],-0.00099,323.0
+17660,B2Ti,Seebeck,,Seebeck coefficient,[-9.999999999999999e-06],[500.0],-1e-05,500.0
+17661,PbSe,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[300.0],0.0002,300.0
+17662,APV,Seebeck,,maximum Seebeck coefficient,[3.6299999999999995e-05],[550.0],3.63e-05,550.0
+17663,B2Ti,Seebeck,,Seebeck coefficient,[1.9999999999999998e-05],[800.0],2e-05,800.0
+17664,B2Ti,Seebeck,,Seebeck coefficient,[-0.00034199999999999996],[550.0],-0.000342,550.0
+17665,PbSe,Seebeck,,Seebeck coefficient,[-0.00035],[300.0],-0.00035000000000000005,300.0
+17666,CaMg2Sb2,Seebeck,,Seebeck coefficient,[0.00027937999999999997],[800.0],0.00027938,800.0
+17667,CuO,Seebeck,,S,[2.4e-05],[300.0],2.4e-05,300.0
+17668,S,Seebeck,,Seebeck coefficient,[0.00027539999999999997],[300.0],0.0002754,300.0
+17669,COS,Seebeck,,thermopower,[0.0014469],[300.0],0.0014469,300.0
+17670,AgSe2Sn,Seebeck,,S,[4.9999999999999996e-06],"[350.0, 700.0]",5e-06,525.0
+17671,S2Ti,Seebeck,,S,[-0.00013],[350.0],-0.00013000000000000002,350.0
+17672,NaS2Sb,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[300.0],0.0002,300.0
+17674,Bi2Te3,Seebeck,,Seebeck coefficient,[0.000195],[295],0.000195,295.0
+17675,CrSi2,Seebeck,,highest Seebeck coefficient,[0.00016199999999999998],[573.0],0.00016199999999999998,573.0
+17676,O97Ti50,Seebeck,,peak α,[-0.000518],[343.0],-0.000518,343.0
+17677,BiCuOSe,Seebeck,,Seebeck coefficient,[0.000235],[300.0],0.00023500000000000002,300.0
+17678,Bi82Cu100Mg9O100Pb9Se100,Seebeck,,Seebeck coefficient,[8.4e-05],[300.0],8.4e-05,300.0
+17679,Bi,Seebeck,,S,[-8.25e-05],[295],-8.25e-05,295.0
+17680,AsHoPd,Seebeck,,Seebeck coefficient,[0.00020325999999999997],[295],0.00020326,295.0
+17681,GeHoPd,Seebeck,,S,[-5.319e-05],[300.0],-5.319e-05,300.0
+17682,GeHoPd,Seebeck,,Seebeck coefficient,[5.319e-05],[295],5.319e-05,295.0
+17683,CoLaO3,Seebeck,,Seebeck coefficient,[0.0006],[295],0.0006000000000000001,295.0
+17684,CoLaO3,Seebeck,,thermopower,[7e-05],[300.0],7.000000000000001e-05,300.0
+17685,MoO3Sr,Seebeck,,Seebeck coefficient,"[4e-06, 9e-06]",[295],6.5000000000000004e-06,295.0
+17686,Fe2Tb,Seebeck,,highest S,[0.00035],[600.0],0.00035000000000000005,600.0
+17687,Fe2Tb,Seebeck,,highest S,[0.00039],[900.0],0.0003900000000000001,900.0
+17688,Co2Tb,Seebeck,,highest S,[0.0003],[600.0],0.00030000000000000003,600.0
+17689,GeSi,Seebeck,,Seebeck coefficient,"[0.0003, 0.00039999999999999996]",[873.0],0.00035000000000000005,873.0
+17690,PS2,Seebeck,,Seebeck coefficient,[2.211e-05],[298.0],2.211e-05,298.0
+17691,DEOPT,Seebeck,,Seebeck coefficient,"[1.53e-05, 1.63e-05]",[295],1.5799999999999998e-05,295.0
+17692,PS2,Seebeck,,Seebeck coefficient,[1.628e-05],[298.0],1.628e-05,298.0
+17693,DEOPT,Seebeck,,Seebeck coefficient,"[1.53e-05, 1.63e-05]",[300.0],1.5799999999999998e-05,300.0
+17694,NiPbZr,Seebeck,,thermopower,[-0.0001539],[295],-0.00015390000000000003,295.0
+17695,COS,Seebeck,,Seebeck coefficient,[-0.0001539],[295],-0.00015390000000000003,295.0
+17696,BCOS,Seebeck,,S,[0.00011999999999999999],[295],0.00012000000000000003,295.0
+17697,OZn,Seebeck,,Seebeck coefficient,[0.000517],[973.0],0.000517,973.0
+17698,PbS,Seebeck,,S,[0.0006],[295],0.0006000000000000001,295.0
+17699,PbSe,Seebeck,,S,[0.000335],[295],0.000335,295.0
+17700,SbSi,Seebeck,,Seebeck coefficient,[0.0027619999999999997],[300.0],0.002762,300.0
+17701,NaO3Ta,Seebeck,,Seebeck coefficient,[-0.0005],[650.0],-0.0005,650.0
+17702,CuInTe2,Seebeck,,α,[1.7e-05],[300.0],1.7e-05,300.0
+17705,S2Ti,Seebeck,,thermopower,[-0.000251],[295],-0.000251,295.0
+17706,AgCuS,Seebeck,,α,[0.0017569999999999999],[364.0],0.001757,364.0
+17707,AgCuS,Seebeck,,α,[0.000133],"[300.0, 550.0]",0.000133,425.0
+17708,HeikesS,Seebeck,,Seebeck coefficient,[0.00018899999999999999],[295],0.000189,295.0
+17710,Ti,Seebeck,,Seebeck coefficient,[-0.00019999999999999998],[340.0],-0.0002,340.0
+17711,COS,Seebeck,,thermoelectric power,[4.6609999999999996e-05],[573.0],4.661e-05,573.0
+17712,Sb2Te3,Seebeck,,S,[0.000164],[295],0.000164,295.0
+17713,Al9Ba4Si14,Seebeck,,Seebeck coefficient,[0.00025],[773.0],0.00025,773.0
+17714,C2O,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[295],0.0001,295.0
+17715,CeCoSi,Seebeck,,S,[1e-06],[83.0],1e-06,83.0
+17716,BiTe2Tl,Seebeck,,Seebeck coefficient,[7.5e-05],[760.0],7.5e-05,760.0
+17717,BiTe2Tl,Seebeck,,Seebeck coefficient,[7.5e-05],[760.0],7.5e-05,760.0
+17718,Bi4O11V2,Seebeck,,Seebeck coefficient,[-0.028300000000000002],[1010.0],-0.0283,1010.0
+17719,CoCuO2,Seebeck,,Seebeck coefficient,[-0.000175],[295],-0.000175,295.0
+17720,Co2NaO4,Seebeck,,thermopower,[9.999999999999999e-05],[300.0],0.0001,300.0
+17721,AlCoCrLa,Seebeck,,Seebeck coefficient,[-3.6e-05],[300.0],-3.6e-05,300.0
+17722,Single,Seebeck,,Seebeck coefficient,[0.00013],[295],0.00013000000000000002,295.0
+17725,C2R,Seebeck,,Seebeck coefficient,[-0.00019999999999999998],[600.0],-0.0002,600.0
+17726,Se2Ti,Seebeck,,thermopower,[0.000145],[295],0.000145,295.0
+17727,Bi2Te3,Seebeck,,Seebeck coefficient,[0.00015999999999999999],[300.0],0.00016,300.0
+17728,CdCu2Se4Sn,Seebeck,,Seebeck coefficient,[0.00022700000000000002],[200.0],0.000227,200.0
+17729,CdCu2SnTe4,Seebeck,,Seebeck coefficient,[0.000251],[600.0],0.000251,600.0
+17730,Ca9Yb,Seebeck,,Seebeck coefficient,[0.000184],[870.0],0.000184,870.0
+17731,Au3Ba4Ge20,Seebeck,,thermopower,[0.00011999999999999999],[800.0],0.00012000000000000003,800.0
+17732,BiSbTe,Seebeck,,highest Seebeck coefficient,[0.000217],[405.0],0.000217,405.0
+17733,Co3Cu47Fe50S100,Seebeck,,S,[0.00023999999999999998],[675.0],0.00024000000000000006,675.0
+17734,Bi2Te3,Seebeck,,Seebeck coefficient,[-6.5e-05],[300.0],-6.500000000000001e-05,300.0
+17735,Bi2Te3,Seebeck,,Seebeck coefficient,[-9.6e-05],[300.0],-9.6e-05,300.0
+17736,CoSb3,Seebeck,,Seebeck coefficient,[0.000159],[600.0],0.00015900000000000002,600.0
+17737,CoSb3,Seebeck,,Seebeck coefficient,[0.00010999999999999999],[295],0.00011,295.0
+17738,CoSb3,Seebeck,,Seebeck coefficient,[9.2e-05],[295],9.2e-05,295.0
+17739,Sb2Te3,Seebeck,,S,"[8.3e-05, 9.2e-05]",[300.0],8.75e-05,300.0
+17740,Sb2Te3,Seebeck,,S,[0.000125],[295],0.000125,295.0
+17742,Sb2Te3,Seebeck,,S,[8.3e-05],[295],8.3e-05,295.0
+17743,Co2NaO4,Seebeck,,thermoelectric power,[9.999999999999999e-05],[300.0],0.0001,300.0
+17744,OZn,Seebeck,,S,[-0.00039999999999999996],[295],-0.0004,295.0
+17745,Pristine,Seebeck,,S,[1.9999999999999998e-05],[300.0],2e-05,300.0
+17746,SnTe,Seebeck,,S,[1.9999999999999998e-05],[300.0],2e-05,300.0
+17747,Sb3Sn17Te20,Seebeck,,S,[3.4e-05],[295],3.4e-05,295.0
+17749,Ca3Co4O9,Seebeck,,thermopower,[0.00013199999999999998],[300.0],0.00013199999999999998,300.0
+17750,Fe10Sb10TiV9,Seebeck,,thermopower,[0.000174],[300.0],0.000174,300.0
+17751,BiCo150Fe50Sb599,Seebeck,,S,[0.00014],[860.0],0.00014,860.0
+17752,Sb2Se3,Seebeck,,Seebeck coefficient,[0.000661],[295],0.000661,295.0
+17753,Bi2Se3,Seebeck,,Seebeck coefficient,[-3.7e-05],[298.0],-3.7e-05,298.0
+17754,Bi2SSeTe,Seebeck,,Seebeck coefficient,[-3.15e-05],[298.0],-3.15e-05,298.0
+17755,Ag2Te,Seebeck,,Seebeck coefficient,[-0.00014199999999999998],[436.0],-0.00014199999999999998,436.0
+17756,S,Seebeck,,Seebeck coefficient,[3.4e-05],[300.0],3.4e-05,300.0
+17758,S125Ti63,Seebeck,,S,[-0.00015],[663.0],-0.00015,663.0
+17759,S125Ti63,Seebeck,,S,[-0.00015],[663.0],-0.00015,663.0
+17760,Hf30Ni50SbSn49Zr20,Seebeck,,maximum Seebeck coefficient,[-0.000164],[790.0],-0.000164,790.0
+17761,AgC20Co60Sn19,Seebeck,,maximum S,[5.9999999999999995e-05],[193.0],6.0000000000000015e-05,193.0
+17765,Cd31CsTe32,Seebeck,,S,[0.00029499999999999996],[1000.0],0.000295,1000.0
+17766,Cd31KTe32,Seebeck,,S,[0.000217],[1000.0],0.000217,1000.0
+17767,Bi2Te3,Seebeck,,Seebeck coefficient,[7e-05],[293.0],7.000000000000001e-05,293.0
+17768,Bi2Te3,Seebeck,,S,[-0.000153],[513.0],-0.000153,513.0
+17769,C2P,Seebeck,,Seebeck Coefficient,"[0.0005499999999999999, 0.0006]",[295],0.000575,295.0
+17770,Na,Seebeck,,Seebeck coefficient,[7e-05],[300.0],7.000000000000001e-05,300.0
+17771,CoSi,Seebeck,,thermopower,[-7.999999999999999e-05],[773.0],-8e-05,773.0
+17772,DEOPT,Seebeck,,S,"[1.2499999999999999e-05, 1.4199999999999998e-05]",[295],1.335e-05,295.0
+17773,DEOPT,Seebeck,,S,[1.265e-05],[295],1.265e-05,295.0
+17774,DEOPT,Seebeck,,S,[2.07e-05],[295],2.07e-05,295.0
+17775,Co16Sb47Te,Seebeck,,Seebeck coefficient,[-0.000222],[673.0],-0.00022200000000000003,673.0
+17776,Co16Sb47Te,Seebeck,,thermopower,[-0.00015999999999999999],[323.0],-0.00016,323.0
+17777,Cu7Te4,Seebeck,,Seebeck coefficient,[3.1e-05],[650.0],3.1e-05,650.0
+17778,Al14Ba8Si31,Seebeck,,Seebeck coefficient,[-4.9e-05],[295],-4.9e-05,295.0
+17779,Al2Si2Sr,Seebeck,,S,[9.999999999999999e-05],[130.0],0.0001,130.0
+17780,HfSe2,Seebeck,,highest Seebeck coefficient,[0.000232],[600.0],0.00023199999999999997,600.0
+17781,S2Zr,Seebeck,,Seebeck coefficient,[0.00028199999999999997],[800.0],0.000282,800.0
+17782,Se2Zr,Seebeck,,maximum Seebeck coefficient,[6.4e-05],[300.0],6.4e-05,300.0
+17783,As2Ru,Seebeck,,Seebeck coefficient,[-0.00035],[295],-0.00035000000000000005,295.0
+17785,NaPb49Se50,Seebeck,,Seebeck coefficient,[1.8999999999999998e-05],[310.0],1.9e-05,310.0
+17786,NaPb49Se50,Seebeck,,Seebeck coefficient,[3.7e-05],[310.0],3.7e-05,310.0
+17787,NaPb49Se50,Seebeck,,Seebeck coefficient,[0.00023799999999999998],[860.0],0.000238,860.0
+17788,NaPb49Se50,Seebeck,,Seebeck coefficient,[0.000168],[860.0],0.000168,860.0
+17789,S2Ti,Seebeck,,S,[-0.000153],[300.0],-0.000153,300.0
+17790,Gd3Sn47Te50,Seebeck,,maximal Seebeck coefficient,[0.00015999999999999999],[873.0],0.00016,873.0
+17791,NTi,Seebeck,,S,[-7.8e-06],[300.0],-7.8e-06,300.0
+17792,Cr2O3,Seebeck,,thermoelectric power,[0.00075],[1300.0],0.00075,1300.0
+17794,Cr3Pb197Se50Te150,Seebeck,,Seebeck coefficient,[-0.00021999999999999998],[295],-0.00022,295.0
+17795,BiSb3Te6,Seebeck,,S,[0.00015],[300.0],0.00015,300.0
+17796,Al2O3,Seebeck,,Seebeck coefficient,[-0.18],[673.0],-0.18,673.0
+17797,Ca3Co4O9,Seebeck,,S,[0.0825],[1073.0],0.0825,1073.0
+17798,OZn,Seebeck,,Seebeck coefficient,[-5.9999999999999995e-05],[295],-6.0000000000000015e-05,295.0
+17799,OZn,Seebeck,,Seebeck coefficient,[5.9999999999999995e-05],[295],6.0000000000000015e-05,295.0
+17800,O2Ti,Seebeck,,Seebeck coefficient,[0.00030199999999999997],"[745.0, 1032.0]",0.000302,888.5
+17801,O2Ti,Seebeck,,highest Seebeck coefficient,[8.999999999999999e-05],[313.0],9e-05,313.0
+17802,O2Ti,Seebeck,,highest Seebeck coefficient,[0.000155],[343.0],0.000155,343.0
+17803,O2Ti,Seebeck,,Seebeck coefficient,[1.7e-05],[473.0],1.7e-05,473.0
+17804,DEOPT,Seebeck,,Seebeck coefficient,[1.4999999999999999e-05],[295],1.5e-05,295.0
+17805,Bi2Te3,Seebeck,,S,[0.0001428],[300.0],0.00014280000000000003,300.0
+17808,NSbSr3,Seebeck,,Seebeck coefficient,[0.000257],[600.0],0.00025699999999999996,600.0
+17809,NSbSr3,Seebeck,,Seebeck coefficient,[0.000257],[600.0],0.00025699999999999996,600.0
+17810,Ca3OSn,Seebeck,,thermopower,[9.999999999999999e-05],[295],0.0001,295.0
+17811,BiNSr3,Seebeck,,Seebeck coefficient,[0.00014199999999999998],[600.0],0.00014199999999999998,600.0
+17812,NSbSr3,Seebeck,,Seebeck coefficient,[0.000257],[600.0],0.00025699999999999996,600.0
+17813,O2Ti,Seebeck,,Seebeck coefficient,[0.000155],[300.0],0.000155,300.0
+17814,O2Ti,Seebeck,,thermoelectric power,[0.000145],[900.0],0.000145,900.0
+17815,Fe47Si100Zr3,Seebeck,,thermoelectric power,[1.9999999999999998e-05],[500.0],2e-05,500.0
+17816,Ca3Co4O9,Seebeck,,S,[0.000149],[300.0],0.000149,300.0
+17817,Bi2Te3,Seebeck,,Seebeck coefficient,[0.00031299999999999996],[300.0],0.000313,300.0
+17818,Fe15Sb10Ti9Y,Seebeck,,S,[0.000117],[450.0],0.000117,450.0
+17819,SeSn,Seebeck,,S,[0.000566],[580.0],0.000566,580.0
+17820,AgInTe2,Seebeck,,Seebeck coefficient,[3.66e-05],[295],3.66e-05,295.0
+17821,OZn,Seebeck,,S,[0.00025736],[1000.0],0.00025736,1000.0
+17822,OZn,Seebeck,,Seebeck coefficient,[-0.0005],[295],-0.0005,295.0
+17823,NbO200Zn199,Seebeck,,Seebeck coefficient,[-0.000263],[1000.0],-0.000263,1000.0
+17824,AlLiSi,Seebeck,,Seebeck coefficient,[0.00015999999999999999],[400.0],0.00016,400.0
+17825,AlLiSi,Seebeck,,Seebeck coefficient,[6.829999999999999e-05],[400.0],6.829999999999999e-05,400.0
+17826,BCOY,Seebeck,,Seebeck coefficient,[1.8999999999999998e-06],[300.0],1.9e-06,300.0
+17827,CoSSb,Seebeck,,Seebeck coefficient,[-0.000565],[300.0],-0.0005650000000000001,300.0
+17828,LuNiSb,Seebeck,,Seebeck coefficient,[1.28e-05],[380.0],1.28e-05,380.0
+17830,SrTe,Seebeck,,thermopower,[6.5e-05],[295],6.500000000000001e-05,295.0
+17831,Mg,Seebeck,,S,[0.000121],[300.0],0.000121,300.0
+17832,SnTe,Seebeck,,S,[0.000121],[300.0],0.000121,300.0
+17833,InPb60Sn139Te200,Seebeck,,Seebeck coefficient,[9.7e-05],[295],9.7e-05,295.0
+17834,Mg2Pb15Sn33Te50,Seebeck,,S,[3.2999999999999996e-05],[300.0],3.3e-05,300.0
+17835,InMg8Pb60Sn131Te200,Seebeck,,S,[0.000121],[300.0],0.000121,300.0
+17836,SnTe,Seebeck,,Seebeck coefficient,[0.000121],[295],0.000121,295.0
+17837,Ca3Co4O9,Seebeck,,highest S,"[0.00016999999999999999, 0.000175]",[1073.0],0.00017250000000000002,1073.0
+17838,Ca14Co20CuO45,Seebeck,,highest Seebeck coefficient,[0.00041999999999999996],[1073.0],0.00042,1073.0
+17839,Ca16Sb11,Seebeck,,α,[1.9999999999999998e-05],[1000.0],2e-05,1000.0
+17840,BiSbTe,Seebeck,,Seebeck coefficient,[0.00022999999999999998],[350.0],0.00022999999999999998,350.0
+17841,OZn,Seebeck,,Seebeck coefficient,[-0.000188],[300.0],-0.000188,300.0
+17842,Bi2S3,Seebeck,,Seebeck coefficient,[0.000498],[295],0.0004980000000000001,295.0
+17843,BS,Seebeck,,Seebeck coefficient,[0.000498],[298.0],0.0004980000000000001,298.0
+17845,CaMnO3,Seebeck,,thermopower,[-0.0007999999999999999],[300.0],-0.0008,300.0
+17846,DEOPT,Seebeck,,Seebeck coefficient,[1.8e-05],"[235.0, 350.0]",1.8e-05,292.5
+17847,AINP,Seebeck,,Seebeck coefficient,[1.4999999999999999e-05],"[235.0, 350.0]",1.5e-05,292.5
+17848,BiSbTe,Seebeck,,S,[0.000178],[300.0],0.000178,300.0
+17849,PdS,Seebeck,,Seebeck coefficient,[3.53e-05],[1073.0],3.53e-05,1073.0
+17850,AlCuO2,Seebeck,,S,[0.00047],[800.0],0.00047,800.0
+17851,Bi94Se21Te135,Seebeck,,Seebeck coefficient,[-4.9999999999999996e-05],[295],-5e-05,295.0
+17852,Bi45Sb122Te333,Seebeck,,Seebeck coefficient,[0.00015],[295],0.00015,295.0
+17853,Bi45Sb122Te333,Seebeck,,Seebeck coefficient,[0.00015],[295],0.00015,295.0
+17854,Co2NaO4,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[295],0.0001,295.0
+17855,S2Ti,Seebeck,,Seebeck coefficient,[-0.00017099999999999998],[295],-0.00017099999999999998,295.0
+17856,Ca3Co4O9,Seebeck,,maximum Seebeck coefficient,"[0.00016999999999999999, 0.000175]",[898.0],0.00017250000000000002,898.0
+17857,BiSbTe3,Seebeck,,maximum Seebeck coefficient,[0.00017099999999999998],[295],0.00017099999999999998,295.0
+17858,BiSbTe3,Seebeck,,maximum Seebeck coefficient,[0.00017099999999999998],[295],0.00017099999999999998,295.0
+17859,BiITe,Seebeck,,S,"[5.4999999999999995e-05, 5.9999999999999995e-05]",[400.0],5.75e-05,400.0
+17860,BiITe,Seebeck,,Seebeck coefficient,[-0.00011499999999999999],[295],-0.000115,295.0
+17861,BiITe,Seebeck,,thermopower,[6.599999999999999e-05],[295],6.599999999999999e-05,295.0
+17862,Bi2S3,Seebeck,,Seebeck coefficient,[0.00039999999999999996],[295],0.0004,295.0
+17863,Mn51Te49,Seebeck,,Seebeck coefficient,[0.000414],[773.0],0.000414,773.0
+17864,SbY,Seebeck,,Seebeck coefficient,[4.4e-05],[1200.0],4.4e-05,1200.0
+17865,Ge13Ir4Y3,Seebeck,,thermoelectric power,[3.7999999999999995e-05],[295],3.8e-05,295.0
+17866,OZn,Seebeck,,Seebeck coefficient,[-7e-05],[295],-7.000000000000001e-05,295.0
+17867,Ca3PbS,Seebeck,,thermopower,[0.000249487],[295],0.000249487,295.0
+17868,PbSSr3,Seebeck,,thermopower,[0.000258131],[295],0.00025813100000000004,295.0
+17869,Bi2Te3,Seebeck,,Seebeck coefficient,[0.00027],[306.0],0.00027,306.0
+17870,Bi2Te3,Seebeck,,Seebeck coefficient,[-6.5e-05],[300.0],-6.500000000000001e-05,300.0
+17871,FeSbV,Seebeck,,Seebeck coefficient,[0.000126],[956.0],0.000126,956.0
+17872,Sb2Te3,Seebeck,,S,[4.2999999999999995e-05],"[298.0, 573.0]",4.3e-05,435.5
+17873,Sb2Te3,Seebeck,,S,[3.2999999999999996e-05],[300.0],3.3e-05,300.0
+17874,Sb2Te3,Seebeck,,S,[4.2999999999999995e-05],"[298.0, 573.0]",4.3e-05,435.5
+17876,Ag21Sb29Te54,Seebeck,,maximum Seebeck coefficient,[0.0003],[295],0.00030000000000000003,295.0
+17878,Bi2Te3,Seebeck,,Seebeck coefficient,[-0.00019999999999999998],[300.0],-0.0002,300.0
+17879,Crystalline,Seebeck,,Seebeck coefficient,[-7.2e-05],[473.0],-7.2e-05,473.0
+17880,C2O,Seebeck,,S,[0.00013],[300.0],0.00013000000000000002,300.0
+17881,Hf125Ni500SbSn499Ti250Zr125,Seebeck,,S,[-0.00035],[700.0],-0.00035000000000000005,700.0
+17882,Hf3Ni10Sn10Zr7,Seebeck,,Seebeck coefficient,[-7.099999999999999e-05],[323.0],-7.099999999999999e-05,323.0
+17883,Hf30Ni103Sn100Zr70,Seebeck,,Seebeck coefficient,[-0.000158],[773.0],-0.00015800000000000002,773.0
+17884,SeSn,Seebeck,,maximum Seebeck coefficient,[0.000321],[700.0],0.000321,700.0
+17885,SSn,Seebeck,,Seebeck coefficient,[0.00039999999999999996],[823.0],0.0004,823.0
+17886,O2Ti,Seebeck,,S,[-0.00043999999999999996],[295],-0.00044,295.0
+17887,O39Ti20,Seebeck,,S,[-0.0007999999999999999],[460.0],-0.0008,460.0
+17888,O2Ti,Seebeck,,S,[0.06],[1053.0],0.06,1053.0
+17889,DEOPT,Seebeck,,Seebeck coefficient,[3.9200000000000004e-05],[295],3.9200000000000004e-05,295.0
+17890,CrCuSe2,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[295],0.0001,295.0
+17891,CrCuSe2,Seebeck,,α,[9.999999999999999e-05],[295],0.0001,295.0
+17892,GdTe6Tl9,Seebeck,,Seebeck coefficient,[2.7e-05],[295],2.7000000000000002e-05,295.0
+17893,CoSb3,Seebeck,,Seebeck coefficient,[0.0006],[573.0],0.0006000000000000001,573.0
+17894,CoSb3,Seebeck,,Seebeck coefficient,[-0.00025],[473.0],-0.00025,473.0
+17895,CoSb3,Seebeck,,Seebeck coefficient,[5.8e-05],[295],5.7999999999999994e-05,295.0
+17896,Sb2SeSnTe3,Seebeck,,maximum Seebeck coefficient,[6.5e-05],[320.0],6.500000000000001e-05,320.0
+17897,Sb2SnTe4,Seebeck,,maximum Seebeck coefficient,[1.9999999999999998e-05],[320.0],2e-05,320.0
+17899,CNT,Seebeck,,S,[-8.599999999999999e-05],[295],-8.599999999999999e-05,295.0
+17900,S2Ti,Seebeck,,S,[-7.8e-05],[295],-7.8e-05,295.0
+17901,Mg200SbSi99,Seebeck,,Seebeck coefficient,[-7.549999999999999e-05],[295],-7.549999999999999e-05,295.0
+17902,Mg100SbSi49,Seebeck,,Seebeck coefficient,[-6.19e-05],[295],-6.19e-05,295.0
+17903,Mo3Sb7,Seebeck,,α,[1.8e-05],[300.0],1.8e-05,300.0
+17904,Mo14NiSb35,Seebeck,,α,[2.2e-05],[300.0],2.2e-05,300.0
+17905,Mo5NiSb14,Seebeck,,α,[2.4e-05],[300.0],2.4e-05,300.0
+17906,SeSn,Seebeck,,Seebeck coefficient,[0.000516],[326.0],0.000516,326.0
+17907,CrSV,Seebeck,,S,[-1e-06],"[200.0, 1000.0]",-1e-06,600.0
+17908,CrSV,Seebeck,,S,[-1.2299999999999999e-06],[295],-1.23e-06,295.0
+17909,LiMn2O4,Seebeck,,thermopower,[-1.9999999999999998e-05],[280.0],-2e-05,280.0
+17910,BaMn2Sb2,Seebeck,,Seebeck coefficient,[0.000225],[295],0.000225,295.0
+17911,Bi2Te3,Seebeck,,Seebeck coefficient,[-0.000128],[295],-0.000128,295.0
+17912,BiNdO7Ru2,Seebeck,,S,[3.5e-05],[1000.0],3.5e-05,1000.0
+17913,BaO3Sn,Seebeck,,Seebeck coefficient,[-0.0003],[900.0],-0.00030000000000000003,900.0
+17915,OZn,Seebeck,,Seebeck coefficient,[-0.00011499999999999999],[473.0],-0.000115,473.0
+17916,OZn,Seebeck,,Seebeck coefficient,[-0.0003137],[295],-0.0003137,295.0
+17917,O3SrTi,Seebeck,,Seebeck coefficient,[0.00105],[295],0.0010500000000000002,295.0
+17918,Al2O3,Seebeck,,thermopower,[4.4999999999999996e-05],[295],4.5e-05,295.0
+17919,CoSb3,Seebeck,,Seebeck coefficient,[0.00018999999999999998],[295],0.00018999999999999998,295.0
+17920,CuInSe2,Seebeck,,thermoelectric power,[0.00015],[300.0],0.00015,300.0
+17921,CoSb3,Seebeck,,maximum S,[0.000147],[615.0],0.000147,615.0
+17922,O3Y2,Seebeck,,Seebeck coefficient,[-0.05],"[900.0, 1000.0]",-0.05,950.0
+17923,GeSi,Seebeck,,Seebeck coefficient,[0.000115],[373.0],0.000115,373.0
+17924,BiSb3Te6,Seebeck,,maximum Seebeck coefficient,[0.00025],[300.0],0.00025,300.0
+17925,Bi3SbTe6,Seebeck,,maximum Seebeck coefficient,[9.999999999999999e-05],[300.0],0.0001,300.0
+17926,Mg2Si,Seebeck,,maximum Seebeck coefficient,[-0.00075],[295],-0.00075,295.0
+17927,Ca4Mn3O10,Seebeck,,Seebeck coefficient,[-0.00029499999999999996],[300.0],-0.000295,300.0
+17928,Ca4Mn3O10,Seebeck,,Seebeck coefficient,[-0.000345],[300.0],-0.00034500000000000004,300.0
+17929,Cu7Ni3,Seebeck,,thermopower,[-4.87e-05],[823.0],-4.8700000000000005e-05,823.0
+17930,HfNi2Sn2Zr10,Seebeck,,Seebeck coefficient,[6.3e-05],[295],6.3e-05,295.0
+17931,Cu2Se,Seebeck,,highest S,[0.000278],[873.0],0.000278,873.0
+17932,AgNO3,Seebeck,,α,[1.2e-05],[335.0],1.2e-05,335.0
+17933,CePd3,Seebeck,,S,[9.999999999999999e-05],[135.0],0.0001,135.0
+17934,Mg2Si,Seebeck,,Seebeck coefficient,[-0.0006799999999999999],[600.0],-0.0006799999999999999,600.0
+17936,BCOY,Seebeck,,Seebeck coefficient,[2.4999999999999998e-06],[300.0],2.5e-06,300.0
+17937,ACTV,Seebeck,,S,[3.726e-05],[295],3.726e-05,295.0
+17939,CoGeTe,Seebeck,,Seebeck coefficient,[-0.000164],[300.0],-0.000164,300.0
+17940,AlNiZr2,Seebeck,,Seebeck coefficient,[2.56e-05],[295],2.56e-05,295.0
+17941,AlNiZr2,Seebeck,,S,[4.73e-05],[150.0],4.73e-05,150.0
+17942,AlNiZr2,Seebeck,,S,[4.28e-05],[800.0],4.28e-05,800.0
+17943,Tl,Seebeck,,S,[0.00015],[300.0],0.00015,300.0
+17944,PbTe,Seebeck,,thermopower,"[0.000125, 0.00015]",[300.0],0.00013749999999999998,300.0
+17945,Mg40Si7Sn13,Seebeck,,S,[-0.000518],[450.0],-0.000518,450.0
+17946,Mg40Si7Sn13,Seebeck,,Seebeck coefficient,[-0.000518],[500.0],-0.000518,500.0
+17947,GdMn2O6Sr,Seebeck,,thermopower,[0.9],[50.0],0.9,50.0
+17948,Cu2S3Sn,Seebeck,,thermoelectric power,[8.669999999999999e-05],[300.0],8.669999999999999e-05,300.0
+17949,Bi8Eu11Sn2,Seebeck,,S,[-1e-06],[300.0],-1e-06,300.0
+17950,Ca3Co4O9,Seebeck,,Seebeck coefficient,[0.00015],[295],0.00015,295.0
+17951,BiCuOSe,Seebeck,,Seebeck coefficient,[0.00035],[300.0],0.00035000000000000005,300.0
+17952,Perovskite,Seebeck,,Seebeck coefficient,[-0.0003],[1200.0],-0.00030000000000000003,1200.0
+17953,OZn,Seebeck,,Seebeck coefficient,[0.00047799999999999996],[295],0.000478,295.0
+17954,Bi2Te3,Seebeck,,S,[0.00021],[320.0],0.00021,320.0
+17957,DEOPT,Seebeck,,Seebeck coefficient,[2.86e-05],[350.0],2.86e-05,350.0
+17958,CNT,Seebeck,,Seebeck coefficient,[2.74e-06],[350.0],2.74e-06,350.0
+17959,SnTe,Seebeck,,Seebeck coefficient,[7.999999999999999e-05],[295],8e-05,295.0
+17961,La,Seebeck,,Seebeck coefficient,[-0.00018199999999999998],[423.0],-0.000182,423.0
+17962,Cu20La37O80Sr3,Seebeck,,S,[3.9999999999999996e-05],[290.0],4e-05,290.0
+17963,DEOPT,Seebeck,,S,"[1.505e-05, 1.851e-05]",[300.0],1.6780000000000002e-05,300.0
+17964,CSi,Seebeck,,Seebeck coefficient,[0.000225],[295],0.000225,295.0
+17965,CSi,Seebeck,,Seebeck coefficient,[0.00014],[295],0.00014,295.0
+17966,BiSbTe,Seebeck,,S,[0.000207],[303.0],0.000207,303.0
+17968,Ni10Sn10TiZr9,Seebeck,,thermopower,[-7.8e-05],[300.0],-7.8e-05,300.0
+17970,DEOPT,Seebeck,,Seebeck coefficient,[1.6499999999999998e-05],[300.0],1.6499999999999998e-05,300.0
+17971,Ag2Te,Seebeck,,Seebeck coefficient,[-0.00014199999999999998],[468.0],-0.00014199999999999998,468.0
+17972,Ag2Te,Seebeck,,highest Seebeck coefficient,[-0.00014199999999999998],[468.0],-0.00014199999999999998,468.0
+17973,Ge13Ir4Y3,Seebeck,,thermoelectric power,[3.7999999999999995e-05],[295],3.8e-05,295.0
+17974,InTe,Seebeck,,S,[0.000118],"[300.0, 723.0]",0.000118,511.5
+17975,InTe,Seebeck,,S,[0.000233],"[300.0, 723.0]",0.000233,511.5
+17976,CNSTsW,Seebeck,,n - type Seebeck coefficient,[-0.00019999999999999998],[300.0],-0.0002,300.0
+17977,OZn,Seebeck,,Seebeck coefficient,[-0.00028],[295],-0.00028000000000000003,295.0
+17978,C2O,Seebeck,,S,[0.0003],[973.0],0.00030000000000000003,973.0
+17979,Mg,Seebeck,,S,[0.25],[295],0.25,295.0
+17980,O2Sn,Seebeck,,Seebeck coefficient,[0.00023],[450.0],0.00022999999999999998,450.0
+17981,CoSbTi,Seebeck,,maximum thermopower,[0.000222],[840.0],0.00022200000000000003,840.0
+17982,CoSbZr,Seebeck,,thermopower,[-8e-06],[295],-8e-06,295.0
+17983,Co2HfSb2Zr,Seebeck,,thermopower,[-4.9999999999999996e-05],[300.0],-5e-05,300.0
+17984,Co40Hf50Rh60Sb99SnZr50,Seebeck,,thermopower,[0.000135],[775.0],0.000135,775.0
+17985,Co10Hf5Sb8Sn2Zr5,Seebeck,,thermopower,[0.00013],[750.0],0.00013000000000000002,750.0
+17989,Bi39Cu40O39SSe40Zn,Seebeck,,S,[0.00035999999999999997],[750.0],0.00036,750.0
+17990,NbO2,Seebeck,,Seebeck coefficient,[-0.000173],[873.0],-0.000173,873.0
+17992,NiTi,Seebeck,,S,[1.7e-05],[295],1.7e-05,295.0
+17994,GaSb,Seebeck,,Seebeck coefficient,[0.000596],[450.0],0.000596,450.0
+17996,Mn51Te49,Seebeck,,Seebeck coefficient,[0.0006],[295],0.0006000000000000001,295.0
+17997,MnTe,Seebeck,,Seebeck coefficient,[0.0005139],[295],0.0005139,295.0
+18000,CNSTW,Seebeck,,maximum S,[2.9999999999999997e-05],[350.0],3.0000000000000008e-05,350.0
+18002,N4Si3,Seebeck,,S,[-2.4999999999999998e-05],[320.0],-2.5e-05,320.0
+18004,N4Si3,Seebeck,,S,[-2.4e-05],[300.0],-2.4e-05,300.0
+18005,Al2O3,Seebeck,,S,[2.2e-05],[300.0],2.2e-05,300.0
+18006,N4Si3,Seebeck,,peak thermopower,[-2.6e-05],[295],-2.6000000000000002e-05,295.0
+18007,N4Si3,Seebeck,,peak thermopower,[4.9999999999999996e-06],[295],5e-06,295.0
+18008,PbTe,Seebeck,,maximum Seebeck coefficient,[0.00034313999999999997],[300.0],0.00034314,300.0
+18009,SnTe,Seebeck,,maximum Seebeck coefficient,[0.00024631999999999996],[300.0],0.00024632,300.0
+18010,Al2O4Zn,Seebeck,,Seebeck coefficient,[0.00023999999999999998],[295],0.00024000000000000006,295.0
+18012,Bi,Seebeck,,S,[0.00014099999999999998],[318.0],0.00014099999999999998,318.0
+18013,Ba,Seebeck,,S,[0.0001625],[318.0],0.0001625,318.0
+18014,Fe2O3,Seebeck,,peak S,[0.00165],"[270.0, 290.0]",0.0016500000000000002,280.0
+18015,Ag2Se,Seebeck,,S,[0.00010999999999999999],[295],0.00011,295.0
+18016,SnTe,Seebeck,,Seebeck coefficient,[3.0299999999999998e-05],[295],3.03e-05,295.0
+18017,Bi5Mn18Sb7Sn170Te200,Seebeck,,Seebeck coefficient,[0.00018999999999999998],[295],0.00018999999999999998,295.0
+18018,BiSbSe3,Seebeck,,Seebeck coefficient,[0.00053021],[295],0.00053021,295.0
+18019,Ag29Ba784Eu16Ga1405Ge2997,Seebeck,,S,[-7.999999999999999e-05],[300.0],-8e-05,300.0
+18020,OZn,Seebeck,,S,[-0.000225],[333.0],-0.000225,333.0
+18021,OZn,Seebeck,,S,[-0.00025299999999999997],[333.0],-0.000253,333.0
+18022,OZn,Seebeck,,maximum S,[-0.00026199999999999997],[630.0],-0.000262,630.0
+18023,Ca3Co4O9,Seebeck,,Seebeck coefficient,"[0.00013, 0.00017999999999999998]","[300.0, 973.0]",0.000155,636.5
+18024,Bi2O4Pd,Seebeck,,maximum S,[0.0014579999999999999],[340.0],0.001458,340.0
+18025,Cu3La3Sb4,Seebeck,,thermopower,[5.9999999999999995e-05],[300.0],6.0000000000000015e-05,300.0
+18026,Sb2Te3,Seebeck,,Seebeck coefficient,[6.3e-05],[673.0],6.3e-05,673.0
+18027,Sb2Te3,Seebeck,,Seebeck coefficient,[0.000138],[573.0],0.000138,573.0
+18028,Bi2Te3,Seebeck,,Seebeck coefficient,[0.00014099999999999998],[573.0],0.00014099999999999998,573.0
+18029,BiCuOSe,Seebeck,,Seebeck coefficient,[0.00017605],[835.0],0.00017605,835.0
+18030,BiCuOSe,Seebeck,,Seebeck coefficient,[0.00017605],[835.0],0.00017605,835.0
+18031,BiCuOSe,Seebeck,,Seebeck coefficient,[0.00022999999999999998],[873.0],0.00022999999999999998,873.0
+18032,In2S3,Seebeck,,highest Seebeck coefficient,[0.00010999999999999999],[773.0],0.00011,773.0
+18033,Ru2Si3,Seebeck,,Seebeck coefficient,[0.00039999999999999996],[500.0],0.0004,500.0
+18034,NiSnTi,Seebeck,,thermopower,"[3.9999999999999996e-05, 0.00025]",[295],0.000145,295.0
+18035,CdS,Seebeck,,seebeck coefficient,[0.00025],[295],0.00025,295.0
+18036,HfTe5,Seebeck,,thermopower,[9.499999999999999e-05],[295],9.5e-05,295.0
+18037,HfTe5,Seebeck,,thermopower,[5.4999999999999995e-05],[77.0],5.5e-05,77.0
+18038,SiTe2,Seebeck,,S,[0.00014525],[300.0],0.00014525,300.0
+18039,AsFeLi,Seebeck,,Seebeck coefficient,"[4.9999999999999996e-05, 8.999999999999999e-05]",[700.0],7.000000000000001e-05,700.0
+18041,GeSi,Seebeck,,Seebeck coefficient,[0.000115],[373.0],0.000115,373.0
+18042,Ba2O22Ti13,Seebeck,,Seebeck coefficient,[-1.2499999999999999e-06],[300.0],-1.25e-06,300.0
+18043,Ag3Pb90Sb5Te100,Seebeck,,Seebeck coefficient,[-0.000337],[373.0],-0.000337,373.0
+18044,Ag3Pb90Sb5Te100,Seebeck,,Seebeck coefficient,[-0.00037299999999999996],[337.0],-0.000373,337.0
+18045,Cl3Fe,Seebeck,,thermoelectric power,[0.00010999999999999999],[320.0],0.00011,320.0
+18046,FeSb2,Seebeck,,Seebeck coefficient,[0.045],[10.0],0.045,10.0
+18047,Bi25GaSb75Te150,Seebeck,,Seebeck coefficient,[0.000216],[400.0],0.00021600000000000002,400.0
+18048,AuS,Seebeck,,Seebeck coefficient,[7.9e-06],[295],7.899999999999999e-06,295.0
+18049,AuS,Seebeck,,Seebeck coefficient,[1.8999999999999998e-06],[295],1.9e-06,295.0
+18050,Bi2Te3,Seebeck,,Seebeck coefficient,[0.00014],[293.0],0.00014,293.0
+18051,Bi2Te3,Seebeck,,S,[0.00025],[293.0],0.00025,293.0
+18052,CDV,Seebeck,,S,[0.00025],[293.0],0.00025,293.0
+18053,Bi2Te3,Seebeck,,S,[0.00014],[293.0],0.00014,293.0
+18054,Bi2Te31,Seebeck,,S,[0.00025],[293.0],0.00025,293.0
+18055,CoFeNbSn,Seebeck,,S,[1e-06],[50.0],1e-06,50.0
+18056,AgSbSe2,Seebeck,,S,[0.000164],[295],0.000164,295.0
+18057,SnTe,Seebeck,,S,[8.999999999999999e-05],[775.0],9e-05,775.0
+18058,CePd3,Seebeck,,thermopower,[0.00011499999999999999],[120.0],0.000115,120.0
+18059,Ce2Nd3Pd15,Seebeck,,S,[1.4999999999999999e-05],[295],1.5e-05,295.0
+18061,EuSb2Zn2,Seebeck,,thermopower,[0.000122],[300.0],0.000122,300.0
+18062,MnSb11Yb14,Seebeck,,thermopower,[5.9999999999999995e-05],[300.0],6.0000000000000015e-05,300.0
+18063,Cu2S,Seebeck,,Seebeck coefficient,[0.0003],[450.0],0.00030000000000000003,450.0
+18064,CaFe4Sb12,Seebeck,,thermopower,[0.00010499999999999999],[500.0],0.000105,500.0
+18065,FeSbV,Seebeck,,thermopower,[-0.000165],[295],-0.000165,295.0
+18066,Ca3Co4O9,Seebeck,,Seebeck coefficient,[0.00017199999999999998],[973.0],0.00017199999999999998,973.0
+18067,Cr99Cu100LaS200,Seebeck,,S,[0.00031999999999999997],[500.0],0.00032,500.0
+18069,CrSi2,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[295],0.0001,295.0
+18070,SnTe3Tl4,Seebeck,,S,[4.9999999999999996e-05],[300.0],5e-05,300.0
+18071,CaCo2Fe2Sb12,Seebeck,,S,[0.00016999999999999999],[773.0],0.00016999999999999999,773.0
+18072,Ni20Sb41Sn19,Seebeck,,S,[7e-05],[295],7.000000000000001e-05,295.0
+18073,AgSbSe2,Seebeck,,Seebeck coefficient,[0.000355],[323.0],0.00035499999999999996,323.0
+18074,Se3Sn20Te17,Seebeck,,S,[5e-07],[295],5e-07,295.0
+18075,Se3Sn20Te17,Seebeck,,S,[6.7e-05],[295],6.7e-05,295.0
+18076,SeSn,Seebeck,,Seebeck coefficient,[0.0005],[675.0],0.0005,675.0
+18077,AgBiCl6Cs2,Seebeck,,maximum Seebeck coefficient,[0.00023999999999999998],[400.0],0.00024000000000000006,400.0
+18078,AgBiCl6Cs2,Seebeck,,maximum Seebeck coefficient,[0.00023999999999999998],[400.0],0.00024000000000000006,400.0
+18079,CeP12Ru4,Seebeck,,S,[0.00029299999999999997],[160.0],0.000293,160.0
+18080,As12CeRu4,Seebeck,,Seebeck coefficient,[4.4399999999999995e-05],[50.0],4.44e-05,50.0
+18081,CeRu4Sb12,Seebeck,,Seebeck coefficient,[0.000129],[40.0],0.000129,40.0
+18082,Co10O20Pr3,Seebeck,,thermopower,[0.00014],[300.0],0.00014,300.0
+18083,BaCr10Se16,Seebeck,,maximum Seebeck coefficient,[0.00031499999999999996],[635.0],0.000315,635.0
+18084,AgBiSSe,Seebeck,,Seebeck coefficient,[-0.0005099999999999999],[300.0],-0.0005099999999999999,300.0
+18085,PbTe,Seebeck,,Seebeck coefficient,[-0.00035999999999999997],[300.0],-0.00036,300.0
+18086,In2O3,Seebeck,,average Seebeck coefficient,[0.0003415],[1478.0],0.0003415,1478.0
+18087,S,Seebeck,,Seebeck coefficient,[0.00018999999999999998],[690.0],0.00018999999999999998,690.0
+18089,GeTe,Seebeck,,Seebeck coefficient,[8.3e-05],[300.0],8.3e-05,300.0
+18090,CMNTW,Seebeck,,S,[-0.00019999999999999998],[773.0],-0.0002,773.0
+18091,Fe8Ge3Mn4Si,Seebeck,,Seebeck coefficient,[9e-06],[270.0],9e-06,270.0
+18092,Fe4GeMn2Si,Seebeck,,Seebeck coefficient,[2.0000000000000003e-06],[100.0],2e-06,100.0
+18093,Fe4GeMn2Si,Seebeck,,Seebeck coefficient,[6e-06],[100.0],6e-06,100.0
+18094,GeTe,Seebeck,,S,[2.9999999999999997e-05],[300.0],3.0000000000000008e-05,300.0
+18095,GeTe,Seebeck,,S,[3.4e-05],[300.0],3.4e-05,300.0
+18096,GeTe,Seebeck,,S,[9.8e-05],[300.0],9.8e-05,300.0
+18097,MoS2,Seebeck,,Seebeck coefficient,[9.999999999999999e-06],[610.0],1e-05,610.0
+18098,GOTr,Seebeck,,S,[-1.3289999999999998e-05],[303.0],-1.329e-05,303.0
+18100,CoSSb,Seebeck,,thermoelectric power,[0.00019999999999999998],[295],0.0002,295.0
+18101,NiSSb,Seebeck,,Seebeck coefficient,[-9e-06],[295],-9e-06,295.0
+18102,COTi2,Seebeck,,Seebeck coefficient,[7.3e-05],[973.0],7.3e-05,973.0
+18103,BiLaPt,Seebeck,,Seebeck coefficient,[0.00035],[1000.0],0.00035000000000000005,1000.0
+18104,FeSb2,Seebeck,,thermopower,[-0.04],[10.0],-0.04,10.0
+18105,FeSb2,Seebeck,,Seebeck coefficient,[-0.045],[10.0],-0.045,10.0
+18106,Ag50LaSb49Te100,Seebeck,,Seebeck coefficient,[0.000358],[423.0],0.00035800000000000003,423.0
+18107,Bi6Pb5Se14,Seebeck,,S,[-0.00013099999999999999],[271.0],-0.000131,271.0
+18108,Ge9SnTe10,Seebeck,,Seebeck coefficient,[7.099999999999999e-05],[770.0],7.099999999999999e-05,770.0
+18109,Sb3Zn4,Seebeck,,S,"[7e-05, 0.00014]",[295],0.000105,295.0
+18111,MoS2,Seebeck,,Seebeck coefficient,[-3.019e-05],[323.0],-3.019e-05,323.0
+18112,Co2NaO4,Seebeck,,thermoelectric power,[9.999999999999999e-05],[300.0],0.0001,300.0
+18113,S,Seebeck,,thermopower,[-0.00022999999999999998],[1000.0],-0.00022999999999999998,1000.0
+18115,Bi2Te3,Seebeck,,Seebeck coefficient,[-0.000188],[307.0],-0.000188,307.0
+18116,DEOPT,Seebeck,,Seebeck coefficient,[1.4599999999999999e-05],[295],1.46e-05,295.0
+18117,W,Seebeck,,S,"[5.9999999999999995e-05, 0.00011999999999999999]",[295],9e-05,295.0
+18118,W,Seebeck,,Seebeck coefficient,"[5.9999999999999995e-05, 0.00011999999999999999]",[295],9e-05,295.0
+18119,Co19Na10O40Zn,Seebeck,,Seebeck coefficient,[415.0],[1073.0],415.0,1073.0
+18120,Pure,Seebeck,,Seebeck coefficient,[-0.00017999999999999998],[400.0],-0.00018,400.0
+18123,MoS2,Seebeck,,Seebeck coefficient,[0.00044634199999999996],[300.0],0.00044634199999999996,300.0
+18124,Sb2Te3,Seebeck,,α,[0.00015999999999999999],[463.0],0.00016,463.0
+18125,Bi2Te3,Seebeck,,α,[-0.00019999999999999998],[463.0],-0.0002,463.0
+18126,AuZn,Seebeck,,Seebeck coefficient,[4.6e-05],[460.0],4.6e-05,460.0
+18127,OZn,Seebeck,,Seebeck coefficient,[-0.0005],[295],-0.0005,295.0
+18128,GaPd,Seebeck,,thermopower,[-3.6e-06],[295],-3.6000000000000003e-06,295.0
+18130,AlFe2V,Seebeck,,thermoelectric power,[2.9999999999999997e-05],[300.0],3.0000000000000008e-05,300.0
+18131,Bi2Se3,Seebeck,,S,"[6.77e-05, 8.379999999999999e-05]",[300.0],7.575e-05,300.0
+18132,AsCoCrFe,Seebeck,,Seebeck coefficient,[0.003],[100.0],0.003,100.0
+18133,Undoped,Seebeck,,Seebeck coefficient,[0.00078],[295],0.0007800000000000001,295.0
+18134,Bi2Te3,Seebeck,,thermopower,[0.00031299999999999996],[295],0.000313,295.0
+18135,SbZn,Seebeck,,Seebeck coefficient,[0.000325],[350.0],0.000325,350.0
+18136,Sb2Te3,Seebeck,,Seebeck coefficient,[0.000118],[295],0.000118,295.0
+18137,Bi2Te3,Seebeck,,Seebeck coefficient,[0.000408],[298.0],0.000408,298.0
+18138,PbTe,Seebeck,,α,[0.00024],"[450.0, 850.0]",0.00024000000000000006,650.0
+18139,Sb2Te3,Seebeck,,S,[0.0004326],[473.0],0.00043260000000000005,473.0
+18140,AlB14Li,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[1000.0],0.0002,1000.0
+18141,CeSe2,Seebeck,,Seebeck coefficient,[0.000477],[300.0],0.00047699999999999994,300.0
+18142,Sb2Se3,Seebeck,,S,[0.0018],[295],0.0018000000000000004,295.0
+18143,Sb2Se3,Seebeck,,S,[-0.00075],[295],-0.00075,295.0
+18144,Sb2Se3,Seebeck,,Seebeck coefficient,[-0.000145],[300.0],-0.000145,300.0
+18145,Sb2Se3,Seebeck,,Seebeck coefficient,[-0.00075],[300.0],-0.00075,300.0
+18146,Co2SbSc,Seebeck,,Seebeck coefficient,[6.42e-05],[295],6.42e-05,295.0
+18147,Ba3Cu20Te13,Seebeck,,S,[0.000452],[500.0],0.000452,500.0
+18148,AlCa3Sb3,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[295],0.0002,295.0
+18149,Sb2Te3,Seebeck,,Seebeck coefficient,[8.3e-05],[300.0],8.3e-05,300.0
+18150,BCOS,Seebeck,,Seebeck coefficient,[0.0003],[600.0],0.00030000000000000003,600.0
+18151,Co20Na17O40,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[673.0],0.0002,673.0
+18152,CaMnO3,Seebeck,,Seebeck coefficient,[0.00045999999999999996],[295],0.00045999999999999996,295.0
+18153,Cu4S16Sn7,Seebeck,,Seebeck coefficient,[-0.00075],[300.0],-0.00075,300.0
+18154,As2S3,Seebeck,,Seebeck coefficient,[0.000298],[300.0],0.000298,300.0
+18155,As2S3,Seebeck,,Seebeck coefficient,[0.00018891999999999997],[295],0.00018892,295.0
+18157,Ca3Co4O9,Seebeck,,S,[0.00013199999999999998],[300.0],0.00013199999999999998,300.0
+18158,CoLaO3,Seebeck,,α,[0.0007],[300.0],0.0007,300.0
+18159,CoCrSc,Seebeck,,Seebeck coefficient,[2.0059999999999998e-05],[800.0],2.006e-05,800.0
+18160,CoCrGeSc,Seebeck,,S,[4.58e-06],[300.0],4.58e-06,300.0
+18161,GOR,Seebeck,,S,[0.00016999999999999999],[295],0.00016999999999999999,295.0
+18162,SeSn,Seebeck,,Seebeck coefficient,[0.00058],[310.0],0.00058,310.0
+18163,Nd2O3,Seebeck,,Seebeck coefficient,[0.00026252],[325.0],0.00026252000000000003,325.0
+18164,NbO,Seebeck,,Seebeck coefficient,[-2.4999999999999998e-05],[1000.0],-2.5e-05,1000.0
+18165,Nb551O449,Seebeck,,Seebeck coefficient,[-8e-06],[295],-8e-06,295.0
+18166,S2Ti,Seebeck,,thermopower,[-0.00025],[300.0],-0.00025,300.0
+18167,S2Ti,Seebeck,,Seebeck coefficient,[-0.00017999999999999998],[300.0],-0.00018,300.0
+18168,Ti,Seebeck,,Seebeck coefficient,[-0.000156],[300.0],-0.000156,300.0
+18171,Bi2Te3,Seebeck,,Seebeck coefficient,[0.000216],[300.0],0.00021600000000000002,300.0
+18172,CoSi,Seebeck,,Seebeck coefficient,[8.3e-05],[295],8.3e-05,295.0
+18173,BiCo14O20,Seebeck,,Seebeck coefficient,[0.000435],[510.0],0.00043499999999999995,510.0
+18174,CO49,Seebeck,,Seebeck coefficient,[0.00015999999999999999],[973.0],0.00016,973.0
+18175,SeSn,Seebeck,,S,[0.007863],[42.0],0.007863,42.0
+18176,Ce9Co10Fe30Sb120,Seebeck,,S,[0.0001115],[295],0.0001115,295.0
+18178,Br2Pb,Seebeck,,S,[-0.0001933],[300.0],-0.0001933,300.0
+18179,Br2Pb,Seebeck,,Seebeck coefficient,[-0.000363],[793.0],-0.000363,793.0
+18181,Se2Sn,Seebeck,,Seebeck coefficient,[0.00025499999999999996],[523.0],0.000255,523.0
+18182,AgBi3S5,Seebeck,,thermoelectric power,[-9.8e-05],[295],-9.8e-05,295.0
+18183,CrSi2,Seebeck,,highest Seebeck coefficient,[0.000196],[573.0],0.000196,573.0
+18184,Bi2Te3,Seebeck,,S,[0.000215],[300.0],0.000215,300.0
+18185,CoSb3,Seebeck,,S,[0.0005570000000000001],[295],0.000557,295.0
+18186,S2Ti,Seebeck,,Seebeck coefficient,[-0.002],[295],-0.002,295.0
+18187,GeIrTa,Seebeck,,Seebeck coefficient,[0.00028],[100.0],0.00028000000000000003,100.0
+18188,Bi2O2Se,Seebeck,,Seebeck coefficient,[-0.000542],[523.0],-0.000542,523.0
+18189,Au,Seebeck,,Seebeck coefficient,[0.000117],[550.0],0.000117,550.0
+18195,Se,Seebeck,,S,[0.0005499999999999999],[500.0],0.00055,500.0
+18196,PbTe,Seebeck,,Seebeck coefficient,[0.00039999999999999996],[300.0],0.0004,300.0
+18197,MgO,Seebeck,,S,[0.00284],[300.0],0.0028399999999999996,300.0
+18198,MgO,Seebeck,,S,[0.003],[300.0],0.003,300.0
+18199,CuDyTe2,Seebeck,,Seebeck coefficient,[3.9e-05],[295],3.9e-05,295.0
+18200,Ag14Eu5NaTe20,Seebeck,,S,[7e-05],[295],7.000000000000001e-05,295.0
+18201,FeSe,Seebeck,,S,[-8e-06],[1373.0],-8e-06,1373.0
+18202,Mg,Seebeck,,S,[0.000102],[295],0.000102,295.0
+18203,Textured,Seebeck,,maximum Seebeck coefficient,[-0.000399],[1073.0],-0.000399,1073.0
+18204,O7Sr3Ti2,Seebeck,,maximum Seebeck coefficient,[-0.000399],[1073.0],-0.000399,1073.0
+18205,Al4CeNi,Seebeck,,S,"[2.9999999999999997e-05, 3.9999999999999996e-05]",[150.0],3.5e-05,150.0
+18206,Fe20SbSn9Ti10,Seebeck,,S,[1.8e-05],[295],1.8e-05,295.0
+18207,CaCo2O4,Seebeck,,S,[0.000147],[380.0],0.000147,380.0
+18208,AlFe2Nb,Seebeck,,maximum Seebeck coefficient,[0.00021999999999999998],[800.0],0.00022,800.0
+18209,AlFe2Nb,Seebeck,,Seebeck coefficient,[0.00021999999999999998],[800.0],0.00022,800.0
+18210,S,Seebeck,,Seebeck coefficient,[0.0001108],[295],0.00011079999999999998,295.0
+18211,CSi,Seebeck,,maximum S,[0.000281],[623.0],0.000281,623.0
+18212,Bi4Cu4Mn3,Seebeck,,Seebeck coefficient,[3.09e-05],[490.0],3.09e-05,490.0
+18213,Bi4Cu4Mn3,Seebeck,,maximum Seebeck coefficient,[3.09e-05],[490.0],3.09e-05,490.0
+18214,CMNTsW,Seebeck,,Seebeck coefficient,[-1.1e-05],[300.0],-1.1e-05,300.0
+18215,CMNTW,Seebeck,,n - type Seebeck coefficient,[-5.6e-05],[295],-5.6000000000000006e-05,295.0
+18216,CMNTW,Seebeck,,Seebeck coefficient,[-5.6e-05],[295],-5.6000000000000006e-05,295.0
+18217,FeSe,Seebeck,,Seebeck coefficient,[4.9999999999999996e-06],[280.0],5e-06,280.0
+18218,GeTe,Seebeck,,Seebeck coefficient,[3.16e-05],[295],3.16e-05,295.0
+18219,CdGe19Te20,Seebeck,,Seebeck coefficient,[5.239999999999999e-05],[295],5.24e-05,295.0
+18220,GeTe,Seebeck,,Seebeck coefficient,[0.0001584],[750.0],0.0001584,750.0
+18221,Sb3Zn4,Seebeck,,Seebeck coefficient,[0.0001108],[295],0.00011079999999999998,295.0
+18222,O3SrTi,Seebeck,,Seebeck coefficient,[0.000328],[1027.0],0.000328,1027.0
+18223,BCOS,Seebeck,,Seebeck coefficient,[0.000175],[873.0],0.000175,873.0
+18224,FeO6Sr2Ti,Seebeck,,Seebeck coefficient,[0.00029],[1124.0],0.00029,1124.0
+18225,Fe2O5Ti,Seebeck,,Seebeck coefficient,[-0.00037],"[286.0, 1000.0]",-0.0003700000000000001,643.0
+18226,CeOSbZn,Seebeck,,Seebeck coefficient,[0.000129],[330.0],0.000129,330.0
+18227,BiCuOSe,Seebeck,,Seebeck coefficient,[0.00035],[293.0],0.00035000000000000005,293.0
+18228,Bi2Te3,Seebeck,,Seebeck coefficient,[0.00020999999999999998],[295],0.00021,295.0
+18229,BiCuOSe,Seebeck,,S,[0.000235],[300.0],0.00023500000000000002,300.0
+18230,Ni50Se103,Seebeck,,Seebeck coefficient,[9.27e-06],[323.0],9.27e-06,323.0
+18232,NiSe2,Seebeck,,α,[-1.0618e-05],[300.0],-1.0617999999999999e-05,300.0
+18234,CuIrRhS4,Seebeck,,S,[-1.26e-07],[300.1],-1.2600000000000002e-07,300.1
+18235,Ni2SbTe2,Seebeck,,Seebeck coefficient,[1.5e-06],[295],1.5e-06,295.0
+18236,S2Ti,Seebeck,,Seebeck coefficient,[-0.00025],[300.0],-0.00025,300.0
+18237,NSTW,Seebeck,,S,[3.9999999999999996e-05],[300.0],4e-05,300.0
+18238,CSTi2,Seebeck,,Seebeck coefficient,[-1.1e-05],[295],-1.1e-05,295.0
+18240,Co10Sb9SnZr10,Seebeck,,α,[0.00010499999999999999],[295],0.000105,295.0
+18241,Cu59Sb20Se80,Seebeck,,Seebeck coefficient,[0.0003],[523.0],0.00030000000000000003,523.0
+18242,SSn,Seebeck,,Seebeck coefficient,[0.00039999999999999996],[295],0.0004,295.0
+18243,Cu4Se6Tl3U,Seebeck,,maximum thermopower,[0.0015],[300.0],0.0015,300.0
+18245,OZn,Seebeck,,S,[-9.809999999999999e-05],[500.0],-9.81e-05,500.0
+18247,Cu40S17Se3,Seebeck,,α,[0.0003315],[723.0],0.0003315,723.0
+18248,AlMnPd,Seebeck,,thermopower,[7.999999999999999e-05],[295],8e-05,295.0
+18249,GeTe,Seebeck,,Seebeck coefficient,[0.00016099999999999998],[773.0],0.00016099999999999998,773.0
+18250,Co3S2Sn2,Seebeck,,Seebeck coefficient,[-4.8e-05],[300.0],-4.8e-05,300.0
+18251,Ca3Co4O9,Seebeck,,Seebeck coefficient,[0.000125],[323.0],0.000125,323.0
+18252,Ca3Co4O9,Seebeck,,Seebeck coefficient,"[9.999999999999999e-05, 0.00019999999999999998]",[295],0.00015,295.0
+18253,CPS,Seebeck,,Seebeck coefficient,[0.000144],[873.0],0.000144,873.0
+18254,CP900S,Seebeck,,Seebeck coefficient,[0.00011899999999999999],[873.0],0.000119,873.0
+18255,CNTs,Seebeck,,S,[-30000000.0],[295],-30000000.0,295.0
+18256,AINP,Seebeck,,thermopower,[-3e-06],[295],-3e-06,295.0
+18257,CaCo10Ho9O30,Seebeck,,Seebeck coefficient,[0.000234],[363.0],0.000234,363.0
+18258,OZn,Seebeck,,Seebeck coefficient,[-0.00041],[295],-0.0004100000000000001,295.0
+18259,SnTe5Tl2,Seebeck,,Seebeck coefficient,[0.00014734999999999998],[300.0],0.00014735,300.0
+18260,Bi2Te3,Seebeck,,Seebeck coefficient,[-6.8e-05],[573.0],-6.8e-05,573.0
+18261,CNTs,Seebeck,,S,[2.9e-05],[295],2.8999999999999997e-05,295.0
+18262,Co2NaO4,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[300.0],0.0001,300.0
+18263,CaPr,Seebeck,,S,[-0.00017999999999999998],[250.0],-0.00018,250.0
+18265,La487Ni1200Sn2400,Seebeck,,Seebeck coefficient,[-2.75e-06],[80.0],-2.75e-06,80.0
+18266,Gd9Ni24Sn49,Seebeck,,Seebeck coefficient,[-4.4e-06],[80.0],-4.4e-06,80.0
+18267,Bi19Cu20O20PbS20,Seebeck,,Seebeck coefficient,[7e-05],[295],7.000000000000001e-05,295.0
+18268,BiCuOS,Seebeck,,Seebeck coefficient,[0.00043],[295],0.00043,295.0
+18269,Mn100Si173,Seebeck,,Seebeck coefficient,[0.000156],[1150.0],0.000156,1150.0
+18272,Ba8Ga15Ge31,Seebeck,,Seebeck coefficient,[-4.4999999999999996e-05],[295],-4.5e-05,295.0
+18273,B77O10,Seebeck,,Seebeck coefficient,"[0.00045, 0.00019999999999999998]",[500.0],0.000325,500.0
+18274,CoCrFeSi,Seebeck,,S,[1.4999999999999999e-05],[295],1.5e-05,295.0
+18275,CoCrFeSi,Seebeck,,Seebeck coefficient,[1.9999999999999998e-05],[295],2e-05,295.0
+18276,CoSb3,Seebeck,,p - type Seebeck coefficient,[0.000367],[450.0],0.000367,450.0
+18277,Al9Cu10FeO20,Seebeck,,Seebeck coefficient,[0.00041799999999999997],[873.0],0.000418,873.0
+18279,SbZn,Seebeck,,highest Seebeck coefficient,[0.00035999999999999997],[573.0],0.00036,573.0
+18280,SbZn,Seebeck,,Seebeck coefficient,[0.00035999999999999997],[573.0],0.00036,573.0
+18281,Fe3O4,Seebeck,,Seebeck coefficient,[-6.5e-05],[300.0],-6.500000000000001e-05,300.0
+18282,Fe3O4,Seebeck,,Seebeck coefficient,[0.00013],[480.0],0.00013000000000000002,480.0
+18283,Fe3O4,Seebeck,,Seebeck coefficient,[0.00041],[300.0],0.0004100000000000001,300.0
+18284,O2Sn,Seebeck,,α,[-0.0001435],[673.0],-0.00014350000000000002,673.0
+18285,S,Seebeck,,S,[-2.96e-05],[295],-2.96e-05,295.0
+18286,SeSn,Seebeck,,Seebeck coefficient,[0.00041069999999999995],[623.0],0.0004107,623.0
+18288,Ca3Co4O9,Seebeck,,S,[0.00011999999999999999],[295],0.00012000000000000003,295.0
+18289,Cu17S10,Seebeck,,Seebeck coefficient,[9.999999999999999e-06],[295],1e-05,295.0
+18290,Bi2Te3,Seebeck,,S,[0.00019999999999999998],[300.0],0.0002,300.0
+18291,CuGaTe2,Seebeck,,thermopower,[0.00041],[300.0],0.0004100000000000001,300.0
+18293,Bi2Te3,Seebeck,,Seebeck coefficient,[9.999999999999999e-06],"[100.0, 350.0]",1e-05,225.0
+18294,Bi4Te5,Seebeck,,Seebeck coefficient,[-0.000175],"[100.0, 350.0]",-0.000175,225.0
+18296,Bi20Se3Te27,Seebeck,,Seebeck coefficient,[-0.000195],[295],-0.000195,295.0
+18297,CuFeS2,Seebeck,,S,[7.999999999999999e-05],[323.0],8e-05,323.0
+18298,Cu200Se99Te,Seebeck,,S,[0.000312],[720.0],0.000312,720.0
+18299,OZn,Seebeck,,Seebeck coefficient,[0.0001415],[343.0],0.0001415,343.0
+18300,Co5Nb5Sb4Sn,Seebeck,,Seebeck coefficient,[0.00019099999999999998],[973.0],0.000191,973.0
+18301,IPb250Te249,Seebeck,,Seebeck coefficient,[5.9e-05],[295],5.9e-05,295.0
+18303,CuS,Seebeck,,Seebeck coefficient,[1.83e-06],[300.0],1.83e-06,300.0
+18304,FeSb2,Seebeck,,S,[-0.045],[10.0],-0.045,10.0
+18305,Bi2Te3,Seebeck,,Seebeck coefficient,[0.000345],[300.0],0.00034500000000000004,300.0
+18306,Cu197Se100,Seebeck,,Seebeck coefficient,[8e-07],[800.0],8e-07,800.0
+18307,Sb2Te3,Seebeck,,maximum Seebeck coefficient,[0.00018999999999999998],[295],0.00018999999999999998,295.0
+18308,Bi2S3,Seebeck,,Seebeck coefficient,[0.000455],[673.0],0.000455,673.0
+18309,Bi2S3,Seebeck,,Seebeck coefficient,[0.00015],[773.0],0.00015,773.0
+18310,Al7MnPd2,Seebeck,,thermopower,[8.499999999999999e-05],[295],8.499999999999999e-05,295.0
+18311,COS,Seebeck,,Seebeck coefficient,[0.000138],[300.0],0.000138,300.0
+18312,AlFe2V,Seebeck,,Seebeck coefficient,[-0.00013],[300.0],-0.00013000000000000002,300.0
+18313,SbTh,Seebeck,,S,[7.5e-05],[500.0],7.5e-05,500.0
+18314,Al10Ce21Nd9,Seebeck,,S,[1.33e-05],[14.0],1.3300000000000001e-05,14.0
+18315,PbTe,Seebeck,,Seebeck coefficient,[-0.004088],[295],-0.0040880000000000005,295.0
+18316,GaNbRu2,Seebeck,,Seebeck coefficient,[1.9999999999999998e-05],[295],2e-05,295.0
+18317,AlRu2V,Seebeck,,S,[-1.33e-05],[295],-1.3300000000000001e-05,295.0
+18318,Al3GaRu8V4,Seebeck,,S,[-1.0599999999999998e-05],[295],-1.06e-05,295.0
+18319,AlGa3Ru8V4,Seebeck,,S,[-1.82e-05],[295],-1.82e-05,295.0
+18320,AlGa3Ru8V4,Seebeck,,S,[1.82e-05],[295],1.82e-05,295.0
+18321,GaNbRu2,Seebeck,,S,[1.9999999999999998e-05],[295],2e-05,295.0
+18322,Al20Fe39V21,Seebeck,,S,[0.00013],[295],0.00013000000000000002,295.0
+18323,Co2NaO4,Seebeck,,thermopower,[9.999999999999999e-05],[300.0],0.0001,300.0
+18324,Co100O279Sr90Th10,Seebeck,,S,[-2e-06],[295],-2e-06,295.0
+18325,CePd3,Seebeck,,Seebeck coefficient,[0.00011499999999999999],[125.0],0.000115,125.0
+18326,NaO3Ta,Seebeck,,Seebeck coefficient,[-0.0005],[800.0],-0.0005,800.0
+18327,Co17Fe3Sb60,Seebeck,,maximal Seebeck coefficient,[0.00014877],[550.0],0.00014877,550.0
+18328,As12LaOs4,Seebeck,,thermoelectric power,[4e-06],[103.0],4e-06,103.0
+18329,BiSbTe,Seebeck,,Seebeck coefficient,[0.000192],[295],0.000192,295.0
+18330,N2SrTi,Seebeck,,p - type Seebeck coefficient,[0.00019999999999999998],[500.0],0.0002,500.0
+18331,Bi11MgSr14,Seebeck,,thermopower,[0.00013],[1073.0],0.00013000000000000002,1073.0
+18333,Ca14MgSb11,Seebeck,,S,[0.000125],[295],0.000125,295.0
+18335,Bi10Se3Te12,Seebeck,,highest Seebeck coefficient,[-0.00019099999999999998],[448.0],-0.000191,448.0
+18336,MgO,Seebeck,,Seebeck coefficient,[3e-07],[295],3e-07,295.0
+18337,Ni333Zr667,Seebeck,,thermopower,[1.95e-06],[295],1.95e-06,295.0
+18338,Ni333Zr667,Seebeck,,thermoelectric power,[1.94e-06],[295],1.94e-06,295.0
+18339,Cu199GaTe100,Seebeck,,maximum Seebeck coefficient,[0.000365],[745.0],0.000365,745.0
+18340,Cu2Te,Seebeck,,maximum Seebeck coefficient,[4.9999999999999996e-05],[745.0],5e-05,745.0
+18341,Cu2Te,Seebeck,,Seebeck coefficient,[4.4999999999999996e-05],[600.0],4.5e-05,600.0
+18342,Cu197Ga3Te100,Seebeck,,S,[7e-05],[600.0],7.000000000000001e-05,600.0
+18343,Cu5FeS4,Seebeck,,Seebeck coefficient,[-0.0006],[295],-0.0006000000000000001,295.0
+18344,Cu63Fe12S50,Seebeck,,Seebeck coefficient,[4.9999999999999996e-05],[295],5e-05,295.0
+18345,O3SrTi,Seebeck,,Seebeck coefficient,"[4.9999999999999996e-05, 0.00015]",[373.0],0.0001,373.0
+18348,Co2NaO4,Seebeck,,S,[9.999999999999999e-05],[300.0],0.0001,300.0
+18350,Cu40Se23,Seebeck,,α,[0.000245],[623.0],0.000245,623.0
+18351,Cu40Se23,Seebeck,,α,[0.000204],[773.0],0.000204,773.0
+18352,Cu10Mg2Mn9O20,Seebeck,,S,[0.00048499999999999997],[295],0.000485,295.0
+18353,SnTe,Seebeck,,Seebeck coefficient,[0.00022999999999999998],[920.0],0.00022999999999999998,920.0
+18354,SnTe,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[923.0],0.0002,923.0
+18355,SnTe,Seebeck,,Seebeck coefficient,[0.00022999999999999998],[920.0],0.00022999999999999998,920.0
+18356,Bi2S3,Seebeck,,Seebeck coefficient,[-4.2e-05],[295],-4.2e-05,295.0
+18358,AINP,Seebeck,,Seebeck coefficient,[-4.28e-05],[295],-4.28e-05,295.0
+18359,BiCuOSe,Seebeck,,Seebeck coefficient,[0.000425],[923.0],0.000425,923.0
+18360,BiCuOSe,Seebeck,,Seebeck coefficient,[0.000357],[300.0],0.000357,300.0
+18361,Bi20CoCu19O20Se20,Seebeck,,Seebeck coefficient,[0.00046499999999999997],[305.0],0.000465,305.0
+18362,Ca33Co100O200,Seebeck,,Seebeck coefficient,[8.099999999999999e-05],[300.0],8.099999999999999e-05,300.0
+18363,Co100O200Sr29,Seebeck,,Seebeck coefficient,[7.8e-05],[300.0],7.8e-05,300.0
+18364,TeZr,Seebeck,,n - type thermopower,[-2.4e-10],[120.0],-2e-10,120.0
+18365,Hf4SeoTe19,Seebeck,,Thermopower,[2e-10],[95.0],2e-10,95.0
+18366,BDST,Seebeck,,thermopower,[1.4e-06],[293.0],1.4e-06,293.0
+18368,Sn24Te25Zn2,Seebeck,,S,[0.000127],[295],0.000127,295.0
+18369,Cu3SbSe3,Seebeck,,Seebeck coefficient,[0.00018999999999999998],[550.0],0.00018999999999999998,550.0
+18370,BiSn49Te50,Seebeck,,Seebeck coefficient,[1.9999999999999998e-05],[295],2e-05,295.0
+18371,SbSiTe3,Seebeck,,Seebeck coefficient,[0.00011999999999999999],[300.0],0.00012000000000000003,300.0
+18372,SbSiTe3,Seebeck,,S,[0.0002381],[295],0.0002381,295.0
+18373,O3SrTi,Seebeck,,maximum Seebeck coefficient,[-0.000328],[1073.0],-0.000328,1073.0
+18374,O3SrTi,Seebeck,,Seebeck coefficient,[-0.000328],[1073.0],-0.000328,1073.0
+18375,Cu5FeS4,Seebeck,,S,[0.000156],[330.0],0.000156,330.0
+18377,NaPb24Te25,Seebeck,,S,[7e-05],[300.0],7.000000000000001e-05,300.0
+18378,Co50InSb150,Seebeck,,α,[0.000259],[300.0],0.000259,300.0
+18379,BaCu2Te2,Seebeck,,S,[8.829999999999999e-05],[295],8.829999999999999e-05,295.0
+18380,CNSTW,Seebeck,,Seebeck coefficient,[4.35e-05],[298.0],4.35e-05,298.0
+18381,CNSTW,Seebeck,,Seebeck coefficient,[1.73e-05],[298.0],1.73e-05,298.0
+18382,N,Seebeck,,Seebeck coefficient,[0.2978],[5.0],0.2978,5.0
+18384,S2Sn,Seebeck,,Seebeck coefficient,[0.0347],[300.0],0.0347,300.0
+18385,Co20La19O60Sr,Seebeck,,S,[0.0007],[300.0],0.0007,300.0
+18386,OZn,Seebeck,,α,[-0.000164],[1000.0],-0.000164,1000.0
+18387,FeS2,Seebeck,,Seebeck coefficient,[0.0003],[295],0.00030000000000000003,295.0
+18388,FeSc2Si,Seebeck,,Seebeck coefficient,[-0.00059202],[295],-0.00059202,295.0
+18389,FeGeSc2,Seebeck,,Seebeck coefficient,[-0.00060938],[295],-0.00060938,295.0
+18390,FeSc2Si,Seebeck,,Seebeck coefficient,[-0.00059202],[295],-0.00059202,295.0
+18391,Co2NaO4,Seebeck,,Seebeck coefficient,[9.999999999999999e-05],[300.0],0.0001,300.0
+18392,Ca3Co4O9,Seebeck,,Seebeck coefficient,[9.099999999999999e-05],[295],9.1e-05,295.0
+18393,B4C,Seebeck,,Seebeck coefficient,[0.00075],[1073.0],0.00075,1073.0
+18394,B4C,Seebeck,,Seebeck coefficient,[0.0007],[1173.0],0.0007,1173.0
+18395,Ca3Co4O9,Seebeck,,Seebeck coefficient,[0.00011929999999999999],[120.0],0.0001193,120.0
+18396,Ca3Co4O9,Seebeck,,Seebeck coefficient,[0.00011929999999999999],[300.0],0.0001193,300.0
+18397,AlFe2V,Seebeck,,Seebeck coefficient,[40.0],[295],40.0,295.0
+18399,SeSn,Seebeck,,Seebeck coefficient,[0.000479],[298.0],0.000479,298.0
+18400,Bi2Te3,Seebeck,,Seebeck coefficient,[-4.671e-05],[295],-4.671e-05,295.0
+18401,Co2NaxO4,Seebeck,,thermoelectric power,[0.0001],[300.0],0.0001,300.0
+18402,Ca3Co2O6,Seebeck,,thermopower,[0.0005],[295],0.0005,295.0
+18403,InSb,Seebeck,,thermopower,[9.999999999999999e-05],[295],0.0001,295.0
+18404,As10F3Fe10Nd10O7,Seebeck,,Seebeck coefficient,[-0.00014199999999999998],[80.0],-0.00014199999999999998,80.0
+18405,Mg2Si,Seebeck,,Seebeck coefficient,[0.00057],[295],0.0005700000000000001,295.0
+18406,PbTe,Seebeck,,highest thermopower,[0.000486],[600.0],0.00048600000000000005,600.0
+18407,Co400In9Nd3Sb1216,Seebeck,,S,[0.00022999999999999998],[660.0],0.00022999999999999998,660.0
+18409,Co50Na37O100,Seebeck,,S,[6.4e-05],[295],6.4e-05,295.0
+18410,CeFe4Sb12,Seebeck,,highest Seebeck coefficient,[0.00014],[800.0],0.00014,800.0
+18411,Cl3Fe,Seebeck,,Seebeck coefficient,[7.4e-05],[295],7.4e-05,295.0
+18412,AlMn2V,Seebeck,,highest Seebeck coefficient,[2.6399999999999998e-05],[717.0],2.64e-05,717.0
+18413,Cu,Seebeck,,α,[0.000263],[298.0],0.000263,298.0
+18415,AgSbTe2,Seebeck,,Seebeck coefficient,[0.00073],[680.0],0.0007300000000000001,680.0
+18419,GeSe,Seebeck,,Seebeck coefficient,[0.000177],[295],0.000177,295.0
+18420,Te4Tl4Zr,Seebeck,,Seebeck coefficient,[0.00033],[320.0],0.00033000000000000005,320.0
+18421,PbTe,Seebeck,,S,"[0.0001, 0.0002]",[300.0],0.00015,300.0
+18422,Cu2Se,Seebeck,,S,[0.0003],[973.0],0.00030000000000000003,973.0
+18423,Cu2O,Seebeck,,S,"[0.0009000000000000001, 0.0002]",[295],0.00055,295.0
+18424,FeSi2,Seebeck,,Seebeck coefficient,[-0.000225],[880.0],-0.000225,880.0
+18425,PtS,Seebeck,,S,[-1.566e-05],[900.0],-1.566e-05,900.0
+18426,Fe2SiTi,Seebeck,,thermoelectric power,"[0.0003, 0.00015999999999999999]",[295],0.00022999999999999998,295.0
+18427,CrGeTi2,Seebeck,,Seebeck coefficient,[0.00015222],[105.17],0.00015222,105.17
+18428,OZn,Seebeck,,Seebeck coefficient,"[3.7999999999999995e-05, 5.3e-05]",[473.0],4.55e-05,473.0
+18430,Fe60Ni20Sb240Yb19,Seebeck,,S,[0.000157],[295],0.000157,295.0
+18431,Co5Fe3Sb24Yb,Seebeck,,S,[6.599999999999999e-05],[295],6.599999999999999e-05,295.0
+18432,Ca17Ce5Co253Fe147Sb1200,Seebeck,,S,[7.5e-05],[295],7.5e-05,295.0
+18433,Ca98Mn99NbO300Yb2,Seebeck,,thermopower,[-0.000117],[1000.0],-0.000117,1000.0
+18434,O2Sn,Seebeck,,Seebeck coefficient,[0.00046199999999999995],[450.0],0.000462,450.0
+18435,MoS2,Seebeck,,thermopower,"[1e-07, 2e-07]",[295],1.5e-07,295.0
+18436,Ag,Seebeck,,thermopower,[-3.5e-05],[295],-3.5e-05,295.0
+18438,O2Te,Seebeck,,thermopower,[0.000285],[295],0.000285,295.0
+18439,BIn2Sb38Te60,Seebeck,,S,[0.000138],[323.0],0.000138,323.0
+18440,Co2NaO4,Seebeck,,thermopower,[9.999999999999999e-05],[300.0],0.0001,300.0
+18441,CoSb3,Seebeck,,Seebeck coefficient,[-8.8e-05],"[323.0, 473.0]",-8.8e-05,398.0
+18443,SSi,Seebeck,,thermoelectric power,[0.00164],[300.0],0.0016400000000000002,300.0
+18444,CeFe4Sb12,Seebeck,,Seebeck coefficient,[7.599999999999999e-05],[295],7.599999999999999e-05,295.0
+18445,BaBi7Cu8O8Se8,Seebeck,,Seebeck coefficient,[8.499999999999999e-05],[300.0],8.499999999999999e-05,300.0
+18446,BST,Seebeck,,maximum S,[0.00029499999999999996],[300.0],0.000295,300.0
+18447,BST,Seebeck,,maximum S,[0.000194],[300.0],0.000194,300.0
+18448,SnTe,Seebeck,,Seebeck coefficient,[3.9999999999999996e-05],[295],4e-05,295.0
+18449,Mn3Sn100Te100,Seebeck,,Seebeck coefficient,[3.5e-05],[295],3.5e-05,295.0
+18450,Mn7Sn100Te100,Seebeck,,Seebeck coefficient,[4.9999999999999996e-05],[295],5e-05,295.0
+18451,SnTe,Seebeck,,Seebeck coefficient,[0.00013],[820.0],0.00013000000000000002,820.0
+18452,Mn7Sn100Te100,Seebeck,,Seebeck coefficient,[0.000225],[820.0],0.000225,820.0
+18453,Mn7Sn100Te100,Seebeck,,Seebeck coefficient,[0.00027],[920.0],0.00027,920.0
+18454,CoSb3,Seebeck,,Seebeck coefficient,[0.000215],[295],0.000215,295.0
+18455,CoP3,Seebeck,,Seebeck coefficient,[8.781999999999999e-07],[50.0],8.781999999999999e-07,50.0
+18456,CoP3,Seebeck,,Seebeck coefficient,[4.4e-05],[300.0],4.4e-05,300.0
+18457,As3Ir,Seebeck,,Seebeck coefficient,[4.46e-05],[50.0],4.46e-05,50.0
+18458,As3Rh,Seebeck,,Seebeck coefficient,[2.6473e-06],[800.0],2.6473e-06,800.0
+18459,PbTe,Seebeck,,Seebeck coefficient,[0.00034899999999999997],[400.0],0.000349,400.0
+18460,PbTe,Seebeck,,S,[0.0003131],[295],0.0003131,295.0
+18461,Ge87P3Sb10Te100,Seebeck,,Seebeck coefficient,[0.000225],[773.0],0.000225,773.0
+18462,CS2,Seebeck,,Seebeck coefficient,[-2.35e-05],[295],-2.35e-05,295.0
+18463,Bi2Te3,Seebeck,,maximum S,[0.0003],[295],0.00030000000000000003,295.0
+18464,BaCu2Se2,Seebeck,,S,[1.9999999999999998e-05],[20.0],2e-05,20.0
+18465,Ba9Cu20NaSe20,Seebeck,,Seebeck coefficient,[7.3e-05],[295],7.3e-05,295.0
+18466,Ag3NaSe200Sn196,Seebeck,,Seebeck coefficient,[0.000335],[673.0],0.000335,673.0
+18467,FeSb2,Seebeck,,S,[-8.4e-05],[20.0],-8.4e-05,20.0
+18468,Bi2Te3,Seebeck,,S,[-0.00013],[500.0],-0.00013000000000000002,500.0
+18469,BiSb3Te6,Seebeck,,S,[0.000256],[500.0],0.000256,500.0
+18470,BiSb3Te6,Seebeck,,S,[4.9999999999999996e-05],[500.0],5e-05,500.0
+18472,NiO,Seebeck,,S,[0.000101],[300.0],0.000101,300.0
+18474,Bismuth,Seebeck,,Seebeck coefficient,[1e-06],[295],1e-06,295.0
+18475,Al8CeFe2,Seebeck,,thermoelectric power,[1.9999999999999998e-05],[150.0],2e-05,150.0
+18476,Sb2Te3,Seebeck,,Seebeck coefficient,[0.000118],[295],0.000118,295.0
+18477,BiLaMn2O6,Seebeck,,Seebeck coefficient,[0.000133],[295],0.000133,295.0
+18478,OZn,Seebeck,,Seebeck coefficient,[-5.6e-05],[300.0],-5.6000000000000006e-05,300.0
+18479,OZn,Seebeck,,Seebeck coefficient,[-6.5e-05],[300.0],-6.500000000000001e-05,300.0
+18480,OZn,Seebeck,,Seebeck coefficient,[-5.9999999999999995e-05],[300.0],-6.0000000000000015e-05,300.0
+18481,OZn,Seebeck,,Seebeck coefficient,[-0.00011399999999999999],[295],-0.000114,295.0
+18482,OZn,Seebeck,,Seebeck coefficient,[-5.6e-05],[300.0],-5.6000000000000006e-05,300.0
+18483,OZn,Seebeck,,Seebeck coefficient,[-5.6e-05],[300.0],-5.6000000000000006e-05,300.0
+18484,Sb2Te3,Seebeck,,thermoelectric power,[9.099999999999999e-05],[300.0],9.1e-05,300.0
+18485,BiSb3Te6,Seebeck,,thermoelectric power,[0.000168],[300.0],0.000168,300.0
+18486,BiSb3Te6,Seebeck,,maximum S,[0.000193],[375.0],0.000193,375.0
+18487,Ca3OSi,Seebeck,,Seebeck coefficient,[8.11305e-05],[200.0],8.11305e-05,200.0
+18488,Ca3OSi,Seebeck,,maximum Seebeck coefficient,[0.0001290845],[800.0],0.0001290845,800.0
+18489,S2Sn,Seebeck,,Seebeck coefficient,[0.000603],[673.0],0.000603,673.0
+18490,CoO2,Seebeck,,Seebeck coefficient,[5.4999999999999995e-05],[295],5.5e-05,295.0
+18491,CoO2,Seebeck,,Seebeck coefficient,[0.00025],[1000.0],0.00025,1000.0
+18492,SSn,Seebeck,,Seebeck coefficient,[0.000285],[323.0],0.000285,323.0
+18494,Sb10Zn13,Seebeck,,S,[0.000183],[600.0],0.000183,600.0
+18495,Bi2Te3,Seebeck,,S,[-0.00020899999999999998],[300.0],-0.000209,300.0
+18496,Sb2Te3,Seebeck,,S,[9.999999999999999e-05],[300.0],0.0001,300.0
+18497,Bi2Te3,Seebeck,,Seebeck coefficient,[-7.999999999999999e-05],[300.0],-8e-05,300.0
+18498,BiSe,Seebeck,,Seebeck coefficient,[-5.9999999999999995e-05],[300.0],-6.0000000000000015e-05,300.0
+18499,SnTe,Seebeck,,S,[7.999999999999999e-05],[295],8e-05,295.0
+18500,Bi2PbTe4,Seebeck,,S,[-0.000102],[295],-0.000102,295.0
+18501,Ba2Sb2Se5,Seebeck,,thermopower,[-0.00062],[300.0],-0.00062,300.0
+18502,SSn,Seebeck,,Seebeck coefficient,[0.000554],[295],0.000554,295.0
+18503,SSn,Seebeck,,highest Seebeck coefficient,[-0.000185],[295],-0.000185,295.0
+18504,Bi2Te3,Seebeck,,highest Seebeck coefficient,[-0.000135],[295],-0.000135,295.0
+18506,GeSe,Seebeck,,Seebeck coefficient,[-0.00025],[923.0],-0.00025,923.0
+18507,Pb995Sb4Se1000,Seebeck,,Seebeck coefficient,[-0.00019999999999999998],[923.0],-0.0002,923.0
+18509,Bi25Sb85Te156,Seebeck,,Seebeck coefficient,[0.000195],[295],0.000195,295.0
+18510,Bi5Sb17Te30,Seebeck,,Seebeck coefficient,[0.00010999999999999999],[295],0.00011,295.0
+18512,Bi2Se3,Seebeck,,highest Seebeck coefficient,[0.00012299999999999998],[350.0],0.00012299999999999998,350.0
+18513,Ge2PSi2,Seebeck,,S,[-0.00039124],[1023.0],-0.00039124,1023.0
+18514,GeP2Si,Seebeck,,S,[-0.00034388999999999996],[1023.0],-0.00034389,1023.0
+18516,Co4FeSb5Zr5,Seebeck,,maximum Seebeck coefficient,[0.000139],[900.0],0.000139,900.0
+18517,Bi2Te3,Seebeck,,Seebeck coefficient,[-0.0001456],[300.0],-0.0001456,300.0
+18518,AgCuSe,Seebeck,,Seebeck coefficient,[-9.6e-05],[300.0],-9.6e-05,300.0
+18519,AlCoCrFe,Seebeck,,Seebeck coefficient,[-4.6e-05],[295],-4.6e-05,295.0
+18520,O7Ti4,Seebeck,,Seebeck coefficient,[-3.3799999999999995e-05],[295],-3.3799999999999995e-05,295.0
+18521,O17Ti9,Seebeck,,Seebeck coefficient,[-0.00016199999999999998],[295],-0.00016199999999999998,295.0
+18522,O17Ti9,Seebeck,,Seebeck coefficient,[0.00015],[295],0.00015,295.0
+18523,Cu200SbSe300Sn99,Seebeck,,highest Seebeck coefficient,[0.00029499999999999996],[610.0],0.000295,610.0
+18524,SbZn,Seebeck,,Seebeck coefficient,"[0.00019999999999999998, 0.00039999999999999996]",[295],0.00030000000000000003,295.0
+18525,Sb3Zn4,Seebeck,,α,[9.999999999999999e-05],[295],0.0001,295.0
+18526,Bi2Te3,Seebeck,,Seebeck coefficient,[-0.000175],[290.0],-0.000175,290.0
+18527,Bi2Te3,Seebeck,,Seebeck coefficient,[-0.000175],[290.0],-0.000175,290.0
+18528,Bi4Te5,Seebeck,,Seebeck coefficient,[-2.9999999999999997e-05],[290.0],-3.0000000000000008e-05,290.0
+18529,Bi2Te3,Seebeck,,Seebeck coefficient,[-0.00021999999999999998],[310.0],-0.00022,310.0
+18530,Cu9S5,Seebeck,,α,[9.6e-05],"[323.0, 773.0]",9.6e-05,548.0
+18531,CSi,Seebeck,,α,[0.000111],[773.0],0.00011100000000000001,773.0
+18532,CSi,Seebeck,,α,[0.000117],[773.0],0.000117,773.0
+18533,Fe2O3,Seebeck,,peak Seebeck coefficient,[0.00165],"[270.0, 290.0]",0.0016500000000000002,280.0
+18534,CoSb3,Seebeck,,Seebeck coefficient,[0.000155],[660.0],0.000155,660.0
+18535,CoSb3,Seebeck,,Seebeck coefficient,[0.000155],[660.0],0.000155,660.0
+18536,Bi29K5Pb14Se60,Seebeck,,Seebeck coefficient,[-0.00025],[295],-0.00025,295.0
+18537,CrSi2,Seebeck,,S,[9.999999999999999e-05],[300.0],0.0001,300.0
+18538,Bi5La5Mn10O31,Seebeck,,Seebeck coefficient,[0.000133],[300.0],0.000133,300.0
+18539,BiLaMn4,Seebeck,,S,[8.099999999999999e-05],[295],8.099999999999999e-05,295.0
+18540,CoCu2O2Sr2Te2,Seebeck,,S,[10.0],[295],10.0,295.0
+18541,SnTe,Seebeck,,S,[2.3e-05],[295],2.3e-05,295.0
+18542,SnTe,Seebeck,,S,[9.499999999999999e-05],[823.0],9.5e-05,823.0
+18543,OZn,Seebeck,,Seebeck coefficient,[0.00019999999999999998],[1273.0],0.0002,1273.0
+18544,CaMnO3,Seebeck,,Seebeck coefficient,[-9.999999999999999e-05],[300.0],-0.0001,300.0
